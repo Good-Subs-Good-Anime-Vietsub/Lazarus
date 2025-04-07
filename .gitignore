@@ -13,6 +13,7 @@
 !*.sup
 !*/
 *keyframes.txt
+*keyframes.log
 
 # Fonts
 !*.otf
