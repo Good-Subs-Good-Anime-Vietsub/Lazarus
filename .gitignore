@@ -12,8 +12,8 @@
 !*.sub
 !*.sup
 !*/
-*keyframes.txt
-*keyframes.log
+!*keyframes.txt
+!*keyframes.log
 
 # Fonts
 !*.otf
