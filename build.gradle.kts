@@ -15,7 +15,7 @@ subs {
 
     merge {
         from(get("dialogue")) {
-            incrementLayer(99)
+            incrementLayer(12)
         }
         
         if (propertyExists("OP_name")) {
