@@ -1,5 +1,9 @@
 {\c&H00E4FF&}Sau tuyên bố của Tiến sĩ Skinner vừa xong,
 thường thì thời sự không dùng từ "vừa xong"
 
+[DONE] "Ngay sau" 
+
 {\c&H00E4FF&}nhiều nơi trên thế giới rơi vào hỗn loạn.
 có thể thêm từ "đã", đọc hay hơn
+
+[DONE]
