@@ -14,13 +14,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[Commie] Lazarus - 02 [78C312FE].mkv
-Video File: ../raws/[Commie] Lazarus - 02 [78C312FE].mkv
+Audio File: ../raws/Lazarus.S01E02.Life.In.The.Fast.Lane.1080p.NF.WEB-DL.AAC2.0.x264-DMM.mkv
+Video File: ../raws/Lazarus.S01E02.Life.In.The.Fast.Lane.1080p.NF.WEB-DL.AAC2.0.x264-DMM.mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 312
-Active Line: 319
-Video Position: 31971
+Scroll Position: 299
+Active Line: 310
+Video Position: 31218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,323 +33,323 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:59.79,0:00:59.79,Main,chptr,0,0,0,,{OP}
-Comment: 0,0:02:29.75,0:02:29.75,Main,chptr,0,0,0,,{Part A}
-Comment: 0,0:13:26.74,0:13:26.74,Main,chptr,0,0,0,,{Part B}
-Comment: 0,0:22:18.48,0:22:18.48,Main,chptr,0,0,0,,{ED}
-Comment: 12,0:16:49.82,0:16:53.89,GT 2,,0,0,0,,(tiếng Tây Ban Nha và tiếng Nga)
-Dialogue: 12,0:00:01.49,0:00:03.15,Main,,0,0,0,,Ba năm trước,
-Dialogue: 12,0:00:03.82,0:00:05.44,Main,,0,0,0,,một loại thuốc giảm đau
-Dialogue: 12,0:00:05.44,0:00:10.60,Main,,0,0,0,,mang tên Hapna được tung ra,\N quảng cáo là "giải phóng con người khỏi đau đớn".
-Dialogue: 12,0:00:10.60,0:00:14.58,Main,,0,0,0,,Nhưng với giới trẻ thì lại khác hoàn toàn.
-Dialogue: 12,0:00:15.81,0:00:18.40,Main,,0,0,0,,Họ dùng Hapna như một loại ma túy.
-Dialogue: 12,0:00:19.37,0:00:22.10,Main,,0,0,0,,Chỉ cần pha vào soda, \Nuống vào là tâm trạng phấn chấn,
-Dialogue: 12,0:00:22.10,0:00:23.17,Main,,0,0,0,,có chút "phê".
-Dialogue: 12,0:00:24.55,0:00:28.47,Main,,0,0,0,,Khi buồn bã, nó như liều thuốc thần kỳ,\Nai ai cũng dùng hết.
-Dialogue: 12,0:00:29.70,0:00:30.70,Main,,0,0,0,,Người lớn thì
-Dialogue: 12,0:00:31.34,0:00:35.77,Main,,0,0,0,,cứ thắc mắc tại sao bọn trẻ\N suốt ngày uống soda.
-Dialogue: 12,0:00:37.30,0:00:39.09,Main,,0,0,0,,Mua Hapna rất dễ,
-Dialogue: 12,0:00:39.09,0:00:42.65,Main,,0,0,0,,chỉ cần có đơn thuốc là mua được,
-Dialogue: 12,0:00:42.65,0:00:44.10,Main,,0,0,0,,lại còn rẻ như cho.
-Dialogue: 12,0:00:45.27,0:00:50.05,Main,,0,0,0,,Nào ai ngờ ba năm sau,\N nó để lại hậu quả vô phương cứu chữa.
-Dialogue: 12,0:00:51.02,0:00:51.70,Main,,0,0,0,,Dĩ nhiên.
-Dialogue: 12,0:00:52.43,0:00:54.54,Main,,0,0,0,,Tôi cũng không lường trước được.
-Dialogue: 12,0:02:31.20,0:02:32.92,Main,,0,0,0,,Chiếc vòng đó không tháo ra được đâu.
-Dialogue: 12,0:02:33.53,0:02:36.74,Main,,0,0,0,,Nó luôn theo dõi vị trí,\N chạy trốn cũng vô ích.
-Dialogue: 12,0:02:40.36,0:02:42.48,Main,,0,0,0,,Ra là vậy à.
-Dialogue: 12,0:02:43.06,0:02:45.85,Main,,0,0,0,,Thằng nào con nào cũng có bí mật nhỉ.
-Dialogue: 12,0:02:46.29,0:02:48.02,Main,,0,0,0,,Tôi có yêu cầu cho tất cả.
-Dialogue: 12,0:02:48.02,0:02:52.43,Main,,0,0,0,,Đó là tìm ra Tiến sĩ Skinner\N trước bất kỳ ai.
-Dialogue: 12,0:02:52.80,0:02:54.10,Main,,0,0,0,,Nghĩ mà xem.
-Dialogue: 12,0:02:54.36,0:02:59.53,Main,,0,0,0,,Tiếp tục chạy trốn như tội phạm\N hay tìm Skinner để được tự do?
-Dialogue: 12,0:02:59.97,0:03:01.17,Main,,0,0,0,,Chọn bên nào?
-Dialogue: 12,0:03:10.90,0:03:11.34,Main,,0,0,0,,Này!
-Dialogue: 12,0:03:11.86,0:03:14.17,Main,,0,0,0,,Muốn đe dọa \Nthì đây trả đũa bằng đe dọa.
-Dialogue: 12,0:03:14.17,0:03:16.52,Main,,0,0,0,,Tháo chiếc vòng này ra cái nhể?
-Dialogue: 12,0:03:19.35,0:03:21.22,Main,,0,0,0,,Nào nào, Hersch?
-Dialogue: 12,0:03:21.93,0:03:23.47,Main,,0,0,0,,Đừng hòng giở trò cũ.
-Dialogue: 12,0:03:26.52,0:03:30.65,Main,,0,0,0,,Cố ép tháo nó ra, dòng điện sẽ tăng lên\N thiêu cả cánh tay đấy.
-Dialogue: 12,0:03:31.16,0:03:35.89,Main,,0,0,0,,Và lỡ mà tôi gặp chuyện gì,\N thì hậu quả cũng y hệt.
-Dialogue: 12,0:03:37.72,0:03:38.87,Main,,0,0,0,,Thôi được.
-Dialogue: 12,0:03:38.87,0:03:41.91,Main,,0,0,0,,Dù sao tôi cũng muốn gặp cái gã Skinner đó.
-Dialogue: 12,0:03:42.40,0:03:43.55,Main,,0,0,0,,Tốt rồi.
-Dialogue: 12,0:03:43.55,0:03:45.41,Main,,0,0,0,,Xem ra đội hình đã đầy đủ.
-Dialogue: 12,0:03:50.92,0:03:54.52,Main,,0,0,0,,Tại sao FDA lại phê duyệt \Nmột loại thuốc như vậy?
-Dialogue: 12,0:03:54.52,0:03:59.53,Main,,0,0,0,,Chúng tôi chưa từng gặp trường hợp \Nthuốc biến chứng sau ba năm.
-Dialogue: 12,0:03:59.53,0:04:01.65,Main,,0,0,0,,Ý là các ông không biết sao?
-Dialogue: 12,0:04:01.65,0:04:03.73,Main,,0,0,0,,Các ông định chịu trách nhiệm thế nào?
-Dialogue: 12,0:04:03.73,0:04:05.11,Main,,0,0,0,,Từ chức à?
-Dialogue: 12,0:04:06.02,0:04:12.32,Main,,0,0,0,,Vậy xin phép, tôi muốn hỏi người làm vườn\N về sự thật đằng sau Tiến sĩ Skinner.
-Dialogue: 12,0:04:12.66,0:04:17.26,Main,,0,0,0,,Ông ấy có ánh mắt sắc lạnh \Nhay điều gì bất thường không?
-Dialogue: 12,0:04:17.54,0:04:21.24,Main,,0,0,0,,Ơ tôi bảo rồi, tôi chỉ làm vườn,\N có biết gì đâu.
-Dialogue: 12,0:04:21.24,0:04:24.85,Main,,0,0,0,,Có bao giờ ông ấy tỏ ra \Nkhông thấu tình đạt lý với mọi người không?
-Dialogue: 12,0:04:25.15,0:04:26.87,Main,,0,0,0,,À, nghĩ lại thì...
-Dialogue: 12,0:04:27.16,0:04:28.12,Main,,0,0,0,,Nghĩ lại thì?
-Dialogue: 12,0:04:28.38,0:04:30.58,Main,,0,0,0,,Có lần ông ấy\N chôn một con mèo trong vườn.
-Dialogue: 12,0:04:30.58,0:04:32.79,Main,,0,0,0,,C-Chôn xác mèo sao?
-Dialogue: 12,0:04:33.19,0:04:35.16,Main,,0,0,0,,Con mèo tên Moppet.
-Dialogue: 12,0:04:35.16,0:04:37.78,Main,,0,0,0,,Đáng yêu dữ lắm.
-Dialogue: 12,0:04:37.78,0:04:38.55,Main,,0,0,0,,Chà!
-Dialogue: 12,0:04:38.97,0:04:40.63,Main,,0,0,0,,Nói chung là thanh thản.
-Dialogue: 12,0:04:42.45,0:04:49.56,Main,,0,0,0,,Nào Lisa, album mới "See You Later, Alligator"\Nsắp ra mắt tháng sau,
-Dialogue: 12,0:04:49.56,0:04:52.26,Main,,0,0,0,,nhưng với vụ việc khủng khiếp này,
-Dialogue: 12,0:04:52.70,0:04:56.99,Main,,0,0,0,,liệu có ai còn ngồi nghe nó không?
-Dialogue: 12,0:04:58.98,0:05:00.99,Main,,0,0,0,,À thì cũng có lý.
-Dialogue: 12,0:05:00.99,0:05:04.20,Main,,0,0,0,,Nếu thế thì chắc chẳng ai \Nxem chương trình này nữa đâu.
-Dialogue: 12,0:05:07.03,0:05:09.74,Main,,0,0,0,,Thôi gặp sau nha, "cá sấu".
-Dialogue: 12,0:05:13.68,0:05:16.52,Main,,0,0,0,,Thế tìm được Skinner thì làm gì?
-Dialogue: 12,0:05:16.52,0:05:19.13,Main,,0,0,0,,Tùy cách xử lý, \Nta có thể lợi dụng vụ này.
-Dialogue: 12,0:05:19.44,0:05:20.35,Main,,0,0,0,,Lợi dụng á?
-Dialogue: 12,0:05:20.58,0:05:23.73,Main,,0,0,0,,Kiểu như độc chiếm vắc-xin.
-Dialogue: 12,0:05:23.73,0:05:25.71,Main,,0,0,0,,Bán giá cao chẳng hạn.
-Dialogue: 12,0:05:25.71,0:05:28.17,Main,,0,0,0,,Ồ, ra là thế.
-Dialogue: 12,0:05:28.17,0:05:29.14,Main,,0,0,0,,Thế thế cái gì.
-Dialogue: 12,0:05:29.78,0:05:34.15,Main,,0,0,0,,Chúng ta không kéo bè tại đây\N vì tiền hay tư lợi.
-Dialogue: 12,0:05:34.15,0:05:35.48,Main,,0,0,0,,Vậy vì cái gì?
-Dialogue: 12,0:05:35.97,0:05:36.99,Main,,0,0,0,,Là vì...
-Dialogue: 12,0:05:38.53,0:05:40.03,Main,,0,0,0,,Để cứu thế giới.
-Dialogue: 12,0:05:40.31,0:05:41.29,Main,,0,0,0,,Ồ?
-Dialogue: 12,0:05:41.29,0:05:42.97,Main,,0,0,0,,Hóa ra là siêu anh hùng.
-Dialogue: 12,0:05:42.97,0:05:44.04,Main,,0,0,0,,Ra là thế.
-Dialogue: 12,0:05:44.04,0:05:45.73,Main,,0,0,0,,Kiểu giống "Avengers" nhỉ?
-Dialogue: 12,0:05:45.73,0:05:46.20,Main,,0,0,0,,Hả?
-Dialogue: 12,0:05:46.20,0:05:47.37,Main,,0,0,0,,Tịu chung lại.
-Dialogue: 12,0:05:48.10,0:05:51.73,Main,,0,0,0,,Giờ cứ tập trung bắt Skinner đi.
-Dialogue: 12,0:05:51.92,0:05:54.96,Main,,0,0,0,,Này, cho tôi hỏi một câu.
-Dialogue: 12,0:05:55.50,0:05:58.46,Main,,0,0,0,,Trong đây, ai từng dùng Hapna rồi?
-Dialogue: 12,0:06:09.26,0:06:12.10,Main,,0,0,0,,Từ giờ, đây sẽ là căn cứ của đội.
-Dialogue: 12,0:06:12.45,0:06:16.02,Main,,0,0,0,,Nhưng tôi nói luôn, \N tôi phản đối việc để anh tham gia.
-Dialogue: 12,0:06:16.02,0:06:17.25,Main,,0,0,0,,Sao lại thế?
-Dialogue: 12,0:06:17.25,0:06:18.54,Main,,0,0,0,,Thiếu tinh thần đồng đội,
-Dialogue: 12,0:06:18.54,0:06:22.15,Main,,0,0,0,,chỉ thích hành động một mình như anh\N là gánh nặng cho đội.
-Dialogue: 12,0:06:22.15,0:06:22.99,Main,,0,0,0,,Khiếp!
-Dialogue: 12,0:06:24.13,0:06:27.55,Main,,0,0,0,,Cơ mà, cứ cho đây là\N căn cứ của "siêu anh hùng" đi,
-Dialogue: 12,0:06:27.55,0:06:29.48,Main,,0,0,0,,nhưng có hơi xập xệ quá không?
-Dialogue: 12,0:06:29.48,0:06:32.10,Main,,0,0,0,,Không, đây chỉ là ngụy trang thôi.
-Dialogue: 12,0:06:32.10,0:06:33.21,Main,,0,0,0,,Chắc chưa?
-Dialogue: 12,0:06:42.05,0:06:43.42,Main,,0,0,0,,À thì...
-Dialogue: 12,0:06:43.89,0:06:47.22,Main,,0,0,0,,Đưa tay lên, cửa sẽ mở \Nbằng cách quét mao mạch.
-Dialogue: 12,0:06:54.69,0:06:56.89,Main,,0,0,0,,Đã đăng ký sẵn cho tôi rồi à?
-Dialogue: 12,0:06:56.89,0:06:58.79,Main,,0,0,0,,Khi anh còn ngủ đấy.
-Dialogue: 12,0:07:01.19,0:07:02.73,Main,,0,0,0,,Deniz Skinner.
-Dialogue: 12,0:07:02.73,0:07:05.11,Main,,0,0,0,,Nếu còn sống, giờ 56 tuổi.
-Dialogue: 12,0:07:05.11,0:07:07.14,Main,,0,0,0,,Sinh ra ở Istanbul.
-Dialogue: 12,0:07:07.14,0:07:10.71,Main,,0,0,0,,Mồ côi từ năm 12 tuổi\N vì xung đột chiến tranh.
-Dialogue: 12,0:07:10.71,0:07:14.63,Main,,0,0,0,,Kể từ đó, cũng chưa vợ con gì cả.
-Dialogue: 12,0:07:14.63,0:07:17.00,Main,,0,0,0,,Vậy là một thân một mình.
-Dialogue: 12,0:07:17.83,0:07:20.93,Main,,0,0,0,,Vào Viện Công nghệ Zurich năm 16 tuổi.
-Dialogue: 12,0:07:20.93,0:07:23.08,Main,,0,0,0,,Tốt nghiệp thạc sĩ Cambridge năm 20 tuổi.
-Dialogue: 12,0:07:23.08,0:07:24.13,Main,,0,0,0,,Và...
-Dialogue: 12,0:07:24.13,0:07:27.79,Main,,0,0,0,,Từ thời sinh viên đã đạt nhiều thành tựu\N đáng kinh ngạc.
-Dialogue: 12,0:07:28.07,0:07:32.69,Main,,0,0,0,,Luôn được ví như thiên tài \Nkể từ thời Einstein.
-Dialogue: 12,0:07:32.69,0:07:33.79,Main,,0,0,0,,Ây!
-Dialogue: 12,0:07:33.79,0:07:39.60,Main,,0,0,0,,Thay vì kể mấy chuyện đó, sao không\N bàn qua động cơ phạm tội đi?
-Dialogue: 12,0:07:39.60,0:07:40.48,Main,,0,0,0,,Hợp lý.
-Dialogue: 12,0:07:42.82,0:07:46.17,Main,,0,0,0,,Skinner nhận ba giải Nobel.
-Dialogue: 12,0:07:46.17,0:07:50.59,Main,,0,0,0,,Nhưng phần lớn tiền thưởng\N đều quyên góp, sống cuộc đời giản dị.
-Dialogue: 12,0:07:50.89,0:07:54.63,Main,,0,0,0,,Còn từ bỏ mọi bằng sáng chế \Nliên quan đến các loại thuốc mình phát triển.
-Dialogue: 12,0:07:56.29,0:08:01.90,Main,,0,0,0,,Ông ta tích cực tham gia \Ncác phong trào hòa bình, xóa bỏ bất bình đẳng,
-Dialogue: 12,0:08:01.90,0:08:05.07,Main,,0,0,0,,và đặc biệt quan tâm \Nđến khủng hoảng khí hậu.
-Dialogue: 12,0:08:05.25,0:08:08.51,Main,,0,0,0,,Từng tham dự các hội nghị môi trường \Nvà cả Liên Hợp Quốc,
-Dialogue: 12,0:08:08.51,0:08:10.68,Main,,0,0,0,,qua đó liên tục lên tiếng cảnh báo.
-Dialogue: 12,0:08:11.46,0:08:15.43,Main,,0,0,0,,Và đây là bài phát biểu nổi tiếng \Ntại Liên Hợp Quốc.
-Dialogue: 12,0:08:15.98,0:08:20.35,Main,,0,0,0,,Tôi chỉ là một nhà khoa học,\N nói lên sự thật.
-Dialogue: 12,0:08:20.79,0:08:22.35,Main,,0,0,0,,Theo tính toán của tôi,
-Dialogue: 12,0:08:22.56,0:08:24.58,Main,,0,0,0,,đúng ba năm nữa,
-Dialogue: 12,0:08:24.99,0:08:27.99,Main,,0,0,0,,ở Bắc Cực sẽ không còn băng.
-Dialogue: 12,0:08:28.37,0:08:30.99,Main,,0,0,0,,Nhưng đây chỉ là khởi đầu.
-Dialogue: 12,0:08:31.22,0:08:33.41,Main,,0,0,0,,Nếu không hành động ngay bây giờ,
-Dialogue: 12,0:08:33.68,0:08:36.00,Main,,0,0,0,,Trái Đất sẽ như một trận tuyết lở\N mà sụp đổ.
-Dialogue: 12,0:08:36.87,0:08:38.96,Main,,0,0,0,,Trên một hành tinh\N không còn ai sinh sống,
-Dialogue: 12,0:08:38.96,0:08:41.82,Main,,0,0,0,,thì các người còn định làm gì\N với nền kinh tế chứ?
-Dialogue: 12,0:08:45.29,0:08:46.42,Main,,0,0,0,,Kết quả là...
-Dialogue: 12,0:08:46.85,0:08:49.78,Main,,0,0,0,,các thành viên thường trực\N rút khỏi Hội đồng Bảo an,
-Dialogue: 12,0:08:49.78,0:08:52.13,Main,,0,0,0,,một kết cục rất tồi tệ.
-Dialogue: 12,0:08:53.67,0:08:54.83,Main,,0,0,0,,Không lâu sau,
-Dialogue: 12,0:08:55.33,0:08:56.97,Main,,0,0,0,,ông ta biến mất.
-Dialogue: 12,0:08:57.78,0:08:59.57,Main,,0,0,0,,Nghe liêm mà.
-Dialogue: 12,0:08:59.57,0:09:01.37,Main,,0,0,0,,Quá hoàn hảo ấy chứ.
-Dialogue: 12,0:09:01.37,0:09:03.31,Main,,0,0,0,,Liệu có làm gì mờ ám không?
-Dialogue: 12,0:09:03.85,0:09:05.93,Main,,0,0,0,,Còn thông tin rò rỉ \Nvề những nơi trông thấy ông ta?
-Dialogue: 12,0:09:05.93,0:09:08.94,Main,,0,0,0,,À, có vài tin cũ.
-Dialogue: 12,0:09:09.65,0:09:13.15,Main,,0,0,0,,Nhường ghế cho bà cụ trên tàu này...
-Dialogue: 12,0:09:13.32,0:09:15.66,Main,,0,0,0,,Giúp người vô gia cư này...
-Dialogue: 12,0:09:16.19,0:09:20.67,Main,,0,0,0,,Còn có lần đang ăn bánh kẹp\N thì bị chó cướp mất.
-Dialogue: 12,0:09:20.67,0:09:21.71,Main,,0,0,0,,Quái gì thế?
-Dialogue: 12,0:09:21.71,0:09:23.33,Main,,0,0,0,,Cảm giác còn liêm hơn.
-Dialogue: 12,0:09:23.64,0:09:25.67,Main,,0,0,0,,Bậc thánh hiền rồi.
-Dialogue: 12,0:09:25.67,0:09:29.05,Main,,0,0,0,,Một người như vậy,\N mà lại gây ra vụ này sao?
-Dialogue: 12,0:09:29.63,0:09:34.93,Main,,0,0,0,,Tóm lại, từ ba năm trước,\N khi ông ta biến mất thì không có tin gì.
-Dialogue: 12,0:09:35.29,0:09:38.35,Main,,0,0,0,,Không còn bất kỳ dấu vết nào.
-Dialogue: 12,0:09:38.72,0:09:43.04,Main,,0,650,0,,Chẳng lẽ ông ta nhốt mình trong nhà, \Ntự cung tự cấp sao?
-Dialogue: 12,0:09:43.04,0:09:44.49,Main,,0,0,0,,Hay là chết rồi?
-Dialogue: 12,0:09:44.49,0:09:46.75,Main,,1000,0,0,,Chắc là cải trang lúc ra ngoài.
-Dialogue: 12,0:09:46.75,0:09:49.69,Main,,0,800,0,,Có thể là sống với danh tính khác.
-Dialogue: 12,0:09:49.69,0:09:50.71,Main,,500,0,0,,{\an8}À này...
-Dialogue: 12,0:09:51.78,0:09:54.90,Main,,0,0,0,,Em tìm thấy dấu vết rồi.
-Dialogue: 12,0:10:18.82,0:10:22.09,Main,,0,0,0,,Đã bảo cấm lái xe kiểu đó mà!
-Dialogue: 12,0:10:22.09,0:10:23.06,Main,,0,0,0,,Xin lỗi.
-Dialogue: 12,0:10:33.01,0:10:34.95,Main,,0,0,0,,{\i1}Công ty bán "hầm trú ẩn hạt nhân"?
-Dialogue: 12,0:10:35.28,0:10:36.28,Main,,0,0,0,,{\i1}Vâng.
-Dialogue: 12,0:10:36.28,0:10:40.16,Main,,0,0,0,,{\i1}8 năm trước, \NTiến sĩ Skinner có mua một cái.
-Dialogue: 12,0:10:40.96,0:10:42.43,Main,,0,0,0,,{\i1}Hiểu rồi.
-Dialogue: 12,0:10:42.43,0:10:47.33,Main,,0,0,0,,{\i1}Trong hầm trú ẩn, ông ta\N có thể sống nhiều năm mà không ai biết.
-Dialogue: 12,0:10:47.97,0:10:51.70,Main,,0,0,0,,Nhưng công ty đó giờ không liên lạc được, \Ncả điện thoại lẫn email.
-Dialogue: 12,0:10:52.03,0:10:53.59,Main,,0,0,0,,Axel và Chris kiểm tra hầm trú ẩn.
-Dialogue: 12,0:10:54.21,0:10:56.68,Main,,0,0,0,,Doug và Leland điều tra công ty kia.
-Dialogue: 12,0:10:57.44,0:11:01.85,Main,,0,0,0,,Eleina, có thể chạy \Nnhận diện khuôn mặt của Skinner
-Dialogue: 12,0:11:01.85,0:11:04.31,Main,,0,0,0,,trên dữ liệu \Ncamera giám sát toàn cầu không?
-Dialogue: 12,0:11:04.63,0:11:05.78,Main,,0,0,0,,Được ạ.
-Dialogue: 12,0:11:08.40,0:11:11.94,Main,,0,0,0,,Nếu ông ta cải trang\N có thể sẽ không hiệu quả.
-Dialogue: 12,0:11:13.51,0:11:15.33,Main,,0,0,0,,Nhưng cứ thử xem sao.
-Dialogue: 12,0:11:22.80,0:11:25.91,Main,,0,0,0,,Anh từng ngồi tù đúng không?
-Dialogue: 12,0:11:25.91,0:11:28.08,Main,,0,0,0,,À thì... một chút.
-Dialogue: 12,0:11:28.57,0:11:30.25,Main,,0,0,0,,Làm gì mà bị tóm?
-Dialogue: 12,0:11:30.25,0:11:31.38,Main,,0,0,0,,Tù bao lâu?
-Dialogue: 12,0:11:31.86,0:11:33.17,Main,,0,0,0,,Xem nào...
-Dialogue: 12,0:11:33.17,0:11:35.26,Main,,0,0,0,,888 năm.
-Dialogue: 12,0:11:39.67,0:11:41.53,Main,,0,0,0,,Xuống xe ngay, thằng giết người!
-Dialogue: 12,0:11:43.38,0:11:45.53,Main,,0,0,0,,Tôi không muốn đi cùng "Leatherface"!
-Dialogue: 12,0:11:45.53,0:11:46.14,Main,,0,0,0,,Ơ khoan đã!
-Dialogue: 12,0:11:46.14,0:11:49.60,Main,,0,0,0,,Chỉ giết một người\N thì không thể tù lâu như vậy được.
-Dialogue: 12,0:11:49.60,0:11:50.36,Main,,0,0,0,,Nghe đã nào.
-Dialogue: 12,0:11:50.78,0:11:52.11,Main,,0,0,0,,Giết bao nhiêu người rồi hả?
-Dialogue: 12,0:11:53.06,0:11:54.03,Main,,0,0,0,,Nghe này.
-Dialogue: 12,0:11:54.03,0:11:57.20,Main,,0,0,0,,Cô có biết mỗi lần vượt ngục,\N án sẽ tăng gấp đôi không?
-Dialogue: 12,0:11:58.77,0:11:59.55,Main,,0,0,0,,Rồi sao?
-Dialogue: 12,0:11:59.55,0:12:01.39,Main,,0,0,0,,Ban đầu chỉ có 3 năm.
-Dialogue: 12,0:12:01.39,0:12:06.00,Main,,0,0,0,,Nhưng cứ vượt ngục chán chê, \Nthế là thành ra như vậy.
-Dialogue: 12,0:12:07.62,0:12:09.79,Main,,0,0,0,,Sao phải vượt ngục nhiều thế?
-Dialogue: 12,0:12:10.60,0:12:12.34,Main,,0,0,0,,À thì...
-Dialogue: 12,0:12:13.47,0:12:14.60,Main,,0,0,0,,Kiểu sở thích?
-Dialogue: 12,0:12:15.62,0:12:16.99,Main,,0,0,0,,Đến chịu!
-Dialogue: 12,0:12:16.99,0:12:19.55,Main,,0,0,0,,Nghe dở người thật.
-Dialogue: 12,0:12:22.91,0:12:26.06,Main,,0,0,0,,Anh Doug này, \Nanh cũng đeo cái vòng đó,
-Dialogue: 12,0:12:26.06,0:12:28.35,Main,,0,0,0,,tức là anh có điểm yếu gì đó nhỉ?
-Dialogue: 12,0:12:28.78,0:12:29.77,Main,,0,0,0,,Muốn biết à?
-Dialogue: 12,0:12:30.74,0:12:32.52,Main,,0,0,0,,À, chút chút.
-Dialogue: 12,0:12:32.52,0:12:34.99,Main,,0,0,0,,Có biết tò mò thiệt thân không?
-Dialogue: 12,0:12:34.99,0:12:37.44,Main,,0,0,0,,Vậy là kinh khủng lắm sao?
-Dialogue: 12,0:12:37.97,0:12:39.61,Main,,0,0,0,,Ví dụ thế thôi.
-Dialogue: 12,0:12:39.61,0:12:43.37,Main,,0,0,0,,Trường hợp của anh\N chỉ là một vụ gây thương tích nhẹ.
-Dialogue: 12,0:12:43.73,0:12:46.20,Main,,0,0,0,,Nhẹ thôi à...
-Dialogue: 12,0:12:46.20,0:12:48.68,Main,,0,0,0,,Còn em thì sao, Leland?
-Dialogue: 12,0:12:48.68,0:12:50.87,Main,,0,0,0,,Em thì chẳng có gì to tát.
-Dialogue: 12,0:12:51.64,0:12:53.13,Main,,0,0,0,,Chỉ vài vụ trộm vặt.
-Dialogue: 12,0:12:53.13,0:12:55.25,Main,,0,0,0,,Thật sự là vặt ha.
-Dialogue: 12,0:12:57.01,0:12:59.87,Main,,0,0,0,,Nhưng mà này, Eleina mới là đáng gờm.
-Dialogue: 12,0:12:59.87,0:13:01.43,Main,,0,0,0,,Hả? Thật à?
-Dialogue: 12,0:13:01.81,0:13:05.43,Main,,0,0,0,,Nghe nói em ấy là một hacker khét tiếng, \Ngây ra hàng loạt vụ việc.
-Dialogue: 12,0:13:07.01,0:13:09.14,Main,,0,0,0,,Nhìn cô ấy hiền khô thế mà.
-Dialogue: 12,0:13:09.61,0:13:11.17,Main,,0,0,0,,Biết đâu đấy,
-Dialogue: 12,0:13:11.17,0:13:13.35,Main,,0,0,0,,em ấy mới là "Joker" thật sự.
-Dialogue: 12,0:14:11.63,0:14:13.24,Main,,0,0,0,,Có đúng là ở đây không?
-Dialogue: 12,0:14:13.24,0:14:15.21,Main,,0,0,0,,Thì đúng là vậy.
-Dialogue: 12,0:14:22.09,0:14:24.95,Main,,0,0,0,,B12... Ở đây à.
-Dialogue: 12,0:14:24.95,0:14:26.72,Main,,0,0,0,,Trông như chẳng có ma nào.
-Dialogue: 12,0:14:29.47,0:14:30.35,Main,,0,0,0,,Đi nào.
-Dialogue: 12,0:14:52.39,0:14:54.12,Main,,0,0,0,,Máy phát điện tự động à?
-Dialogue: 12,0:14:54.12,0:14:56.29,Main,,0,0,0,,Cứ như phế tích ấy.
-Dialogue: 12,0:15:15.18,0:15:16.61,Main,,0,0,0,,Xin chào!
-Dialogue: 12,0:15:16.61,0:15:18.11,Main,,0,0,0,,Amigo?
-Dialogue: 12,0:15:18.11,0:15:19.96,Main,,0,0,0,,Ní hảo?
-Dialogue: 12,0:15:19.96,0:15:22.11,Main,,0,0,0,,Có ai không?
-Dialogue: 12,0:15:26.31,0:15:29.07,Main,,0,0,0,,Có dấu hiệu hoạt động gần đây.
-Dialogue: 12,0:15:41.24,0:15:41.91,Main,,0,0,0,,Ai vậy?
-Dialogue: 12,0:16:08.10,0:16:10.41,Main,,0,0,0,,Skinner à?
-Dialogue: 12,0:16:10.87,0:16:11.87,Main,,0,0,0,,Không phải?
-Dialogue: 12,0:16:11.87,0:16:13.82,Main,,0,0,0,,Hay là phẫu thuật thẩm mỹ?
-Dialogue: 12,0:16:14.13,0:16:15.37,Main,,0,0,0,,Này, còn sống không?
-Dialogue: 12,0:16:19.46,0:16:20.61,Main,,0,0,0,,Nào nào.
-Dialogue: 12,0:16:20.61,0:16:23.25,Main,,0,0,0,,Bỏ súng xuống, từ từ thôi.
-Dialogue: 12,0:16:23.49,0:16:24.63,Main,,0,0,0,,Xin lỗi.
-Dialogue: 12,0:16:28.86,0:16:31.59,Main,,0,0,0,,Xin lỗi, nhưng đây cũng có việc phải làm.
-Dialogue: 12,0:16:31.59,0:16:33.00,Main,,0,0,0,,Gã đó đâu?
-Dialogue: 12,0:16:33.00,0:16:33.85,Main,,0,0,0,,Gã nào?
-Dialogue: 12,0:16:34.17,0:16:38.02,Main,,0,0,0,,Nói mau, không là không nhẹ tay đâu.
-Dialogue: 12,0:16:38.51,0:16:40.98,Main,,0,0,0,,Ấy khoan, bọn tôi cũng không biết gì thật.
-Dialogue: 12,0:16:41.73,0:16:43.62,Main,,0,0,0,,Định giả vờ à?
-Dialogue: 12,0:16:43.62,0:16:45.40,Main,,0,0,0,,Bọn tao cũng có cách đấy.
-Dialogue: 12,0:16:46.41,0:16:47.73,Main,,0,0,0,,Nào chọn đi.
-Dialogue: 12,0:16:47.73,0:16:49.82,Main,,0,0,0,,Mũi hay tai, cái nào được?
-Dialogue: 12,0:16:57.95,0:16:58.80,Main,,0,0,0,,Gì thế?
-Dialogue: 12,0:17:03.01,0:17:06.13,Main,,0,0,0,,Coong coong! Có khách này!
-Dialogue: 12,0:17:06.42,0:17:08.88,Main,,0,0,0,,Này! Kobayashi đâu? Kobayashi!
-Dialogue: 12,0:17:10.99,0:17:12.10,Main,,0,0,0,,Kobayashi?
-Dialogue: 12,0:17:15.22,0:17:16.48,Main,,0,0,0,,Chó chết!
-Dialogue: 12,0:17:16.48,0:17:18.15,Main,,0,0,0,,Bọn Nga ngố này!
-Dialogue: 12,0:17:18.15,0:17:18.93,Main,,0,0,0,,Sao cô biết?
-Dialogue: 12,0:17:22.69,0:17:24.82,Main,,0,0,0,,Còn bên này nghe như tụi Chicano.
-Dialogue: 12,0:17:30.19,0:17:32.45,Main,,0,0,0,,Ủa anh? Sao trông anh vui thế?
-Dialogue: 12,0:17:32.45,0:17:33.91,Main,,0,0,0,,Ơ, dễ thấy thế à?
-Dialogue: 12,0:17:35.73,0:17:36.69,Main,,0,0,0,,Cái gì thế?
-Dialogue: 12,0:17:37.32,0:17:38.68,Main,,0,0,0,,Bùa hộ mệnh.
-Dialogue: 12,0:17:38.68,0:17:41.51,Main,,0,0,0,,Thiên thần này luôn bảo vệ tôi.
-Dialogue: 12,0:17:42.74,0:17:44.48,Main,,0,0,0,,Miễn là có nó.
-Dialogue: 12,0:17:45.25,0:17:46.91,Main,,0,0,0,,Tôi bất tử.
-Dialogue: 12,0:17:49.07,0:17:49.55,Main,,0,0,0,,Đùa à?
-Dialogue: 12,0:17:50.21,0:17:51.46,Main,,0,0,0,,Thằng cha này!
-Dialogue: 12,0:17:51.46,0:17:53.43,Main,,0,0,0,,Điên thật rồi!
-Dialogue: 12,0:17:58.29,0:18:00.18,Main,,0,0,0,,Kobayashi đâu, chui ra đây!
-Dialogue: 12,0:18:00.58,0:18:04.00,Main,,0,0,0,,Hôm nay phải thanh toán đủ hết!
-Dialogue: 12,0:18:04.00,0:18:05.68,Main,,0,0,0,,Này, chuyện này là sao?
-Dialogue: 12,0:18:05.91,0:18:07.40,Main,,0,0,0,,Không phải Skinner à?
-Dialogue: 12,0:18:07.40,0:18:09.57,Main,,0,0,0,,Thằng kia! Mày là thằng nào?
-Dialogue: 12,0:18:09.89,0:18:10.94,Main,,0,0,0,,Là dân đòi nợ!
-Dialogue: 12,0:18:11.36,0:18:13.41,Main,,0,0,0,,Đây cũng đòi nợ!
-Dialogue: 12,0:18:31.32,0:18:32.80,Main,,0,0,0,,Khùng điên gì đây?
-Dialogue: 12,0:18:56.36,0:18:58.91,Main,,0,0,0,,Khoan đã! Phải ưu tiên tìm Skinner chứ!
-Dialogue: 12,0:18:59.27,0:19:01.33,Main,,0,0,0,,À đấy, đúng rồi.
-Dialogue: 12,0:19:12.51,0:19:13.39,Main,,0,0,0,,Đứng yên!
-Dialogue: 12,0:19:14.39,0:19:16.22,Main,,0,0,0,,FBI đây! Bỏ vũ khí xuống!
-Dialogue: 12,0:19:16.69,0:19:18.55,Main,,0,0,0,,DEA đây! Bỏ vũ khí xuống!
-Dialogue: 12,0:19:18.90,0:19:20.81,Main,,0,0,0,,Lazarus đây! Bỏ vũ khí xuống!
-Dialogue: 12,0:19:22.53,0:19:23.76,Main,,0,0,0,,Lazarus?
-Dialogue: 12,0:19:23.98,0:19:25.23,Main,,0,0,0,,Là gì thế?
-Dialogue: 12,0:19:27.74,0:19:29.69,Main,,0,0,0,,Là siêu anh hùng.
-Dialogue: 12,0:19:44.62,0:19:45.54,Main,,0,0,0,,Ơ không...
-Dialogue: 12,0:19:47.81,0:19:50.21,Main,,0,0,0,,X-Xin lỗi!
-Dialogue: 12,0:19:50.89,0:19:52.84,Main,,0,0,0,,T-Tôi không định trốn đâu.
-Dialogue: 12,0:19:52.84,0:19:55.11,Main,,0,0,0,,Tôi định trả nợ thật mà!
-Dialogue: 12,0:19:55.11,0:19:56.16,Main,,0,0,0,,Tôi thề!
-Dialogue: 12,0:19:56.16,0:19:57.77,Main,,0,0,0,,Đừng giết tôi mà!
-Dialogue: 12,0:19:57.77,0:19:59.72,Main,,0,0,0,,Tha cho tôi đi! Làm ơn!
-Dialogue: 12,0:20:00.77,0:20:01.82,Main,,0,0,0,,Ông...
-Dialogue: 12,0:20:02.15,0:20:03.98,Main,,0,0,0,,Không phải Skinner à?
-Dialogue: 12,0:20:12.17,0:20:13.91,Main,,0,0,0,,Kiểm tra DNA xong.
-Dialogue: 12,0:20:14.63,0:20:16.50,Main,,0,0,0,,Hoàn toàn không phải Skinner.
-Dialogue: 12,0:20:20.26,0:20:23.83,Main,,0,0,0,,Vậy là thằng Kobayashi\N cũng nợ tiền các anh à?
-Dialogue: 12,0:20:24.26,0:20:28.36,Main,,0,0,0,,Ừ, cả tiền xi măng tháng trước nữa.
-Dialogue: 12,0:20:28.36,0:20:30.57,Main,,0,0,0,,Nghe khó nhỉ.
-Dialogue: 12,0:20:30.57,0:20:33.34,Main,,0,0,0,,Thì đó! Thằng đó đểu lắm.
-Dialogue: 12,0:20:33.78,0:20:35.83,Main,,0,0,0,,À nhóc, xin lỗi nhé.
-Dialogue: 12,0:20:35.83,0:20:38.01,Main,,0,0,0,,Nhầm nhóc với đàn em của Kobayashi.
-Dialogue: 12,0:20:38.01,0:20:39.50,Main,,0,0,0,,À, không sao.
-Dialogue: 12,0:20:39.50,0:20:42.14,Main,,0,0,0,,Bên đó cũng tìm Kobayashi à?
-Dialogue: 12,0:20:42.71,0:20:44.06,Main,,0,0,0,,Khác hoàn toàn.
-Dialogue: 12,0:20:44.45,0:20:45.29,Main,,0,0,0,,Rồi.
-Dialogue: 12,0:20:45.29,0:20:49.12,Main,,0,0,0,,Gã này trốn trong \Nchính sản phẩm hầm trú ẩn của mình.
-Dialogue: 12,0:20:49.12,0:20:50.48,Main,,0,0,0,,Chưa kể,
-Dialogue: 12,0:20:50.48,0:20:53.44,Main,,0,0,0,,còn cả FBI các kiểu kéo đến nữa.
-Dialogue: 12,0:20:54.71,0:20:55.67,Main,,0,0,0,,Hiểu rồi.
-Dialogue: 12,0:20:59.26,0:21:03.33,Main,,0,0,0,,Xem ra, nhiệm vụ này không dễ ăn.
-Dialogue: 12,0:21:01.81,0:21:03.33,Main,,0,0,0,,{\an8}Chắc thế cũng nên.
-Dialogue: 12,0:21:03.33,0:21:04.50,Main,,0,0,0,,{\an8}Ồ hay lắm, hay lắm!
-Dialogue: 12,0:21:04.50,0:21:07.04,Main,,0,0,0,,{\an8}Gì? Điêu, rõ điêu! Ai thế?
-Dialogue: 12,0:21:09.62,0:21:13.78,Main,,0,0,0,,Nghĩ lại, cả đời mình chỉ toàn đánh cược.
-Dialogue: 12,0:21:14.64,0:21:19.89,Main,,0,0,0,,Luôn mơ có một ngày\N sẽ trúng mánh, giàu sang các thứ.
-Dialogue: 12,0:21:20.62,0:21:26.56,Main,,0,0,0,,Ai ngờ cuối cùng lại kết thúc thế này.
-Dialogue: 12,0:21:27.00,0:21:32.03,Main,,0,0,0,,Mình uống Hapna, cứ tưởng sẽ chết ngay.
-Dialogue: 12,0:21:32.03,0:21:35.38,Main,,0,0,0,,Hóa ra không phải vậy.
-Dialogue: 12,0:21:36.69,0:21:37.49,Main,,0,0,0,,Mà khoan.
-Dialogue: 12,0:21:38.36,0:21:39.78,Main,,0,0,0,,Có khi nào...
-Dialogue: 12,0:21:40.79,0:21:43.32,Main,,0,0,0,,Ý là mình nên sống tiếp không?
-Dialogue: 12,0:21:44.44,0:21:45.16,Main,,0,0,0,,Đúng rồi!
-Dialogue: 12,0:21:45.78,0:21:47.58,Main,,0,0,0,,Mình nên làm lại lần nữa?
-Dialogue: 12,0:21:52.48,0:21:54.52,Main,,0,0,0,,Thôi muộn rồi.
-Dialogue: 12,0:21:54.52,0:21:58.68,Main,,0,0,0,,Dù sao sau 30 ngày nữa, tất cả sẽ chết.
-Dialogue: 12,0:22:01.17,0:22:03.39,Main,,0,0,0,,Tìm ra rồi! \NTìm ra Tiến sĩ Skinner rồi!
-Dialogue: 12,0:22:04.18,0:22:04.76,Main,,0,0,0,,Ở đâu?
-Dialogue: 12,0:22:07.71,0:22:10.99,Main,,0,0,0,,Đúng là Tiến sĩ Skinner rồi... nhưng mà...
-Dialogue: 12,0:22:10.99,0:22:12.88,Main,,0,0,0,,khoảng 100 nghìn người.
-Dialogue: 12,0:22:13.44,0:22:15.23,Main,,0,0,0,,Tức là sao?
+Comment: 0,0:01:01.04,0:01:01.04,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:02:31.01,0:02:31.01,Main,chptr,0,0,0,,{Part A}
+Comment: 0,0:13:28.00,0:13:28.00,Main,chptr,0,0,0,,{Part B}
+Comment: 0,0:22:19.73,0:22:19.73,Main,chptr,0,0,0,,{ED}
+Comment: 12,0:16:51.07,0:16:55.16,GT 2,,0,0,0,,(tiếng Tây Ban Nha và tiếng Nga)
+Dialogue: 12,0:00:02.73,0:00:04.40,Main,,0,0,0,,3 năm trước,
+Dialogue: 12,0:00:05.07,0:00:06.69,Main,,0,0,0,,một loại thuốc giảm đau
+Dialogue: 12,0:00:06.69,0:00:11.87,Main,,0,0,0,,mang tên Hapna được tung ra,\N quảng cáo là "giải phóng con người khỏi đau đớn".
+Dialogue: 12,0:00:11.87,0:00:15.83,Main,,0,0,0,,Nhưng với giới trẻ thì lại  hoàn toàn khác.
+Dialogue: 12,0:00:17.08,0:00:19.67,Main,,0,0,0,,Họ dùng Hapna như một loại ma túy.
+Dialogue: 12,0:00:20.63,0:00:23.34,Main,,0,0,0,,Chỉ cần pha với soda, \Nuống vào là tâm trạng phấn chấn,
+Dialogue: 12,0:00:23.34,0:00:24.42,Main,,0,0,0,,có chút "phê".
+Dialogue: 12,0:00:25.80,0:00:29.72,Main,,0,0,0,,Lúc buồn nó như liều thuốc thần kỳ,\Nai ai cũng dùng hết.
+Dialogue: 12,0:00:30.97,0:00:31.97,Main,,0,0,0,,Người lớn thì
+Dialogue: 12,0:00:32.60,0:00:37.02,Main,,0,0,0,,cứ thắc mắc tại sao \Nbọn trẻ suốt ngày uống soda.
+Dialogue: 12,0:00:38.56,0:00:40.35,Main,,0,0,0,,Mua Hapna rất dễ,
+Dialogue: 12,0:00:40.35,0:00:43.90,Main,,0,0,0,,chỉ cần có đơn thuốc là được,
+Dialogue: 12,0:00:43.90,0:00:45.36,Main,,0,0,0,,lại còn rẻ như cho.
+Dialogue: 12,0:00:46.53,0:00:51.28,Main,,0,0,0,,Nào ngờ 3 năm sau,\N nó để lại hậu quả vô phương cứu chữa.
+Dialogue: 12,0:00:52.28,0:00:52.95,Main,,0,0,0,,Dĩ nhiên.
+Dialogue: 12,0:00:53.70,0:00:55.79,Main,,0,0,0,,Tôi cũng không lường trước được.
+Dialogue: 12,0:02:32.47,0:02:34.18,Main,,0,0,0,,Chiếc vòng đó không tháo ra được đâu.
+Dialogue: 12,0:02:34.80,0:02:37.97,Main,,0,0,0,,Nó luôn theo dõi vị trí,\N chạy trốn cũng vô ích.
+Dialogue: 12,0:02:41.60,0:02:43.73,Main,,0,0,0,,Ra là vậy à.
+Dialogue: 12,0:02:44.31,0:02:47.11,Main,,0,0,0,,Thằng nào con nào cũng có bí mật à.
+Dialogue: 12,0:02:47.52,0:02:49.27,Main,,0,0,0,,Tôi có yêu cầu cho tất cả.
+Dialogue: 12,0:02:49.27,0:02:53.70,Main,,0,0,0,,Đó là tìm ra Tiến sĩ Skinner\N trước bất kỳ ai.
+Dialogue: 12,0:02:54.07,0:02:55.36,Main,,0,0,0,,Nghĩ mà xem.
+Dialogue: 12,0:02:55.61,0:03:00.79,Main,,0,0,0,,Tiếp tục chạy trốn như tội phạm\N hay tìm Skinner để được tự do?
+Dialogue: 12,0:03:01.20,0:03:02.41,Main,,0,0,0,,Chọn bên nào?
+Dialogue: 12,0:03:12.17,0:03:12.59,Main,,0,0,0,,Này!
+Dialogue: 12,0:03:13.13,0:03:15.43,Main,,0,0,0,,Muốn đe dọa \Nthì đây trả đũa bằng đe dọa.
+Dialogue: 12,0:03:15.43,0:03:17.76,Main,,0,0,0,,Tháo hộ cái vòng này ra được không?
+Dialogue: 12,0:03:20.60,0:03:22.47,Main,,0,0,0,,Nào nào, Hersch?
+Dialogue: 12,0:03:23.18,0:03:24.73,Main,,0,0,0,,Đừng hòng giở trò cũ.
+Dialogue: 12,0:03:27.77,0:03:31.90,Main,,0,0,0,,Cố ép tháo nó ra dòng điện sẽ tăng lên,\N thiêu cả cánh tay đấy.
+Dialogue: 12,0:03:32.40,0:03:37.16,Main,,0,0,0,,Và lỡ mà tôi gặp chuyện gì,\N thì hậu quả cũng y hệt.
+Dialogue: 12,0:03:38.99,0:03:40.12,Main,,0,0,0,,Thôi được.
+Dialogue: 12,0:03:40.12,0:03:43.16,Main,,0,0,0,,Dù sao tôi cũng muốn gặp cái gã Skinner đó.
+Dialogue: 12,0:03:43.66,0:03:44.79,Main,,0,0,0,,Tốt rồi.
+Dialogue: 12,0:03:44.79,0:03:46.66,Main,,0,0,0,,Xem ra đội hình đã đầy đủ.
+Dialogue: 12,0:03:52.17,0:03:55.76,Main,,0,0,0,,Tại sao FDA lại phê duyệt \Nmột loại thuốc như vậy?
+Dialogue: 12,0:03:55.76,0:04:00.76,Main,,0,0,0,,Chúng tôi chưa từng gặp trường hợp \Nthuốc biến chứng sau 3 năm.
+Dialogue: 12,0:04:00.76,0:04:02.89,Main,,0,0,0,,Ý là các ông không biết sao?
+Dialogue: 12,0:04:02.89,0:04:04.97,Main,,0,0,0,,Các ông định chịu trách nhiệm thế nào?
+Dialogue: 12,0:04:04.97,0:04:06.35,Main,,0,0,0,,Từ chức à?
+Dialogue: 12,0:04:07.27,0:04:13.57,Main,,0,0,0,,Vậy xin phép, tôi muốn hỏi người làm vườn\N về sự thật đằng sau Tiến sĩ Skinner.
+Dialogue: 12,0:04:13.90,0:04:18.53,Main,,0,0,0,,Ông ấy có ánh mắt sắc lạnh \Nhay điều gì bất thường không?
+Dialogue: 12,0:04:18.78,0:04:22.49,Main,,0,0,0,,Ơ tôi bảo rồi, tôi chỉ làm vườn,\N có biết gì đâu.
+Dialogue: 12,0:04:22.49,0:04:26.12,Main,,0,0,0,,Có bao giờ ông ấy tỏ ra \Nkhông thấu tình đạt lý gì không?
+Dialogue: 12,0:04:26.41,0:04:28.12,Main,,0,0,0,,À, nghĩ lại thì...
+Dialogue: 12,0:04:28.41,0:04:29.37,Main,,0,0,0,,Nghĩ lại thì?
+Dialogue: 12,0:04:29.62,0:04:31.83,Main,,0,0,0,,Có lần ông ấy\N chôn một con mèo trong vườn.
+Dialogue: 12,0:04:31.83,0:04:34.05,Main,,0,0,0,,C-Chôn xác mèo sao?
+Dialogue: 12,0:04:34.42,0:04:36.42,Main,,0,0,0,,Con mèo tên Moppet.
+Dialogue: 12,0:04:36.42,0:04:39.05,Main,,0,0,0,,Đáng yêu dữ lắm.
+Dialogue: 12,0:04:39.05,0:04:39.80,Main,,0,0,0,,Chà!
+Dialogue: 12,0:04:40.22,0:04:41.89,Main,,0,0,0,,Nó ra đi cũng nhẹ nhàng.
+Dialogue: 12,0:04:43.72,0:04:50.81,Main,,0,0,0,,Lisa này, album mới "Gặp lại sau, Cá sấu"\Nsắp ra mắt tháng sau,
+Dialogue: 12,0:04:50.81,0:04:53.52,Main,,0,0,0,,nhưng với vụ việc khủng khiếp này,
+Dialogue: 12,0:04:53.94,0:04:58.24,Main,,0,0,0,,liệu có ai còn ngồi nghe nó không?
+Dialogue: 12,0:05:00.24,0:05:02.24,Main,,0,0,0,,À thì cũng có lý.
+Dialogue: 12,0:05:02.24,0:05:05.45,Main,,0,0,0,,Nếu thế thì chắc chẳng ai \Nxem chương trình này nữa đâu.
+Dialogue: 12,0:05:08.29,0:05:11.00,Main,,0,0,0,,Gặp lại sau, cá sấu.
+Dialogue: 12,0:05:14.92,0:05:17.76,Main,,0,0,0,,Thế tìm được Skinner thì làm gì?
+Dialogue: 12,0:05:17.76,0:05:20.38,Main,,0,0,0,,Tùy cách xử lý, \Nta có thể lợi dụng vụ này.
+Dialogue: 12,0:05:20.68,0:05:21.59,Main,,0,0,0,,Lợi dụng á?
+Dialogue: 12,0:05:21.84,0:05:24.97,Main,,0,0,0,,Kiểu như độc chiếm vắc-xin.
+Dialogue: 12,0:05:24.97,0:05:26.97,Main,,0,0,0,,Bán giá cao chẳng hạn.
+Dialogue: 12,0:05:26.97,0:05:29.43,Main,,0,0,0,,Ồ, ra là thế.
+Dialogue: 12,0:05:29.43,0:05:30.39,Main,,0,0,0,,Thế thế cái gì.
+Dialogue: 12,0:05:31.02,0:05:35.40,Main,,0,0,0,,Chúng ta không kéo bè tại đây\N vì tiền hay tư lợi.
+Dialogue: 12,0:05:35.40,0:05:36.73,Main,,0,0,0,,Vậy vì cái gì?
+Dialogue: 12,0:05:37.23,0:05:38.23,Main,,0,0,0,,Là vì...
+Dialogue: 12,0:05:39.78,0:05:41.28,Main,,0,0,0,,Để cứu thế giới.
+Dialogue: 12,0:05:41.57,0:05:42.53,Main,,0,0,0,,Ồ?
+Dialogue: 12,0:05:42.53,0:05:44.24,Main,,0,0,0,,Hóa ra là siêu anh hùng.
+Dialogue: 12,0:05:44.24,0:05:45.28,Main,,0,0,0,,Ra là thế.
+Dialogue: 12,0:05:45.28,0:05:46.99,Main,,0,0,0,,Kiểu giống "Avengers" nhỉ?
+Dialogue: 12,0:05:46.99,0:05:47.45,Main,,0,0,0,,Hả?
+Dialogue: 12,0:05:47.45,0:05:48.62,Main,,0,0,0,,Tịu chung lại.
+Dialogue: 12,0:05:49.37,0:05:53.00,Main,,0,0,0,,Giờ cứ tập trung bắt Skinner đi.
+Dialogue: 12,0:05:53.17,0:05:56.21,Main,,0,0,0,,Này, cho tôi hỏi một câu.
+Dialogue: 12,0:05:56.75,0:05:59.71,Main,,0,0,0,,Trong đây, ai từng dùng Hapna rồi?
+Dialogue: 12,0:06:10.52,0:06:13.35,Main,,0,0,0,,Từ giờ, đây sẽ là căn cứ của đội.
+Dialogue: 12,0:06:13.69,0:06:17.27,Main,,0,0,0,,Nhưng tôi nói luôn, \N tôi phản đối việc để anh tham gia.
+Dialogue: 12,0:06:17.27,0:06:18.48,Main,,0,0,0,,Tại sao?
+Dialogue: 12,0:06:18.48,0:06:19.78,Main,,0,0,0,,Thiếu tinh thần đồng đội,
+Dialogue: 12,0:06:19.78,0:06:23.40,Main,,0,0,0,,chỉ thích hành động một mình như anh\N là gánh nặng cho đội.
+Dialogue: 12,0:06:23.40,0:06:24.24,Main,,0,0,0,,Khiếp!
+Dialogue: 12,0:06:25.36,0:06:28.78,Main,,0,0,0,,Mà này, cứ cho đây là\N căn cứ của siêu anh hùng đi,
+Dialogue: 12,0:06:28.78,0:06:30.75,Main,,0,0,0,,nhưng có hơi xập xệ quá không?
+Dialogue: 12,0:06:30.75,0:06:33.33,Main,,0,0,0,,Không, đây chỉ là ngụy trang thôi.
+Dialogue: 12,0:06:33.33,0:06:34.46,Main,,0,0,0,,Chắc chưa?
+Dialogue: 12,0:06:43.30,0:06:44.68,Main,,0,0,0,,À thì...
+Dialogue: 12,0:06:45.13,0:06:48.47,Main,,0,0,0,,Đưa tay lên,\N cửa sẽ mở qua quét mao mạch.
+Dialogue: 12,0:06:55.94,0:06:58.15,Main,,0,0,0,,Đã đăng ký sẵn cho tôi rồi à?
+Dialogue: 12,0:06:58.15,0:07:00.02,Main,,0,0,0,,Khi anh còn ngủ đấy.
+Dialogue: 12,0:07:02.44,0:07:03.99,Main,,0,0,0,,Deniz Skinner.
+Dialogue: 12,0:07:03.99,0:07:06.36,Main,,0,0,0,,Nếu còn sống, giờ 56 tuổi.
+Dialogue: 12,0:07:06.36,0:07:07.97,Main,,0,0,0,,Sinh ra ở Istanbul.
+Dialogue: 12,0:07:08.41,0:07:11.95,Main,,0,0,0,,Mồ côi từ năm 12 tuổi\N vì xung đột chiến tranh.
+Dialogue: 12,0:07:11.95,0:07:15.87,Main,,0,0,0,,Kể từ đó, chưa vợ chưa con.
+Dialogue: 12,0:07:15.87,0:07:18.25,Main,,0,0,0,,Vậy là một thân một mình.
+Dialogue: 12,0:07:19.09,0:07:22.17,Main,,0,0,0,,Vào Viện Công nghệ Zurich năm 16 tuổi.
+Dialogue: 12,0:07:22.17,0:07:24.34,Main,,0,0,0,,Tốt nghiệp thạc sĩ Cambridge năm 20 tuổi.
+Dialogue: 12,0:07:24.34,0:07:25.38,Main,,0,0,0,,Và...
+Dialogue: 12,0:07:25.38,0:07:29.05,Main,,0,0,0,,Từ thời sinh viên đã đạt nhiều thành tựu\N đáng kinh ngạc.
+Dialogue: 12,0:07:29.30,0:07:33.93,Main,,0,0,0,,Luôn được ví như thiên tài \Nkể từ thời Einstein.
+Dialogue: 12,0:07:33.93,0:07:35.06,Main,,0,0,0,,Ây!
+Dialogue: 12,0:07:35.06,0:07:40.86,Main,,0,0,0,,Thay vì kể mấy chuyện đó, sao không\N bàn qua động cơ phạm tội đi?
+Dialogue: 12,0:07:40.86,0:07:41.73,Main,,0,0,0,,Hợp lý.
+Dialogue: 12,0:07:44.07,0:07:47.41,Main,,0,0,0,,Skinner nhận ba giải Nobel.
+Dialogue: 12,0:07:47.41,0:07:51.83,Main,,0,0,0,,Nhưng phần lớn tiền thưởng đều quyên góp, \Nsống cuộc đời giản dị.
+Dialogue: 12,0:07:52.16,0:07:55.87,Main,,0,0,0,,Còn từ bỏ mọi bằng sáng chế \Nliên quan đến các loại thuốc mình phát triển.
+Dialogue: 12,0:07:57.54,0:08:03.17,Main,,0,0,0,,Ông ta tích cực tham gia \Ncác phong trào hòa bình, xóa bỏ bất bình đẳng,
+Dialogue: 12,0:08:03.17,0:08:06.34,Main,,0,0,0,,và đặc biệt quan tâm \Nđến khủng hoảng khí hậu.
+Dialogue: 12,0:08:06.51,0:08:09.76,Main,,0,0,0,,Từng tham dự các hội nghị môi trường \Nvà cả Liên Hợp Quốc,
+Dialogue: 12,0:08:09.76,0:08:11.93,Main,,0,0,0,,qua đó liên tục lên tiếng cảnh báo.
+Dialogue: 12,0:08:12.72,0:08:16.68,Main,,0,0,0,,Và đây là bài phát biểu nổi tiếng \Ntại Liên Hợp Quốc.
+Dialogue: 12,0:08:17.23,0:08:21.61,Main,,0,0,0,,Tôi chỉ là một nhà khoa học,\N nói lên sự thật.
+Dialogue: 12,0:08:22.02,0:08:23.61,Main,,0,0,0,,Theo tính toán của tôi,
+Dialogue: 12,0:08:23.82,0:08:25.82,Main,,0,0,0,,đúng 3 năm nữa,
+Dialogue: 12,0:08:26.24,0:08:29.24,Main,,0,0,0,,ở Bắc Cực sẽ không còn băng.
+Dialogue: 12,0:08:29.61,0:08:32.24,Main,,0,0,0,,Nhưng đây chỉ là khởi đầu.
+Dialogue: 12,0:08:32.49,0:08:34.66,Main,,0,0,0,,Nếu không hành động ngay bây giờ,
+Dialogue: 12,0:08:34.91,0:08:37.25,Main,,0,0,0,,Trái Đất sẽ sụp đổ như tuyết lở.
+Dialogue: 12,0:08:38.12,0:08:40.21,Main,,0,0,0,,Giờ nếu chẳng còn ai sống sót,
+Dialogue: 12,0:08:40.21,0:08:43.09,Main,,0,0,0,,thì các người còn định làm gì\N với nền kinh tế chứ?
+Dialogue: 12,0:08:46.55,0:08:47.67,Main,,0,0,0,,Kết quả là...
+Dialogue: 12,0:08:48.09,0:08:51.05,Main,,0,0,0,,các thành viên thường trực\N rút khỏi Hội đồng Bảo an,
+Dialogue: 12,0:08:51.05,0:08:53.39,Main,,0,0,0,,một kết cục tồi tệ.
+Dialogue: 12,0:08:54.93,0:08:56.10,Main,,0,0,0,,Không lâu sau,
+Dialogue: 12,0:08:56.60,0:08:58.23,Main,,0,0,0,,ông ta biến mất.
+Dialogue: 12,0:08:59.02,0:09:00.81,Main,,0,0,0,,Nghe liêm mà.
+Dialogue: 12,0:09:00.81,0:09:02.26,Main,,0,0,0,,Quá hoàn hảo ấy chứ.
+Dialogue: 12,0:09:02.61,0:09:04.57,Main,,0,0,0,,Liệu có làm gì mờ ám không?
+Dialogue: 12,0:09:05.11,0:09:07.19,Main,,0,0,0,,Còn thông tin rò rỉ \Nvề những nơi trông thấy ông ta?
+Dialogue: 12,0:09:07.19,0:09:10.20,Main,,0,0,0,,À, có vài tin cũ.
+Dialogue: 12,0:09:10.91,0:09:14.41,Main,,0,0,0,,Nhường ghế cho bà cụ trên tàu này...
+Dialogue: 12,0:09:14.58,0:09:16.91,Main,,0,0,0,,Giúp người vô gia cư này...
+Dialogue: 12,0:09:17.45,0:09:21.92,Main,,0,0,0,,Có lần đang ăn bánh kẹp\N thì bị chó cướp mất.
+Dialogue: 12,0:09:21.92,0:09:22.96,Main,,0,0,0,,Quái gì thế?
+Dialogue: 12,0:09:22.96,0:09:24.59,Main,,0,0,0,,Cảm giác còn liêm hơn.
+Dialogue: 12,0:09:24.88,0:09:26.92,Main,,0,0,0,,Bậc thánh hiền rồi.
+Dialogue: 12,0:09:26.92,0:09:30.30,Main,,0,0,0,,Một người như vậy,\N mà lại gây ra vụ này sao?
+Dialogue: 12,0:09:30.88,0:09:36.18,Main,,0,0,0,,Tóm lại, từ 3 năm trước,\N khi ông ta biến mất thì không có tin gì.
+Dialogue: 12,0:09:36.56,0:09:39.60,Main,,0,0,0,,Không có bất kỳ dấu vết nào.
+Dialogue: 12,0:09:39.98,0:09:44.27,Main,,0,650,0,,Chẳng lẽ ông ta nhốt mình trong nhà, \Ntự cung tự cấp sao?
+Dialogue: 12,0:09:44.27,0:09:45.73,Main,,0,0,0,,Hay là chết rồi?
+Dialogue: 12,0:09:45.73,0:09:47.98,Main,,1000,0,0,,Chắc là cải trang lúc ra ngoài.
+Dialogue: 12,0:09:47.98,0:09:50.95,Main,,0,800,0,,Có thể là sống với danh tính khác.
+Dialogue: 12,0:09:50.95,0:09:51.95,Main,,500,0,0,,{\an8}À này...
+Dialogue: 12,0:09:53.03,0:09:56.16,Main,,0,0,0,,Em tìm thấy dấu vết rồi.
+Dialogue: 12,0:10:20.06,0:10:23.35,Main,,0,0,0,,Đã bảo cấm lái xe kiểu đó mà!
+Dialogue: 12,0:10:23.35,0:10:24.31,Main,,0,0,0,,Xin lỗi.
+Dialogue: 12,0:10:34.28,0:10:36.20,Main,,0,0,0,,{\i1}Công ty bán hầm trú ẩn hạt nhân?
+Dialogue: 12,0:10:36.53,0:10:37.53,Main,,0,0,0,,{\i1}Vâng.
+Dialogue: 12,0:10:37.53,0:10:41.41,Main,,0,0,0,,{\i1}8 năm trước, \NTiến sĩ Skinner có mua một cái.
+Dialogue: 12,0:10:42.20,0:10:43.66,Main,,0,0,0,,{\i1}Hiểu rồi.
+Dialogue: 12,0:10:43.66,0:10:48.59,Main,,0,0,0,,{\i1}Trong hầm trú ẩn, ông ta\N có thể sống nhiều năm mà không ai biết.
+Dialogue: 12,0:10:49.21,0:10:52.97,Main,,0,0,0,,Nhưng công ty đó giờ không liên lạc được, \Ncả điện thoại lẫn email.
+Dialogue: 12,0:10:53.30,0:10:54.84,Main,,0,0,0,,Axel và Chris kiểm tra hầm trú ẩn.
+Dialogue: 12,0:10:55.47,0:10:57.93,Main,,0,0,0,,Doug và Leland điều tra công ty kia.
+Dialogue: 12,0:10:58.68,0:11:03.10,Main,,0,0,0,,Eleina, có thể chạy \Nnhận diện khuôn mặt của Skinner
+Dialogue: 12,0:11:03.10,0:11:05.56,Main,,0,0,0,,trên dữ liệu \Ncamera giám sát toàn cầu không?
+Dialogue: 12,0:11:05.90,0:11:07.02,Main,,0,0,0,,Được ạ.
+Dialogue: 12,0:11:09.65,0:11:13.19,Main,,0,0,0,,Nếu ông ta cải trang\N có thể sẽ không hiệu quả.
+Dialogue: 12,0:11:14.78,0:11:16.57,Main,,0,0,0,,Nhưng cứ thử xem sao.
+Dialogue: 12,0:11:24.04,0:11:27.17,Main,,0,0,0,,Anh... từng ngồi tù đúng không?
+Dialogue: 12,0:11:27.17,0:11:29.34,Main,,0,0,0,,À thì... một chút.
+Dialogue: 12,0:11:29.84,0:11:31.50,Main,,0,0,0,,Làm gì mà bị tóm?
+Dialogue: 12,0:11:31.50,0:11:32.63,Main,,0,0,0,,Tù bao lâu?
+Dialogue: 12,0:11:33.13,0:11:34.42,Main,,0,0,0,,Xem nào...
+Dialogue: 12,0:11:34.42,0:11:36.51,Main,,0,0,0,,888 năm.
+Dialogue: 12,0:11:40.93,0:11:42.77,Main,,0,0,0,,Xuống xe ngay, thằng giết người!
+Dialogue: 12,0:11:44.64,0:11:46.77,Main,,0,0,0,,Tôi không muốn đi cùng "Leatherface"!
+Dialogue: 12,0:11:46.77,0:11:47.39,Main,,0,0,0,,Ơ khoan đã!
+Dialogue: 12,0:11:47.39,0:11:50.86,Main,,0,0,0,,Chỉ giết một người\N thì không thể tù lâu như vậy được.
+Dialogue: 12,0:11:50.86,0:11:51.61,Main,,0,0,0,,Nghe đã nào.
+Dialogue: 12,0:11:52.02,0:11:53.36,Main,,0,0,0,,Giết bao nhiêu người rồi hả?
+Dialogue: 12,0:11:54.32,0:11:55.28,Main,,0,0,0,,Nghe này.
+Dialogue: 12,0:11:55.28,0:11:58.45,Main,,0,0,0,,Cô có biết mỗi lần vượt ngục,\N án sẽ tăng gấp đôi không?
+Dialogue: 12,0:12:00.03,0:12:00.78,Main,,0,0,0,,Rồi sao?
+Dialogue: 12,0:12:00.78,0:12:02.66,Main,,0,0,0,,Ban đầu chỉ có 3 năm.
+Dialogue: 12,0:12:02.66,0:12:07.25,Main,,0,0,0,,Nhưng cứ vượt ngục chán chê, \Nthế là thành ra như vậy.
+Dialogue: 12,0:12:08.87,0:12:11.04,Main,,0,0,0,,Sao phải vượt ngục nhiều thế?
+Dialogue: 12,0:12:11.84,0:12:13.59,Main,,0,0,0,,À thì...
+Dialogue: 12,0:12:14.71,0:12:15.84,Main,,0,0,0,,Vì thích?
+Dialogue: 12,0:12:16.88,0:12:18.26,Main,,0,0,0,,Đến chịu!
+Dialogue: 12,0:12:18.26,0:12:20.80,Main,,0,0,0,,Nghe dở người thật.
+Dialogue: 12,0:12:24.18,0:12:27.31,Main,,0,0,0,,Thấy Anh Doug cũng đeo cái vòng đó,
+Dialogue: 12,0:12:27.31,0:12:29.60,Main,,0,0,0,,tức là anh cũng bị nắm thóp nhỉ?
+Dialogue: 12,0:12:30.02,0:12:31.02,Main,,0,0,0,,Muốn biết à?
+Dialogue: 12,0:12:31.98,0:12:33.77,Main,,0,0,0,,À, chút chút.
+Dialogue: 12,0:12:33.77,0:12:36.24,Main,,0,0,0,,Có biết câu tò mò thiệt thân không?
+Dialogue: 12,0:12:36.24,0:12:38.70,Main,,0,0,0,,Vậy là kinh khủng lắm sao?
+Dialogue: 12,0:12:39.24,0:12:40.86,Main,,0,0,0,,Ví dụ thế thôi.
+Dialogue: 12,0:12:40.86,0:12:44.62,Main,,0,0,0,,Trường hợp của anh\N chỉ là một vụ gây thương tích nhẹ.
+Dialogue: 12,0:12:44.99,0:12:47.45,Main,,0,0,0,,Nhẹ thôi à...
+Dialogue: 12,0:12:47.45,0:12:49.92,Main,,0,0,0,,Còn em thì sao, Leland?
+Dialogue: 12,0:12:49.92,0:12:52.13,Main,,0,0,0,,Em thì chẳng có gì to tát.
+Dialogue: 12,0:12:52.88,0:12:54.38,Main,,0,0,0,,Chỉ vài vụ trộm vặt.
+Dialogue: 12,0:12:54.38,0:12:56.51,Main,,0,0,0,,Thật sự là vặt ha.
+Dialogue: 12,0:12:58.26,0:13:01.14,Main,,0,0,0,,Nhưng mà này, Eleina mới là đáng gờm.
+Dialogue: 12,0:13:01.14,0:13:02.68,Main,,0,0,0,,Hả? Thật á?
+Dialogue: 12,0:13:03.05,0:13:06.68,Main,,0,0,0,,Nghe nói em ấy là một hacker khét tiếng, \Ngây ra hàng loạt vụ việc.
+Dialogue: 12,0:13:08.27,0:13:10.39,Main,,0,0,0,,Nhìn cô ấy hiền khô thế mà.
+Dialogue: 12,0:13:10.85,0:13:12.44,Main,,0,0,0,,Biết đâu đấy,
+Dialogue: 12,0:13:12.44,0:13:14.61,Main,,0,0,0,,em ấy mới là "Joker" thật sự.
+Dialogue: 12,0:14:12.87,0:14:14.50,Main,,0,0,0,,Có đúng là ở đây không?
+Dialogue: 12,0:14:14.50,0:14:16.46,Main,,0,0,0,,Thì đúng là vậy.
+Dialogue: 12,0:14:23.34,0:14:26.22,Main,,0,0,0,,B12... Ở đây à.
+Dialogue: 12,0:14:26.22,0:14:27.97,Main,,0,0,0,,Trông như chẳng có ma nào.
+Dialogue: 12,0:14:30.72,0:14:31.60,Main,,0,0,0,,Đi nào.
+Dialogue: 12,0:14:53.62,0:14:55.37,Main,,0,0,0,,Máy phát điện tự động à?
+Dialogue: 12,0:14:55.37,0:14:57.54,Main,,0,0,0,,Khác gì phế tích đâu.
+Dialogue: 12,0:15:16.44,0:15:17.86,Main,,0,0,0,,Xin chào!
+Dialogue: 12,0:15:17.86,0:15:19.36,Main,,0,0,0,,Amigo?
+Dialogue: 12,0:15:19.36,0:15:21.19,Main,,0,0,0,,Ní hảo?
+Dialogue: 12,0:15:21.19,0:15:23.36,Main,,0,0,0,,Có ai không?
+Dialogue: 12,0:15:27.57,0:15:30.33,Main,,0,0,0,,Có dấu hiệu hoạt động gần đây.
+Dialogue: 12,0:15:42.50,0:15:43.17,Main,,0,0,0,,Ai vậy?
+Dialogue: 12,0:16:09.36,0:16:11.66,Main,,0,0,0,,Skinner à?
+Dialogue: 12,0:16:12.12,0:16:13.12,Main,,0,0,0,,Không phải?
+Dialogue: 12,0:16:13.12,0:16:15.08,Main,,0,0,0,,Hay là phẫu thuật thẩm mỹ?
+Dialogue: 12,0:16:15.37,0:16:16.62,Main,,0,0,0,,Này, còn sống không thế?
+Dialogue: 12,0:16:20.71,0:16:21.88,Main,,0,0,0,,Nào nào.
+Dialogue: 12,0:16:21.88,0:16:24.51,Main,,0,0,0,,Bỏ súng xuống, từ từ thôi.
+Dialogue: 12,0:16:24.76,0:16:25.88,Main,,0,0,0,,Xin lỗi.
+Dialogue: 12,0:16:30.09,0:16:32.85,Main,,0,0,0,,Xin lỗi, nhưng tao cũng có việc phải làm.
+Dialogue: 12,0:16:32.85,0:16:34.26,Main,,0,0,0,,Gã đó đâu?
+Dialogue: 12,0:16:34.26,0:16:35.10,Main,,0,0,0,,Gã nào?
+Dialogue: 12,0:16:35.43,0:16:39.27,Main,,0,0,0,,Nói mau, không là không nương tay đâu.
+Dialogue: 12,0:16:39.77,0:16:42.23,Main,,0,0,0,,Ấy khoan, bọn tôi cũng không biết gì thật.
+Dialogue: 12,0:16:42.98,0:16:44.86,Main,,0,0,0,,Định giả vờ à?
+Dialogue: 12,0:16:44.86,0:16:46.65,Main,,0,0,0,,Tao khắc có cách đấy.
+Dialogue: 12,0:16:47.65,0:16:48.99,Main,,0,0,0,,Nào chọn đi.
+Dialogue: 12,0:16:48.99,0:16:51.07,Main,,0,0,0,,Mũi hay tai, cái nào được?
+Dialogue: 12,0:16:59.21,0:17:00.04,Main,,0,0,0,,Gì thế?
+Dialogue: 12,0:17:04.25,0:17:07.38,Main,,0,0,0,,Kính coong! Có khách này!
+Dialogue: 12,0:17:07.67,0:17:10.13,Main,,0,0,0,,Nghe đây! Kobayashi đâu? Kobayashi!
+Dialogue: 12,0:17:12.26,0:17:13.35,Main,,0,0,0,,Kobayashi?
+Dialogue: 12,0:17:16.47,0:17:17.72,Main,,0,0,0,,Chó chết!
+Dialogue: 12,0:17:17.72,0:17:19.39,Main,,0,0,0,,Bọn Nga ngố này!
+Dialogue: 12,0:17:19.39,0:17:20.19,Main,,0,0,0,,Sao cô biết?
+Dialogue: 12,0:17:23.94,0:17:26.07,Main,,0,0,0,,Còn bên này nghe như tụi Chicano.
+Dialogue: 12,0:17:31.45,0:17:33.70,Main,,0,0,0,,Ủa anh? Sao trông anh vui thế?
+Dialogue: 12,0:17:33.70,0:17:35.16,Main,,0,0,0,,Ơ, lộ ra mặt à?
+Dialogue: 12,0:17:36.99,0:17:37.95,Main,,0,0,0,,Cái gì thế?
+Dialogue: 12,0:17:38.58,0:17:39.91,Main,,0,0,0,,Bùa hộ mệnh.
+Dialogue: 12,0:17:39.91,0:17:42.75,Main,,0,0,0,,Thiên thần này luôn bảo vệ tôi.
+Dialogue: 12,0:17:44.00,0:17:45.71,Main,,0,0,0,,Miễn là có nó.
+Dialogue: 12,0:17:46.50,0:17:48.17,Main,,0,0,0,,Tôi bất tử.
+Dialogue: 12,0:17:50.34,0:17:50.80,Main,,0,0,0,,Đùa à?
+Dialogue: 12,0:17:51.47,0:17:52.72,Main,,0,0,0,,Thằng cha này!
+Dialogue: 12,0:17:52.72,0:17:54.68,Main,,0,0,0,,Điên thật rồi!
+Dialogue: 12,0:17:59.56,0:18:01.44,Main,,0,0,0,,Kobayashi đâu, chui ra đây!
+Dialogue: 12,0:18:01.81,0:18:05.23,Main,,0,0,0,,Hôm nay phải trả bằng hết!
+Dialogue: 12,0:18:05.23,0:18:06.94,Main,,0,0,0,,Uầy, thế này là sao?
+Dialogue: 12,0:18:07.15,0:18:08.65,Main,,0,0,0,,Không phải Skinner à?
+Dialogue: 12,0:18:08.65,0:18:10.82,Main,,0,0,0,,Thằng kia! Mày là thằng nào?
+Dialogue: 12,0:18:11.15,0:18:12.20,Main,,0,0,0,,Tao đòi nợ!
+Dialogue: 12,0:18:12.61,0:18:14.66,Main,,0,0,0,,Tao cũng đòi nợ!
+Dialogue: 12,0:18:32.59,0:18:34.05,Main,,0,0,0,,Làm cái khùng điên gì vậy?
+Dialogue: 12,0:18:57.62,0:19:00.16,Main,,0,0,0,,Nghe này! Phải ưu tiên tìm Skinner chứ!
+Dialogue: 12,0:19:00.54,0:19:02.58,Main,,0,0,0,,À đấy, đúng rồi.
+Dialogue: 12,0:19:13.76,0:19:14.63,Main,,0,0,0,,Đứng yên!
+Dialogue: 12,0:19:15.63,0:19:17.47,Main,,0,0,0,,FBI đây! Bỏ vũ khí xuống!
+Dialogue: 12,0:19:17.93,0:19:19.81,Main,,0,0,0,,DEA đây! Bỏ vũ khí xuống!
+Dialogue: 12,0:19:20.14,0:19:22.06,Main,,0,0,0,,Lazarus đây! Bỏ vũ khí xuống!
+Dialogue: 12,0:19:23.77,0:19:25.02,Main,,0,0,0,,Lazarus?
+Dialogue: 12,0:19:25.23,0:19:26.48,Main,,0,0,0,,Là gì thế?
+Dialogue: 12,0:19:28.98,0:19:30.94,Main,,0,0,0,,Là siêu anh hùng.
+Dialogue: 12,0:19:45.87,0:19:46.79,Main,,0,0,0,,Ơ không...
+Dialogue: 12,0:19:49.04,0:19:51.46,Main,,0,0,0,,X-Xin lỗi!
+Dialogue: 12,0:19:52.13,0:19:54.09,Main,,0,0,0,,T-Tôi không định trốn đâu.
+Dialogue: 12,0:19:54.09,0:19:56.34,Main,,0,0,0,,Tôi tính trả nợ thật mà!
+Dialogue: 12,0:19:56.34,0:19:57.43,Main,,0,0,0,,Tôi thề!
+Dialogue: 12,0:19:57.43,0:19:59.01,Main,,0,0,0,,Đừng giết tôi mà!
+Dialogue: 12,0:19:59.01,0:20:00.97,Main,,0,0,0,,Tha cho tôi đi! Làm ơn!
+Dialogue: 12,0:20:02.01,0:20:03.06,Main,,0,0,0,,Ông...
+Dialogue: 12,0:20:03.39,0:20:05.23,Main,,0,0,0,,Không phải Skinner à?
+Dialogue: 12,0:20:13.44,0:20:15.15,Main,,0,0,0,,Kiểm tra DNA xong.
+Dialogue: 12,0:20:15.86,0:20:17.74,Main,,0,0,0,,Cóc phải Skinner rồi.
+Dialogue: 12,0:20:21.49,0:20:25.08,Main,,0,0,0,,Vậy là thằng Kobayashi\N cũng nợ tiền các anh à?
+Dialogue: 12,0:20:25.50,0:20:29.62,Main,,0,0,0,,Ừ, cả tiền xi măng tháng trước nữa.
+Dialogue: 12,0:20:29.62,0:20:31.84,Main,,0,0,0,,Nghe khó nhỉ.
+Dialogue: 12,0:20:31.84,0:20:34.59,Main,,0,0,0,,Thì đó! Thằng này đểu lắm.
+Dialogue: 12,0:20:35.05,0:20:37.09,Main,,0,0,0,,À nhóc, xin lỗi nhé.
+Dialogue: 12,0:20:37.09,0:20:39.26,Main,,0,0,0,,Nhầm nhóc với đàn em của Kobayashi.
+Dialogue: 12,0:20:39.26,0:20:40.76,Main,,0,0,0,,À, không sao.
+Dialogue: 12,0:20:40.76,0:20:43.39,Main,,0,0,0,,Bên đó cũng tìm Kobayashi à?
+Dialogue: 12,0:20:43.97,0:20:45.31,Main,,0,0,0,,Không hề.
+Dialogue: 12,0:20:45.68,0:20:46.56,Main,,0,0,0,,Rồi.
+Dialogue: 12,0:20:46.56,0:20:50.35,Main,,0,0,0,,Gã này trốn trong \Nchính sản phẩm hầm trú ẩn của mình.
+Dialogue: 12,0:20:50.35,0:20:51.73,Main,,0,0,0,,Chưa kể,
+Dialogue: 12,0:20:51.73,0:20:54.69,Main,,0,0,0,,còn cả FBI các kiểu kéo đến nữa.
+Dialogue: 12,0:20:55.94,0:20:56.90,Main,,0,0,0,,Hiểu rồi.
+Dialogue: 12,0:21:00.53,0:21:04.58,Main,,0,0,0,,Xem ra, nhiệm vụ này không dễ ăn đâu.
+Dialogue: 12,0:21:03.07,0:21:04.58,Main,,0,0,0,,{\an8}Chắc thế cũng nên.
+Dialogue: 12,0:21:04.58,0:21:05.74,Main,,0,0,0,,{\an8}Ồ hay lắm, hay lắm!
+Dialogue: 12,0:21:05.74,0:21:08.29,Main,,0,0,0,,{\an8}Gì? Điêu, rõ điêu! Ai thế?
+Dialogue: 12,0:21:10.87,0:21:15.05,Main,,0,0,0,,Nghĩ lại, cả đời mình chỉ toàn đánh cược.
+Dialogue: 12,0:21:15.88,0:21:21.13,Main,,0,0,0,,Luôn mơ có một ngày\N sẽ trúng mánh, giàu sang các thứ.
+Dialogue: 12,0:21:21.89,0:21:27.81,Main,,0,0,0,,Ai ngờ cuối cùng lại kết thúc thế này.
+Dialogue: 12,0:21:28.27,0:21:33.27,Main,,0,0,0,,Mình uống Hapna, cứ tưởng sẽ chết ngay.
+Dialogue: 12,0:21:33.27,0:21:36.65,Main,,0,0,0,,Hóa ra không phải vậy.
+Dialogue: 12,0:21:37.94,0:21:38.74,Main,,0,0,0,,Mà khoan.
+Dialogue: 12,0:21:39.61,0:21:41.03,Main,,0,0,0,,Có khi nào...
+Dialogue: 12,0:21:42.03,0:21:44.57,Main,,0,0,0,,Mình nên sống tiếp không?
+Dialogue: 12,0:21:45.70,0:21:46.41,Main,,0,0,0,,Đúng rồi!
+Dialogue: 12,0:21:47.04,0:21:48.83,Main,,0,0,0,,Mình nên làm lại lần nữa?
+Dialogue: 12,0:21:53.75,0:21:55.75,Main,,0,0,0,,Thôi muộn rồi.
+Dialogue: 12,0:21:55.75,0:21:59.92,Main,,0,0,0,,Dù sao sau 30 ngày nữa, tất cả sẽ chết.
+Dialogue: 12,0:22:02.43,0:22:04.64,Main,,0,0,0,,Tìm ra rồi! \NTìm ra Tiến sĩ Skinner rồi!
+Dialogue: 12,0:22:05.43,0:22:06.01,Main,,0,0,0,,Ở đâu?
+Dialogue: 12,0:22:08.97,0:22:12.23,Main,,0,0,0,,Đúng là Tiến sĩ Skinner rồi... nhưng mà...
+Dialogue: 12,0:22:12.23,0:22:14.15,Main,,0,0,0,,khoảng 100 nghìn người.
+Dialogue: 12,0:22:14.69,0:22:16.48,Main,,0,0,0,,Tức là sao?
