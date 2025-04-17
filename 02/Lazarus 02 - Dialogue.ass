@@ -18,10 +18,10 @@ Audio File: ../raws/Lazarus.S01E02.Life.In.The.Fast.Lane.1080p.NF.WEB-DL.AAC2.0.
 Video File: ../raws/Lazarus.S01E02.Life.In.The.Fast.Lane.1080p.NF.WEB-DL.AAC2.0.x264-DMM.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 299
-Active Line: 310
-Video Position: 31218
+Video Zoom Percent: 0.625000
+Scroll Position: 290
+Active Line: 293
+Video Position: 29831
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Comment: 12,0:16:51.07,0:16:55.16,GT 2,,0,0,0,,(tiếng Tây Ban Nha và tiếng
 Dialogue: 12,0:00:02.73,0:00:04.40,Main,,0,0,0,,3 năm trước,
 Dialogue: 12,0:00:05.07,0:00:06.69,Main,,0,0,0,,một loại thuốc giảm đau
 Dialogue: 12,0:00:06.69,0:00:11.87,Main,,0,0,0,,mang tên Hapna được tung ra,\N quảng cáo là "giải phóng con người khỏi đau đớn".
-Dialogue: 12,0:00:11.87,0:00:15.83,Main,,0,0,0,,Nhưng với giới trẻ thì lại  hoàn toàn khác.
+Dialogue: 12,0:00:11.87,0:00:15.83,Main,,0,0,0,,Nhưng với giới trẻ thì lại hoàn toàn khác.
 Dialogue: 12,0:00:17.08,0:00:19.67,Main,,0,0,0,,Họ dùng Hapna như một loại ma túy.
 Dialogue: 12,0:00:20.63,0:00:23.34,Main,,0,0,0,,Chỉ cần pha với soda, \Nuống vào là tâm trạng phấn chấn,
 Dialogue: 12,0:00:23.34,0:00:24.42,Main,,0,0,0,,có chút "phê".
@@ -326,8 +326,8 @@ Dialogue: 12,0:20:35.05,0:20:37.09,Main,,0,0,0,,À nhóc, xin lỗi nhé.
 Dialogue: 12,0:20:37.09,0:20:39.26,Main,,0,0,0,,Nhầm nhóc với đàn em của Kobayashi.
 Dialogue: 12,0:20:39.26,0:20:40.76,Main,,0,0,0,,À, không sao.
 Dialogue: 12,0:20:40.76,0:20:43.39,Main,,0,0,0,,Bên đó cũng tìm Kobayashi à?
-Dialogue: 12,0:20:43.97,0:20:45.31,Main,,0,0,0,,Không hề.
-Dialogue: 12,0:20:45.68,0:20:46.56,Main,,0,0,0,,Rồi.
+Dialogue: 12,0:20:43.97,0:20:45.31,Main,,0,0,0,,Người khác?
+Dialogue: 12,0:20:45.68,0:20:46.56,Main,,0,0,0,,Ờ.
 Dialogue: 12,0:20:46.56,0:20:50.35,Main,,0,0,0,,Gã này trốn trong \Nchính sản phẩm hầm trú ẩn của mình.
 Dialogue: 12,0:20:50.35,0:20:51.73,Main,,0,0,0,,Chưa kể,
 Dialogue: 12,0:20:51.73,0:20:54.69,Main,,0,0,0,,còn cả FBI các kiểu kéo đến nữa.
