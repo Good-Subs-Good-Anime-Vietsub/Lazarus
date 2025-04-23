@@ -6,10 +6,18 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Keyframes File: F:/[Anime Fansub]/[KiOZ]/[GSGAV]/Lazarus/03/../raws/Lazarus.S01E03.....txt
+Audio File: ../../../../../Lazarus.S01E03.Long.Way.From.Home.1080p.NF.WEB-DL.AAC2.0.x264-DMM.mkv
+Video File: ../../../../../Lazarus.S01E03.Long.Way.From.Home.1080p.NF.WEB-DL.AAC2.0.x264-DMM.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Active Line: 11
+Video Position: 6286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,4 +29,44 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:04:20.91,0:04:22.83,Signs,che,0,0,0,@Hunn,{\pos(385.6,469.6)}Công ty Smile Clean\NSố nhân viên\NNgày cấp\NNgày hết hạn\NChữ ký
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HEBE2DA&\p1}m 1025.11 821.63 l 1017.11 793.71 1029.03 792.88 1033.61 799.96 1054.19 806.88 1075.61 806.39 1077.11 806.36 1075.86 809.38 1078.25 813.69 1084.61 813.13 1087.94 807.25 1124.78 796.79 1124.78 788.09 1115.29 786.46 b 1115.29 786.46 1092.78 805.01 1057.69 798.78 1057.69 798.78 1044.59 797.29 1034.31 789.96 l 1026 790.88 1026 794.57 1033.03 819.88 1025.11 821.63{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF6F6F4&\p1}m 857.04 684.74 l 875.38 907.07 916.38 936.4 1011.71 899.4 986.04 664.03 857.04 684.74{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HECE1D6&\p1}m 1044.32 878.15 l 1048.65 907.32 1086.99 903.71 1086.99 883.15 1055.82 876.49 1044.32 878.15{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HEAE0D0&\p1}m 1140.49 870.99 l 1137.78 900.5 1146.99 897.6 1151.82 891.9 1160.65 874.15 1140.49 870.99{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HE8DDC9&\p1}m 1233.15 864.99 b 1233.15 865.49 1243.82 886.61 1243.82 886.61 l 1251.32 886.61 1246.32 859.32 1237.65 858.65 1233.15 864.99{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HEBE2D9&\p1}m 1014.81 761.64 l 1025.64 749.85 1032.35 750.6 1034.31 752.6 1020.93 766.39 1014.6 761.81 1014.81 761.64{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HDAF4F9&\p1}m 1000.84 684.06 l 981.25 716.19 972.36 790.86 979.47 853.97 1000.84 903.97 1074.32 912.49 1062.72 898.94 b 1062.72 898.94 1030.35 858.17 1019.01 791.72 l 1010.33 795.72 1002.35 797.5 1000.35 790.61 1002.57 768.39 1014.43 763.14 1023.36 753.65 b 1025.3 751.59 1028.33 750.96 1030.93 752.1 l 1039.44 758 1106.51 720.69 1104.18 664.03 1030.18 667.36 1000.84 684.06{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HDAF4F9&\p1}m 1021.31 766.01 l 1031.06 755.79 b 1031.96 754.89 1032.1 753.49 1031.41 752.43 l 1030.26 750.67 1051.35 764.92 1047.39 796.58 b 1047.39 796.58 1080.15 808.45 1110.82 789.51 l 1077.47 759.06 1030.92 768.17 1021.31 766.01{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF6F6F4&\p1}m 1031.83 816.65 l 1026 795.9 1029.75 794.57 b 1029.75 794.57 1040.25 802.65 1048.42 803.82 1048.42 803.82 1063.83 806.93 1077.42 806.35 l 1064.57 829.35 1042.42 832.82 1031.83 816.65 m 1077.42 824.07 l 1085.08 804.74 b 1085.08 804.74 1100.83 805.49 1126.92 786.57 l 1142.54 789 1147.89 824.31 1077.42 824.07{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF1E4DA&\p1}m 1004.33 678.44 b 1004.33 678.44 937.89 771.78 1010.33 910 l 1003 919.78 b 1003 919.78 924.56 806 992.63 677.78 l 1004.33 678.44{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF6F6F4&\p1}m 1068.74 850.93 l 1060.18 879.38 b 1060.18 879.38 1062.85 893.38 1082.51 910.04 l 1142.76 900.76 1145.76 863.87 1068.74 850.93 m 1151.85 862.15 l 1149.4 897.6 1166.74 885.38 b 1166.74 885.38 1177.51 882.04 1183.85 888.93 1190.18 895.82 1221.96 892.49 1221.96 892.49 l 1244.85 886.71 1239.29 855.37 1151.85 862.15{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF6F6F4&\p1}m 1162.4 893.04 l 1169.51 887.71 b 1169.51 887.71 1177.85 883.93 1180.74 890.37 l 1177.85 903.71 1162.4 893.04{\p0}
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\pos(960,540)\p1\c&H00D9FB&}m 110.5 -338.85 l 105.82 -260.5 603.94 -295.58 577.63 -380.95
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{=19}{\fs60\fnSVN-Helves\3c&H2BC6EA&\b1\fax0.000002\fscx91.19\fscy121.05\frz3.4740\frx-0.1512\fry0.2177\xbord1.15\ybord1.85\org(1617.69,757.64)\pos(1117.21,123.02)}Công ty Smile Clean.
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{=7}{\fs48\c&H554F4F&\fnSVN-Agency FB\b1\fscx118.94\fscy97.97\frz3.7870\frx-0.2284\fry0.2218\org(804.51,572.8)\pos(962.19,706.85)}Số nhân viên.
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{=8}{\fs48\c&H554F4F&\fnSVN-Agency FB\b1\fscx118.98\fscy97.89\frz3.8184\frx-0.2285\fry0.2221\org(767.17,623.01)\pos(930.98,762.25)}Ngày cấp
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{=9}{\fs48\c&H554F4F&\fnSVN-Agency FB\b1\fscx118.99\fscy97.86\frz3.8295\frx-0.2280\fry0.2223\org(753.66,640.88)\pos(958.76,815.68)}Ngày hết hạn
+Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{=11}{\fs48\c&H554F4F&\fnSVN-Agency FB\b1\fax-0.000001\fscx118.97\fscy97.90\frz3.8125\frx-0.2280\fry0.2213\org(773.24,612.63)\pos(1112.19,900.34)}Chữ ký
+Dialogue: 0,0:04:24.08,0:04:27.08,Signs,,0,0,0,@Hunn,
+
+[Aegisub Extradata]
+Data: 0,_aegi_perspective_ambient_plane,e745.03;88.08#7C1139.11;652.65#7C1139.11;752.65#7C807.89;752.65
+Data: 1,_aegi_perspective_ambient_plane,e745.03;88.08#7C1139.11;652.65#7C1139.11;752.65#7C810.18;1070.36
+Data: 2,_aegi_perspective_ambient_plane,e745.03;88.08#7C1415.68;51.51#7C1139.11;752.65#7C810.18;1070.36
+Data: 3,_aegi_perspective_ambient_plane,e745.03;88.08#7C1415.68;51.51#7C1461.40;1023.51#7C810.18;1070.36
+Data: 4,_aegi_perspective_ambient_plane,e745.03;88.08#7C1405.40;51.51#7C1461.40;1023.51#7C810.18;1070.36
+Data: 5,_aegi_perspective_ambient_plane,e745.03;91.51#7C1405.40;51.51#7C1461.40;1023.51#7C810.18;1070.36
+Data: 6,_aegi_perspective_ambient_plane,e745.03;91.49#7C1405.40;51.49#7C1461.40;1023.52#7C810.18;1070.37
+Data: 7,_aegi_perspective_ambient_plane,e745.03;91.47#7C1405.40;51.47#7C1461.40;1023.53#7C810.18;1070.38
+Data: 8,_aegi_perspective_ambient_plane,e745.03;91.46#7C1405.40;51.45#7C1461.40;1023.54#7C810.18;1070.39
+Data: 9,_aegi_perspective_ambient_plane,e745.04;91.46#7C1405.40;51.45#7C1461.40;1023.54#7C810.18;1070.40
+Data: 10,_aegi_perspective_ambient_plane,e745.04;91.47#7C1405.40;51.46#7C1461.40;1023.54#7C810.18;1070.39
+Data: 11,_aegi_perspective_ambient_plane,e745.04;91.48#7C1405.40;51.45#7C1461.41;1023.54#7C810.18;1070.39
+Data: 12,_aegi_perspective_ambient_plane,e502.20;114.35#7C1541.61;51.27#7C1548.17;168.93#7C510.51;233.33
+Data: 13,_aegi_perspective_ambient_plane,e502.20;114.35#7C1541.61;51.27#7C1548.17;168.93#7C792.79;1066.47
+Data: 14,_aegi_perspective_ambient_plane,e741.05;88.07#7C1541.61;51.27#7C1548.17;168.93#7C792.79;1066.47
+Data: 15,_aegi_perspective_ambient_plane,e741.05;88.07#7C1415.89;53.56#7C1548.17;168.93#7C792.79;1066.47
+Data: 16,_aegi_perspective_ambient_plane,e741.05;88.07#7C1415.89;53.56#7C1462.46;1021.50#7C792.79;1066.47
+Data: 17,_aegi_perspective_ambient_plane,e741.05;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C792.79;1066.47
+Data: 18,_aegi_perspective_ambient_plane,e741.05;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C809.93;1063.04
+Data: 19,_aegi_perspective_ambient_plane,e743.34;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C809.93;1063.04
