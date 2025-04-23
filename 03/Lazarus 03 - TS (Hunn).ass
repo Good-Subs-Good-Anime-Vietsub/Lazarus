@@ -16,8 +16,7 @@ Video File: ../../../../../Lazarus.S01E03.Long.Way.From.Home.1080p.NF.WEB-DL.AAC
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 11
-Video Position: 6286
+Video Position: 7861
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +28,186 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:05:27.84,0:05:27.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,487.83)\pos(1020,205.96)\1c&H47478F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:27.89,0:05:27.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,490.81)\pos(1020,208.94)\1c&H494993&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:27.93,0:05:27.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,493.84)\pos(1020.02,211.97)\1c&H47478F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:27.97,0:05:28.01,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,496.83)\pos(1020,214.96)\1c&H474692&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.01,0:05:28.05,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,499.81)\pos(1020,217.94)\1c&H454691&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.05,0:05:28.09,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,502.86)\pos(1020.01,220.99)\1c&H454691&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.09,0:05:28.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,505.8)\pos(1020,223.93)\1c&H46458E&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.14,0:05:28.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,508.8)\pos(1020,226.93)\1c&H464590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.18,0:05:28.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,511.83)\pos(1020,229.96)\1c&H46458F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.22,0:05:28.26,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,514.8)\pos(1019.99,232.93)\1c&H46468F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.26,0:05:28.30,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,517.8)\pos(1020,235.93)\1c&H45458F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.30,0:05:28.34,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,520.8)\pos(1020,238.93)\1c&H444590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.34,0:05:28.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,523.79)\pos(1020.01,241.92)\1c&H444590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.39,0:05:28.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,526.77)\pos(1020,244.9)\1c&H464696&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.43,0:05:28.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,529.79)\pos(1020.01,247.92)\1c&H454693&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.47,0:05:28.51,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,532.77)\pos(1020,250.9)\1c&H454692&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.51,0:05:28.55,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,535.77)\pos(1020,253.9)\1c&H444590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.55,0:05:28.59,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,538.76)\pos(1020,256.89)\1c&H444590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.59,0:05:28.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,541.76)\pos(1020,259.89)\1c&H444590&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.64,0:05:28.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,544.76)\pos(1020,262.89)\1c&H45448F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.68,0:05:28.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,547.76)\pos(1020,265.89)\1c&H43448D&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.72,0:05:28.76,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,550.77)\pos(1020,268.9)\1c&H43448F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.76,0:05:28.80,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,553.76)\pos(1020,271.89)\1c&H444592&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.80,0:05:28.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,556.76)\pos(1020,274.89)\1c&H454390&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.85,0:05:28.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,559.76)\pos(1020,277.89)\1c&H42438E&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.89,0:05:28.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,562.75)\pos(1020.01,280.88)\1c&H434391&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.93,0:05:28.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,565.74)\pos(1020.01,283.87)\1c&H434393&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:28.97,0:05:29.01,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,568.75)\pos(1020,286.88)\1c&H44428F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.01,0:05:29.05,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,571.74)\pos(1020.01,289.87)\1c&H44428F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.05,0:05:29.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,574.74)\pos(1020,292.87)\1c&H43428D&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.10,0:05:29.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,577.74)\pos(1020.01,295.87)\1c&H45448F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.14,0:05:29.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,580.74)\pos(1020.01,298.87)\1c&H44428F&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.18,0:05:29.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,583.72)\pos(1020,301.85)\1c&H44438E&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.22,0:05:29.26,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,586.73)\pos(1020,304.86)\1c&H43418D&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.26,0:05:29.30,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,589.72)\pos(1020,307.85)\1c&H43418D&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.30,0:05:29.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,592.71)\pos(1020,310.84)\1c&H43428E&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.35,0:05:29.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,595.72)\pos(1020,313.85)\1c&H43418D&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.39,0:05:29.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,598.71)\pos(1020,316.84)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.43,0:05:29.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,601.7)\pos(1020.01,319.83)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.47,0:05:29.51,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,604.71)\pos(1020.01,322.84)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.51,0:05:29.55,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,607.7)\pos(1020.01,325.83)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.55,0:05:29.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,610.69)\pos(1020.01,328.82)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.60,0:05:29.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,613.69)\pos(1020.01,331.82)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.64,0:05:29.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,616.69)\pos(1020.01,334.82)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.68,0:05:29.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,619.67)\pos(1020.01,337.8)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.72,0:05:29.76,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,622.68)\pos(1020.01,340.81)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.76,0:05:29.80,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,625.68)\pos(1020.01,343.81)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.80,0:05:29.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,628.66)\pos(1020.01,346.79)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.85,0:05:29.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,631.66)\pos(1020.01,349.79)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.89,0:05:29.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,634.66)\pos(1020.01,352.79)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.93,0:05:29.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,637.65)\pos(1020.01,355.78)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:29.97,0:05:30.01,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,640.66)\pos(1020.02,358.79)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.01,0:05:30.05,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,643.65)\pos(1020.01,361.78)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.05,0:05:30.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,646.64)\pos(1020.01,364.77)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.10,0:05:30.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,649.65)\pos(1020.01,367.78)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.14,0:05:30.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,652.64)\pos(1020.02,370.77)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.18,0:05:30.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,655.63)\pos(1020.02,373.76)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.22,0:05:30.26,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,658.56)\pos(1020.01,376.69)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.26,0:05:30.30,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,661.63)\pos(1020.01,379.76)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.30,0:05:30.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,664.59)\pos(1020.02,382.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.35,0:05:30.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,667.51)\pos(1020,385.64)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.39,0:05:30.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,670.59)\pos(1020.02,388.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.43,0:05:30.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,673.59)\pos(1020.02,391.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.47,0:05:30.51,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,676.62)\pos(1020.03,394.75)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.51,0:05:30.56,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,679.59)\pos(1020.02,397.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.56,0:05:30.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,682.59)\pos(1020.02,400.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.60,0:05:30.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,685.59)\pos(1020.03,403.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.64,0:05:30.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,688.58)\pos(1020.02,406.71)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.68,0:05:30.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,691.56)\pos(1020.01,409.69)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.72,0:05:30.76,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,694.58)\pos(1020.02,412.71)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.76,0:05:30.81,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,697.57)\pos(1020.02,415.7)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.81,0:05:30.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,700.55)\pos(1020.01,418.68)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.85,0:05:30.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,703.59)\pos(1020.03,421.72)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.89,0:05:30.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,706.55)\pos(1020.01,424.68)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.93,0:05:30.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,709.53)\pos(1020.01,427.66)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:30.97,0:05:31.01,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,712.57)\pos(1020.02,430.7)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.01,0:05:31.06,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,715.55)\pos(1020.01,433.68)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.06,0:05:31.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,718.52)\pos(1020.01,436.65)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.10,0:05:31.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,721.51)\pos(1020.01,439.64)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.14,0:05:31.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,724.53)\pos(1020.01,442.66)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.18,0:05:31.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,727.51)\pos(1020.01,445.64)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.22,0:05:31.26,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,730.5)\pos(1020.01,448.63)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.26,0:05:31.31,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,733.51)\pos(1020.01,451.64)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.31,0:05:31.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,736.5)\pos(1020,454.63)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.35,0:05:31.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,739.54)\pos(1020.01,457.67)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.39,0:05:31.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,742.51)\pos(1020,460.64)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.43,0:05:31.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,745.48)\pos(1020,463.61)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.47,0:05:31.51,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,748.47)\pos(1020.01,466.6)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.51,0:05:31.56,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,751.49)\pos(1020.01,469.62)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.56,0:05:31.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,754.48)\pos(1020.01,472.61)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.60,0:05:31.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,757.47)\pos(1020.01,475.6)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.64,0:05:31.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,760.48)\pos(1020.01,478.61)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.68,0:05:31.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,763.47)\pos(1020.01,481.6)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.72,0:05:31.76,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,766.46)\pos(1020.01,484.59)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.76,0:05:31.81,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,769.47)\pos(1020.01,487.6)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.81,0:05:31.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,772.44)\pos(1020.01,490.57)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.85,0:05:31.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,775.45)\pos(1020.02,493.58)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.89,0:05:31.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,778.46)\pos(1020.02,496.59)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.93,0:05:31.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,781.44)\pos(1020.01,499.57)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:31.97,0:05:32.01,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,784.44)\pos(1020.01,502.57)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.01,0:05:32.06,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,787.44)\pos(1020.01,505.57)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.06,0:05:32.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,790.42)\pos(1020.02,508.55)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.10,0:05:32.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,793.42)\pos(1020.03,511.55)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.14,0:05:32.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,796.41)\pos(1020.02,514.54)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.18,0:05:32.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,799.4)\pos(1020.02,517.53)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.22,0:05:32.27,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,802.4)\pos(1020.01,520.53)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.27,0:05:32.31,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,805.39)\pos(1020.01,523.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.31,0:05:32.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,808.39)\pos(1020.02,526.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.35,0:05:32.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,811.39)\pos(1020.02,529.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.39,0:05:32.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,814.39)\pos(1020.03,532.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.43,0:05:32.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,817.39)\pos(1020.02,535.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.47,0:05:32.52,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,820.39)\pos(1020.02,538.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.52,0:05:32.56,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,823.39)\pos(1020.02,541.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.56,0:05:32.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,826.39)\pos(1020.02,544.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.60,0:05:32.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,829.39)\pos(1020.02,547.52)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.64,0:05:32.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,832.38)\pos(1020.02,550.51)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.68,0:05:32.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,835.37)\pos(1020.02,553.5)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.72,0:05:32.77,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,838.38)\pos(1020.02,556.51)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.77,0:05:32.81,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,841.37)\pos(1020.02,559.5)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.81,0:05:32.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,844.36)\pos(1020.02,562.49)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.85,0:05:32.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,847.35)\pos(1020.02,565.48)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.89,0:05:32.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,850.35)\pos(1020.01,568.48)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.93,0:05:32.97,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,853.35)\pos(1020.02,571.48)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:32.97,0:05:33.02,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,856.34)\pos(1020.03,574.47)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.02,0:05:33.06,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,859.34)\pos(1020.03,577.47)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.06,0:05:33.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,862.34)\pos(1020.04,580.47)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.10,0:05:33.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,865.33)\pos(1020.03,583.46)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.14,0:05:33.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,868.33)\pos(1020.03,586.46)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.18,0:05:33.22,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,871.33)\pos(1020.04,589.46)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.22,0:05:33.27,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,874.32)\pos(1020.04,592.45)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.27,0:05:33.31,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,877.33)\pos(1020.04,595.46)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.31,0:05:33.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,880.32)\pos(1020.04,598.45)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.35,0:05:33.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,883.31)\pos(1020.04,601.44)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.39,0:05:33.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,886.32)\pos(1020.04,604.45)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.43,0:05:33.47,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,889.31)\pos(1020.04,607.44)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.47,0:05:33.52,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,892.29)\pos(1020.04,610.42)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.52,0:05:33.56,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,895.29)\pos(1020.04,613.42)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.56,0:05:33.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,898.28)\pos(1020.04,616.41)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.60,0:05:33.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,901.28)\pos(1020.04,619.41)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.64,0:05:33.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,904.27)\pos(1020.03,622.4)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.68,0:05:33.72,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,907.28)\pos(1020.03,625.41)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.72,0:05:33.77,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,910.27)\pos(1020.04,628.4)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.77,0:05:33.81,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,913.2)\pos(1020.03,631.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.81,0:05:33.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,916.28)\pos(1020.04,634.41)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.85,0:05:33.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,919.27)\pos(1020.03,637.4)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.89,0:05:33.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,922.24)\pos(1020.02,640.37)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.93,0:05:33.98,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,925.27)\pos(1020.03,643.4)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:33.98,0:05:34.02,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,928.25)\pos(1020.02,646.38)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.02,0:05:34.06,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,931.21)\pos(1020.01,649.34)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.06,0:05:34.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,934.25)\pos(1020.03,652.38)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.10,0:05:34.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,937.23)\pos(1020.03,655.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.14,0:05:34.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,940.23)\pos(1020.01,658.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.18,0:05:34.23,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,943.25)\pos(1020.02,661.38)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.23,0:05:34.27,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,946.23)\pos(1020.02,664.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.27,0:05:34.31,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,949.23)\pos(1020.01,667.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.31,0:05:34.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.89,952.23)\pos(1020.04,670.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.35,0:05:34.39,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,955.2)\pos(1020.02,673.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.39,0:05:34.43,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,958.22)\pos(1020.03,676.35)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.43,0:05:34.48,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.88,961.23)\pos(1020.03,679.36)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.48,0:05:34.52,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,964.19)\pos(1020.01,682.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.52,0:05:34.56,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,967.19)\pos(1020.02,685.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.56,0:05:34.60,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.87,970.19)\pos(1020.02,688.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.60,0:05:34.64,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,973.19)\pos(1020.01,691.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.64,0:05:34.68,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,976.21)\pos(1020.01,694.34)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.68,0:05:34.73,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,979.2)\pos(1020,697.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.73,0:05:34.77,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.83,982.19)\pos(1019.98,700.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.77,0:05:34.81,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,985.25)\pos(1019.99,703.38)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.81,0:05:34.85,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,988.2)\pos(1019.99,706.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.85,0:05:34.89,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.83,991.19)\pos(1019.98,709.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.89,0:05:34.93,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,994.19)\pos(1019.99,712.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.93,0:05:34.98,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,997.19)\pos(1019.99,715.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:34.98,0:05:35.02,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,1000.19)\pos(1019.99,718.32)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.02,0:05:35.06,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.86,1003.24)\pos(1020.01,721.37)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.06,0:05:35.10,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.84,1006.2)\pos(1019.99,724.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.10,0:05:35.14,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.83,1009.18)\pos(1019.98,727.31)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.14,0:05:35.18,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.85,1012.22)\pos(1020,730.35)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.18,0:05:35.23,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.83,1015.18)\pos(1019.98,733.31)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.23,0:05:35.27,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.83,1018.18)\pos(1019.98,736.31)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.27,0:05:35.31,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.8,1021.18)\pos(1019.95,739.31)\1c&H474891&}QUÂN GIẾT NGƯỜI
+Dialogue: 0,0:05:35.31,0:05:35.35,Signs,,0,0,0,@Hunn,{=35=38}{\alpha&H00&\fnSVN-Apple\b1\fscx121.21\fscy116.15\frz21.38\frx2.9824\fry0.2935\org(466.79,1024.2)\pos(1019.94,742.33)\1c&H474891&}QUÂN GIẾT NGƯỜI
 Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HEBE2DA&\p1}m 1025.11 821.63 l 1017.11 793.71 1029.03 792.88 1033.61 799.96 1054.19 806.88 1075.61 806.39 1077.11 806.36 1075.86 809.38 1078.25 813.69 1084.61 813.13 1087.94 807.25 1124.78 796.79 1124.78 788.09 1115.29 786.46 b 1115.29 786.46 1092.78 805.01 1057.69 798.78 1057.69 798.78 1044.59 797.29 1034.31 789.96 l 1026 790.88 1026 794.57 1033.03 819.88 1025.11 821.63{\p0}
 Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HF6F6F4&\p1}m 857.04 684.74 l 875.38 907.07 916.38 936.4 1011.71 899.4 986.04 664.03 857.04 684.74{\p0}
 Dialogue: 0,0:04:22.16,0:04:24.08,Signs,che,0,0,0,@Hunn,{\an7\pos(0,0)\1c&HECE1D6&\p1}m 1044.32 878.15 l 1048.65 907.32 1086.99 903.71 1086.99 883.15 1055.82 876.49 1044.32 878.15{\p0}
@@ -70,3 +249,20 @@ Data: 16,_aegi_perspective_ambient_plane,e741.05;88.07#7C1415.89;53.56#7C1462.46
 Data: 17,_aegi_perspective_ambient_plane,e741.05;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C792.79;1066.47
 Data: 18,_aegi_perspective_ambient_plane,e741.05;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C809.93;1063.04
 Data: 19,_aegi_perspective_ambient_plane,e743.34;88.07#7C1402.18;53.56#7C1462.46;1021.50#7C809.93;1063.04
+Data: 20,_aegi_perspective_ambient_plane,e396.80;302.13#7C1493.86;302.13#7C1493.86;468.53#7C396.80;468.53
+Data: 21,_aegi_perspective_ambient_plane,e396.80;302.13#7C1493.86;302.13#7C1493.86;468.53#7C840.80;453.86
+Data: 24,_aegi_perspective_ambient_plane,e766.02;148.02#7C1540.95;309.01#7C1531.24;603.52#7C322.88;561.64
+Data: 25,_aegi_perspective_ambient_plane,e766.02;148.02#7C1540.95;309.01#7C1531.24;603.52#7C830.88;297.64
+Data: 26,_aegi_perspective_ambient_plane,e766.02;148.02#7C944.95;90.34#7C1531.24;603.52#7C830.88;297.64
+Data: 27,_aegi_perspective_ambient_plane,e766.02;148.02#7C944.95;90.34#7C995.24;239.52#7C830.88;297.64
+Data: 28,_aegi_perspective_ambient_plane,e766.02;148.02#7C930.29;85.01#7C995.24;239.52#7C830.88;297.64
+Data: 29,_aegi_perspective_ambient_plane,e766.02;148.02#7C922.29;94.34#7C995.24;239.52#7C830.88;297.64
+Data: 30,_aegi_perspective_ambient_plane,e766.02;148.02#7C922.29;94.34#7C995.24;239.52#7C704.21;584.31
+Data: 31,_aegi_perspective_ambient_plane,e766.02;148.02#7C922.29;94.34#7C1384.57;307.52#7C704.21;584.31
+Data: 32,_aegi_perspective_ambient_plane,e766.02;148.02#7C1340.95;229.01#7C1384.57;307.52#7C704.21;584.31
+Data: 33,_aegi_perspective_ambient_plane,e667.35;497.35#7C1340.95;229.01#7C1384.57;307.52#7C704.21;584.31
+Data: 34,_aegi_perspective_ambient_plane,e667.35;497.35#7C1340.96;229.01#7C1384.57;307.52#7C704.21;584.31
+Data: 35,a-mo,e{"originalText"#3A"{\\fnSVN-Apple\\b1\\c&H4B4CA4&\\fscx123.95\\fscy126.60\\frz22.8905\\frx2.8763\\fry0.2833\\org(763.94#2C738.32)\\pos(1169.53#2C517.94)}QU#C3#82N GI#E1#BA#BET NG#C6#AF#E1#BB#9CI"#2C"uuid"#3A"8470b55c-7198-430e-bccc-eaebf534e3af"}
+Data: 36,_aegi_perspective_ambient_plane,e667.35;497.35#7C1340.98;229.00#7C1384.59;307.51#7C704.21;584.31
+Data: 37,_aegi_perspective_ambient_plane,e667.36;497.35#7C1340.98;229.00#7C1384.60;307.51#7C704.21;584.31
+Data: 38,_aegi_perspective_ambient_plane,e667.35;497.33#7C1341.00;229.02#7C1384.59;307.51#7C704.18;584.26
