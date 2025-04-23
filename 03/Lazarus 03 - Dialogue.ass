@@ -14,13 +14,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[Commie] Lazarus - 03 [5CFE4459].mkv
-Video File: ../raws/[Commie] Lazarus - 03 [5CFE4459].mkv
+Audio File: ../raws/Lazarus.S01E03.....mkv
+Video File: ../raws/Lazarus.S01E03.....mkv
+Keyframes File: ../raws/Lazarus.S01E03.....txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 362
-Active Line: 382
-Video Position: 31834
+Video Zoom Percent: 0.625000
+Active Line: 4
+Video Position: 118
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,32 +36,32 @@ Comment: 0,0:00:59.79,0:00:59.79,Main,chptr,0,0,0,,{OP}
 Comment: 0,0:02:29.75,0:02:29.75,Main,chptr,0,0,0,,{Part A}
 Comment: 0,0:13:42.76,0:13:42.76,Main,chptr,0,0,0,,{Part B}
 Comment: 0,0:22:18.48,0:22:18.48,Main,chptr,0,0,0,,{ED}
-Dialogue: 12,0:00:04.91,0:00:06.69,Main,,0,0,0,,Sống ở đời,
+Dialogue: 12,0:00:04.91,0:00:06.69,Main,,0,0,0,,Sống ở đời...
 Dialogue: 12,0:00:07.31,0:00:08.59,Main,,0,0,0,,nào thì...
 Dialogue: 12,0:00:08.80,0:00:10.08,Main,,0,0,0,,đau khổ này,
 Dialogue: 12,0:00:10.27,0:00:11.60,Main,,0,0,0,,buồn bã này,
 Dialogue: 12,0:00:11.87,0:00:14.58,Main,,0,0,0,,sao cứ phải cố vượt qua chúng nhỉ?
-Dialogue: 12,0:00:15.54,0:00:16.72,Main,,0,0,0,,Bỏ qua mấy thứ đó.
+Dialogue: 12,0:00:15.54,0:00:16.72,Main,,0,0,0,,Kệ đời mấy thứ đó.
 Dialogue: 12,0:00:17.06,0:00:19.37,Main,,0,0,0,,Chỉ sống vui vẻ thôi không được sao?
 Dialogue: 12,0:00:20.55,0:00:23.99,Main,,0,0,0,,Đúng thời điểm tôi đang nghĩ vậy \Nthì Hapna được tung ra.
 Dialogue: 12,0:00:24.55,0:00:26.53,Main,,0,0,0,,Thế là lao đầu vào mua ngay.
 Dialogue: 12,0:00:27.43,0:00:30.68,Main,,0,0,0,,Có người còn bảo nó hiệu quả \Ncả với nỗi đau thất tình.
 Dialogue: 12,0:00:31.68,0:00:34.64,Main,,0,0,0,,Nhưng, thất tình mà không đau khổ sao?
 Dialogue: 12,0:00:35.20,0:00:38.31,Main,,0,0,0,,Có thật không thế, tôi cứ nghi nghi.
-Dialogue: 12,0:00:39.22,0:00:41.15,Main,,0,0,0,,Rồi thì, "thế này liệu có ổn không nhỉ?"
-Dialogue: 12,0:00:41.59,0:00:43.86,Main,,0,0,0,,Và cả, "hay thực ra mình đang bị lừa?"
-Dialogue: 12,0:00:44.48,0:00:46.46,Main,,0,0,0,,Cũng thường xuyên nghĩ thế luôn.
+Dialogue: 12,0:00:39.22,0:00:41.15,Main,,0,0,0,,Kiểu như "thế này liệu có ổn không nhỉ?"
+Dialogue: 12,0:00:41.59,0:00:43.86,Main,,0,0,0,,Hay là "mình đang bị lừa chăng?"
+Dialogue: 12,0:00:44.48,0:00:46.46,Main,,0,0,0,,Cũng hay nghĩ thế lắm.
 Dialogue: 12,0:00:47.89,0:00:48.44,Main,,0,0,0,,Ừ thì...
-Dialogue: 12,0:00:49.36,0:00:51.70,Main,,0,0,0,,đúng là tôi bị lừa thật mà.
-Dialogue: 12,0:02:30.99,0:02:32.28,Main,,0,0,0,,Uầy!
+Dialogue: 12,0:00:49.36,0:00:51.70,Main,,0,0,0,,đúng là bị lừa thật mà.
+Dialogue: 12,0:02:30.99,0:02:32.28,Main,,0,0,0,,Khiếp!
 Dialogue: 12,0:02:32.28,0:02:34.36,Main,,0,0,0,,100 nghìn Skinner á?
 Dialogue: 12,0:02:34.67,0:02:36.50,Main,,0,0,0,,Đầy rẫy luôn mà.
-Dialogue: 12,0:02:37.00,0:02:38.86,Main,,0,0,0,,Eo! Còn có cả thể loại này à!
+Dialogue: 12,0:02:37.00,0:02:38.86,Main,,0,0,0,,Vãi! Còn có cả thể loại này à?
 Dialogue: 12,0:02:38.86,0:02:39.64,Main,,0,0,0,,Tởm vãi!
 Dialogue: 12,0:02:39.96,0:02:44.63,Main,,0,0,0,,Có kẻ nào đã xâm nhập hệ thống giám sát,\N rồi thay thế bằng mặt Skinner à?
 Dialogue: 12,0:02:44.63,0:02:47.50,Main,,0,0,0,,Phải, lại còn với\N độ chính xác rất cao nữa.
 Dialogue: 12,0:02:47.72,0:02:51.19,Main,,0,0,0,,Không chỉ mặt nạ đa giác,\N mà cả bản đồ nhiệt cũng bị ghi đè.
-Dialogue: 12,0:02:51.50,0:02:54.83,Main,,0,0,0,,Tất cả đều là do Skinner làm sao?
+Dialogue: 12,0:02:51.50,0:02:54.83,Main,,0,0,0,,Tất cả đều do Skinner làm sao?
 Dialogue: 12,0:02:54.83,0:02:55.69,Main,,0,0,0,,Không.
 Dialogue: 12,0:02:55.69,0:02:59.70,Main,,0,0,0,,Hacker có kỹ năng cỡ này, \Ntrên thế giới chắc chỉ có khoảng 3 người.
 Dialogue: 12,0:03:00.06,0:03:01.84,Main,,0,0,0,,Là những ai?
@@ -75,7 +75,7 @@ Dialogue: 12,0:03:16.77,0:03:19.43,Main,,0,0,0,,Eleina, tìm được hai ngư�
 Dialogue: 12,0:03:19.43,0:03:20.35,Main,,0,0,0,,Để thử xem.
 Dialogue: 12,0:03:20.84,0:03:23.57,Main,,0,0,0,,Camera giám sát giờ vô dụng rồi, nhưng...
 Dialogue: 12,0:03:23.57,0:03:25.56,Main,,0,0,0,,cũng thu lại được một điều.
-Dialogue: 12,0:03:25.86,0:03:29.21,Main,,0,0,0,,Nếu hắn đã phẫu thuật thẩm mỹ\N để giả danh người khác,
+Dialogue: 12,0:03:25.86,0:03:29.21,Main,,0,0,0,,Nếu hắn đã phẫu thuật thẩm mỹ\N giả danh người khác,
 Dialogue: 12,0:03:29.21,0:03:31.37,Main,,0,0,0,,thì không cần phải làm trò này.
 Dialogue: 12,0:03:31.98,0:03:32.65,Main,,0,0,0,,Tức là...
 Dialogue: 12,0:03:33.10,0:03:36.75,Main,,0,0,0,,Hắn vẫn còn sống,\N và mặt vẫn y nguyên.
@@ -91,23 +91,19 @@ Dialogue: 12,0:03:59.81,0:04:03.26,Main,,0,0,0,,Mà khoan, \Nsao tôi phải đi
 Dialogue: 12,0:04:03.26,0:04:05.05,Main,,0,0,0,,Câu đó tôi nói mới đúng.
 Dialogue: 12,0:04:05.05,0:04:07.38,Main,,0,0,0,,Tôi vẫn chưa công nhận anh đâu đấy.
 Dialogue: 12,0:04:07.67,0:04:08.90,Main,,0,0,0,,Thật luôn?
-Dialogue: 12,0:04:11.40,0:04:16.40,Signs,,0,0,0,@KiOZ,Xa nhà
-Dialogue: 12,0:04:16.90,0:04:20.91,Signs,,0,0,0,@KiOZ,Nhà của Skinner
-Dialogue: 12,0:04:20.91,0:04:22.83,Signs,,0,0,0,che sign,{\pos(385.6,469.6)}Công ty Smile Clean\NSố nhân viên\NNgày cấp\NNgày hết hạn\NChữ ký
 Dialogue: 12,0:04:21.49,0:04:22.83,Main,,0,0,0,,Smile Clean đây ạ!
 Dialogue: 12,0:04:23.36,0:04:26.42,Main,,0,0,0,,Chúng tôi đến dọn dẹp \Nnhà ông Skinner ạ.
 Dialogue: 12,0:04:26.42,0:04:29.20,Main,,0,0,0,,Hả? Hai người \Ncó xem tin tức không thế?
 Dialogue: 12,0:04:29.50,0:04:31.58,Main,,0,0,0,,Chủ nhà đang mất tích đấy.
 Dialogue: 12,0:04:31.58,0:04:34.74,Main,,0,0,0,,Dạ không, nhưng bên tôi \Nđã ký hợp đồng trả trước rồi ạ.
-Dialogue: 12,0:04:34.74,0:04:35.90,Main,,0,0,0,,Ai mà biết chứ.
+Dialogue: 12,0:04:34.74,0:04:35.90,Main,,0,0,0,,Chịu thôi.
 Dialogue: 12,0:04:35.90,0:04:38.17,Main,,0,0,0,,Tôi được lệnh\N không cho bất cứ ai vào.
 Dialogue: 12,0:04:39.75,0:04:41.01,Main,,0,0,0,,Chúng tôi hiểu rồi.
 Dialogue: 12,0:04:41.35,0:04:44.26,Main,,0,0,0,,Vậy chúng tôi gửi hóa đơn thanh toán \Nsang cho bên ông nhé.
-Dialogue: 12,0:04:45.55,0:04:49.75,Main,,0,0,0,,À, nếu cứ thế mà về thì \Nsẽ phát sinh phí hủy hợp đồng đấy ạ.
+Dialogue: 12,0:04:45.55,0:04:49.75,Main,,0,0,0,,À, nếu cứ thế mà về \Nsẽ phát sinh phí hủy hợp đồng đấy ạ.
 Dialogue: 12,0:04:49.75,0:04:53.27,Main,,0,0,0,,Nói riêng thôi nhé, \Nsố tiền lớn lắm đấy ạ.
 Dialogue: 12,0:04:56.47,0:04:57.99,Main,,0,0,0,,Tính sao đây?
-Dialogue: 12,0:04:56.19,0:05:01.20,Signs,,0,0,0,@KiOZ,Bệnh viện Stanford
-Dialogue: 12,0:04:57.99,0:05:00.83,Main,,0,0,0,,Tôi uống Hapna được kê ở đây\N mà ra nông nỗi này đây này.
+Dialogue: 12,0:04:57.99,0:05:00.83,Main,,0,0,0,,Tôi uống Hapna được kê ở đây\N mà ra nông nỗi này đấy.
 Dialogue: 12,0:05:00.83,0:05:01.94,Main,,0,0,0,,Chịu trách nhiệm đi!
 Dialogue: 12,0:05:09.53,0:05:10.26,Main,,0,0,0,,Ây!
 Dialogue: 12,0:05:11.30,0:05:12.63,Main,,0,0,0,,Họ bảo sao?
@@ -116,40 +112,36 @@ Dialogue: 12,0:05:14.88,0:05:17.02,Main,,0,0,0,,Địa chỉ và thông tin liê
 Dialogue: 12,0:05:18.19,0:05:19.18,Main,,0,0,0,,Ngoài ra...
 Dialogue: 12,0:05:19.78,0:05:22.23,Main,,0,0,0,,có tin đồn thầy ấy \Ngiờ thành vô gia cư rồi.
 Dialogue: 12,0:05:22.23,0:05:25.21,Main,,0,0,0,,Nếu vậy thì \Ntôi biết chỗ có thể tìm đấy.
-Dialogue: 12,0:05:26.60,0:05:34.11,Signs,,0,0,0,@KiOZ,QUÂN GIẾT NGƯỜI
-Dialogue: 12,0:05:27.23,0:05:29.40,Main,,0,0,0,,Này em, có vẻ thạo quá nhỉ?
+Dialogue: 12,0:05:27.23,0:05:29.40,Main,,0,0,0,,Này em, em có vẻ thạo quá nhỉ?
 Dialogue: 12,0:05:29.40,0:05:31.04,Main,,0,0,0,,Hả? Thế sao?
 Dialogue: 12,0:05:31.04,0:05:32.29,Main,,0,0,0,,Còn giả vờ à.
 Dialogue: 12,0:05:32.29,0:05:34.11,Main,,0,0,0,,Chị cũng có khác em đâu.
-Dialogue: 12,0:05:34.69,0:05:37.07,Main,,0,0,0,,Chị mày chẳng giấu giếm gì nhé.
+Dialogue: 12,0:05:34.69,0:05:37.07,Main,,0,0,0,,Chị đây chẳng giấu giếm gì nhé.
 Dialogue: 12,0:05:37.07,0:05:40.37,Main,,0,0,0,,Vậy trước khi đến đây, \Nchị làm gì?
 Dialogue: 12,0:05:40.37,0:05:43.65,Main,,0,0,0,,Một đặc vụ bí mật tung hoành thế giới.
 Dialogue: 12,0:05:43.65,0:05:45.09,Main,,0,0,0,,Lại nữa, lại nữa.
 Dialogue: 12,0:05:45.46,0:05:47.48,Main,,0,0,0,,Xem nào...
-Dialogue: 12,0:05:47.41,0:05:47.45,Signs,,0,0,0,@KiOZ,phân tích
-Dialogue: 12,0:05:47.49,0:05:49.83,Signs,,0,0,0,@KiOZ,phân tích
 Dialogue: 12,0:05:52.06,0:05:53.26,Main,,0,0,0,,Mở được này.
 Dialogue: 12,0:05:53.43,0:05:55.33,Main,,0,0,0,,Xin phép vào ạ.
 Dialogue: 12,0:05:55.33,0:05:56.64,Main,,0,0,0,,Xin phép.
-Dialogue: 12,0:06:04.47,0:06:11.48,Signs,,0,0,0,@KiOZ,Khu vô gia cư
 Dialogue: 12,0:06:05.46,0:06:08.28,Main,,0,0,0,,Đông thật đấy nhỉ.
-Dialogue: 12,0:06:08.98,0:06:11.48,Main,,0,0,0,,Thế, cái chỗ anh nói thế nào?
-Dialogue: 12,0:06:11.75,0:06:15.02,Main,,0,0,0,,Có một gã tên Jerry, \Nbạn tù của trước nữa của trước nữa của tôi.
+Dialogue: 12,0:06:08.98,0:06:11.48,Main,,0,0,0,,Thế, vụ anh nói thế nào?
+Dialogue: 12,0:06:11.75,0:06:15.02,Main,,0,0,0,,Có một gã tên Jerry, \Nbạn tù trước của trước của tôi.
 Dialogue: 12,0:06:15.02,0:06:17.80,Main,,0,0,0,,Nghe nói gã đang cai quản\N khu vô gia cư này.
-Dialogue: 12,0:06:18.71,0:06:20.77,Main,,0,0,0,,Sao thế? Sợ rồi hả?\N
-Dialogue: 12,0:06:20.97,0:06:22.61,Main,,0,0,0,,Đâu ra thế.
+Dialogue: 12,0:06:18.71,0:06:20.77,Main,,0,0,0,,Sao thế? Sợ rồi hả?
+Dialogue: 12,0:06:20.97,0:06:22.61,Main,,0,0,0,,Còn lâu nhá.
 Dialogue: 12,0:06:25.23,0:06:26.34,Main,,0,0,0,,Đừng có ra vẻ.
 Dialogue: 12,0:06:26.71,0:06:27.67,Main,,0,0,0,,Đi thôi.
-Dialogue: 12,0:06:56.71,0:06:58.12,Main,,0,0,0,,Hắn bị chơi rồi.
+Dialogue: 12,0:06:56.71,0:06:58.12,Main,,0,0,0,,Nó chắc bị chơi cho vố rồi.
 Dialogue: 12,0:07:00.10,0:07:02.48,Main,,0,0,0,,Này, có biết ai tên Jerry không?
-Dialogue: 12,0:07:02.73,0:07:04.43,Main,,0,0,0,,Nghe nói cai quản khu này
+Dialogue: 12,0:07:02.73,0:07:04.43,Main,,0,0,0,,Nghe nói cai quản khu này.
 Dialogue: 12,0:07:04.65,0:07:05.68,Main,,0,0,0,,Jerry?
 Dialogue: 12,0:07:05.68,0:07:06.95,Main,,0,0,0,,Không biết.
 Dialogue: 12,0:07:07.59,0:07:08.49,Main,,0,0,0,,Xin lỗi.
 Dialogue: 12,0:07:08.49,0:07:10.51,Main,,0,0,0,,Anh có biết gã nào tên Jerry không?
 Dialogue: 12,0:07:10.71,0:07:11.96,Main,,0,0,0,,Này anh bạn.
 Dialogue: 12,0:07:11.96,0:07:14.58,Main,,0,0,0,,Ông ta có nhìn thấy gì đâu.
-Dialogue: 12,0:07:15.51,0:07:17.42,Main,,0,0,0,,Không có gì đáng ngờ à.
+Dialogue: 12,0:07:15.51,0:07:17.42,Main,,0,0,0,,Chả có gì đáng ngờ nhờ.
 Dialogue: 12,0:07:17.61,0:07:18.48,Main,,0,0,0,,Phải thôi.
 Dialogue: 12,0:07:18.48,0:07:22.71,Main,,0,0,0,,Cảnh sát với FBI đã lục soát\N rồi mang đi gần hết rồi còn gì.
 Dialogue: 12,0:07:22.90,0:07:27.88,Main,,0,0,0,,Nhưng mà, đối với một nhà khoa học danh tiếng\N thì nó hơi giản dị quá nhỉ.
@@ -158,7 +150,7 @@ Dialogue: 12,0:07:31.01,0:07:32.26,Main,,0,0,0,,Hapna?
 Dialogue: 12,0:07:32.26,0:07:34.04,Main,,0,0,0,,Không phải đâu nhỉ?
 Dialogue: 12,0:07:34.76,0:07:38.12,Main,,0,0,0,,Biết đâu lại là thuốc giải đặc hiệu\N cho Hapna thì sao?
 Dialogue: 12,0:07:38.12,0:07:39.80,Main,,0,0,0,,Nói thật đấy à?
-Dialogue: 12,0:07:39.80,0:07:42.08,Main,,0,0,0,,Không có đâu ha.
+Dialogue: 12,0:07:39.80,0:07:42.08,Main,,0,0,0,,Đâu dễ thế ha.
 Dialogue: 12,0:07:42.70,0:07:44.56,Main,,0,0,0,,Anh từ nơi khác đến à?
 Dialogue: 12,0:07:44.76,0:07:47.36,Main,,0,0,0,,Người cai quản khu này là chị Jill.
 Dialogue: 12,0:07:47.61,0:07:48.56,Main,,0,0,0,,Jill?
@@ -167,14 +159,14 @@ Dialogue: 12,0:07:54.05,0:07:56.29,Main,,0,0,0,,Ui trời! Axel!
 Dialogue: 12,0:07:57.04,0:07:59.39,Main,,0,0,0,,Ôi! Lâu lắm rồi không gặp!
 Dialogue: 12,0:07:59.39,0:08:00.96,Main,,0,0,0,,Mừng quá đi!
 Dialogue: 12,0:08:01.56,0:08:04.25,Main,,0,0,0,,Mà mà, trông vẫn như xưa nhỉ?
-Dialogue: 12,0:08:04.25,0:08:07.32,Main,,0,0,0,,Ồ! Sao thế? \NĐổi giới tính rồi hả, Jerry?
+Dialogue: 12,0:08:04.25,0:08:07.32,Main,,0,0,0,,Ồ! Sao thế? \NChuyển giới rồi hả, Jerry?
 Dialogue: 12,0:08:07.32,0:08:09.43,Main,,0,0,0,,Ừa, giờ là Jill rồi nhé.
 Dialogue: 12,0:08:09.43,0:08:11.20,Main,,0,0,0,,Trông hợp lắm đấy, Jill.
 Dialogue: 12,0:08:11.20,0:08:13.22,Main,,0,0,0,,Thật hả? Nào nào!
 Dialogue: 12,0:08:19.05,0:08:20.86,Main,,0,0,0,,Mà khoan, cả thế kỷ rồi ấy nhỉ?
 Dialogue: 12,0:08:21.21,0:08:23.19,Main,,0,0,0,,Chắc lại bị tóm rồi hả?
-Dialogue: 12,0:08:23.56,0:08:24.98,Main,,0,0,0,,Lại ra được rồi à.
-Dialogue: 12,0:08:24.98,0:08:26.49,Main,,0,0,0,,Lại vượt ngục sao?
+Dialogue: 12,0:08:23.56,0:08:24.98,Main,,0,0,0,,Lại ra được rồi.
+Dialogue: 12,0:08:24.98,0:08:26.49,Main,,0,0,0,,Lại vượt ngục à?
 Dialogue: 12,0:08:26.49,0:08:27.35,Main,,0,0,0,,Kiểu thế.
 Dialogue: 12,0:08:27.35,0:08:28.66,Main,,0,0,0,,Không chừa được mà.
 Dialogue: 12,0:08:28.99,0:08:30.76,Main,,0,0,0,,Thế, có chuyện gì?
@@ -182,7 +174,7 @@ Dialogue: 12,0:08:32.05,0:08:34.45,Main,,0,0,0,,Chúng tôi đang tìm một ng�
 Dialogue: 12,0:08:34.90,0:08:37.90,Main,,0,0,0,,Nghe nói có người \Nđã thấy ông ấy quanh đây.
 Dialogue: 12,0:08:40.37,0:08:41.40,Main,,0,0,0,,Nghe này.
 Dialogue: 12,0:08:41.40,0:08:45.59,Main,,0,0,0,,Tôi là người chuyển giới, \Nđã phá sản, lại còn có tiền án.
-Dialogue: 12,0:08:46.18,0:08:48.55,Main,,0,0,0,,Ở đây thì mấy chuyện đó chẳng có gì lạ.
+Dialogue: 12,0:08:46.18,0:08:48.55,Main,,0,0,0,,Ở đây thì mấy chuyện như thế \Nkhông hiếm.
 Dialogue: 12,0:08:49.07,0:08:53.55,Main,,0,0,0,,Nghe tin thế giới sắp tận thế,\N thậm chí có kẻ còn mừng thầm trong bụng.
 Dialogue: 12,0:08:54.26,0:08:57.38,Main,,0,0,0,,Ở đây, ai cũng có nỗi niềm riêng.
 Dialogue: 12,0:08:57.71,0:09:00.98,Main,,0,0,0,,Không đào bới hay lôi quá khứ\N của người khác ra,
@@ -198,25 +190,25 @@ Dialogue: 12,0:09:26.98,0:09:28.91,Main,,0,0,0,,Tôi bị đuổi cổ, nhưng..
 Dialogue: 12,0:09:29.38,0:09:31.74,Main,,0,0,0,,người đã đứng ra \Nbảo vệ tôi đến cùng lúc đó...
 Dialogue: 12,0:09:32.16,0:09:33.62,Main,,0,0,0,,chính là thầy Claude.
 Dialogue: 12,0:09:34.71,0:09:38.06,Main,,0,0,0,,Tôi vẫn chưa thể nói lời cảm ơn\N một cách tử tế.
-Dialogue: 12,0:09:41.71,0:09:42.84,Main,,0,0,0,,Đâu tôi xem.
+Dialogue: 12,0:09:41.71,0:09:42.84,Main,,0,0,0,,Đâu đưa tôi xem.
 Dialogue: 12,0:09:43.84,0:09:45.90,Main,,0,0,0,,Này này, sao thế ông giáo?
 Dialogue: 12,0:09:45.90,0:09:47.11,Main,,0,0,0,,Tung chiêu đi chứ!
 Dialogue: 12,0:09:48.90,0:09:50.62,Main,,0,0,0,check,Hậu đến ô Tượng.
-Dialogue: 12,0:09:57.86,0:09:59.20,Main,,0,0,0,check,Dùng Tượng chiếu hết. 
+Dialogue: 12,0:09:57.86,0:09:59.20,Main,,0,0,0,check,Dùng Tượng chiếu hết.
 Dialogue: 12,0:10:04.95,0:10:08.35,Main,,0,0,0,,Vãi! Thật à! \NTiền ăn ba ngày của tôi!
 Dialogue: 12,0:10:08.35,0:10:09.76,Main,,0,0,0,,Doug phải không?
-Dialogue: 12,0:10:10.34,0:10:12.81,Main,,0,0,0,,Lâu rồi không gặp, em chào thầy.
+Dialogue: 12,0:10:10.34,0:10:12.81,Main,,0,0,0,,Lâu rồi không gặp, chào thầy.
 Dialogue: 12,0:10:13.60,0:10:14.92,Main,,0,0,0,,Này anh giai.
 Dialogue: 12,0:10:16.11,0:10:17.65,Main,,0,0,0,,Làm trận không?
 Dialogue: 12,0:10:20.30,0:10:21.77,Main,,0,0,0,,Chắc em ngạc nhiên lắm.
 Dialogue: 12,0:10:22.05,0:10:23.89,Main,,0,0,0,,Khi thấy thầy ra nông nỗi này.
 Dialogue: 12,0:10:23.89,0:10:24.88,Main,,0,0,0,,Dạ không.
 Dialogue: 12,0:10:25.27,0:10:28.33,Main,,0,0,0,,Thật ra, hiện tại chúng em đang tìm Skinner.
-Dialogue: 12,0:10:28.33,0:10:31.28,Main,,0,0,0,,À, tanh bành hết rồi nhỉ.
+Dialogue: 12,0:10:28.33,0:10:31.28,Main,,0,0,0,,Ờ, tanh bành hết rồi nhỉ.
 Dialogue: 12,0:10:31.58,0:10:34.03,Main,,0,0,0,,Thầy có biết chút thông tin nào không?
 Dialogue: 12,0:10:35.85,0:10:38.98,Main,,0,0,0,,Đã lâu lắm rồi \Nthầy không liên lạc với ông ấy.
-Dialogue: 12,0:10:40.01,0:10:45.25,Main,,0,0,0,,Không ngờ là thầy lại sắp bị giết \Nbởi chính loại thuốc do ông ấy tạo ra.
-Dialogue: 12,0:10:45.84,0:10:47.88,Main,,0,0,0,,Dù là chuyện nhỏ đến đâu\N cũng được ạ.
+Dialogue: 12,0:10:40.01,0:10:45.25,Main,,0,0,0,,Không ngờ thầy lại sắp bị giết \Nbởi chính loại thuốc do ông ấy tạo ra.
+Dialogue: 12,0:10:45.84,0:10:47.88,Main,,0,0,0,,Chuyện nhỏ nhặt đến đâu cũng được ạ.
 Dialogue: 12,0:10:52.90,0:10:53.70,Main,,0,0,0,,Thầy?
 Dialogue: 12,0:10:59.94,0:11:02.81,Main,,0,0,0,,Trận này một chọi một, \Ncho ông chơi trước.
 Dialogue: 12,0:11:03.14,0:11:04.64,Main,,0,0,0,,Một ván 20 đồng, chơi không?
@@ -228,7 +220,7 @@ Dialogue: 12,0:11:15.41,0:11:18.71,Main,,0,0,0,,đã đắm chìm vào nghiên c
 Dialogue: 12,0:11:18.71,0:11:21.39,Main,,0,0,0,,Bất kể ngày đêm,
 Dialogue: 12,0:11:21.39,0:11:24.88,Main,,0,0,0,,với những người xung quanh\N thì ông ấy thật sự rất phiền.
 Dialogue: 12,0:11:25.75,0:11:29.32,Main,,0,0,0,,Thầy đã nghĩ \Nthầy không thể theo ông ấy được nữa.
-Dialogue: 12,0:11:30.38,0:11:33.61,Main,,0,0,0,,Thế rồi quyết định tách ra.
+Dialogue: 12,0:11:30.38,0:11:33.61,Main,,0,0,0,,Thế rồi thầy quyết định tách ra.
 Dialogue: 12,0:11:33.61,0:11:37.10,Main,,0,0,0,,Nhưng nhìn ông ấy\N trở thành tâm điểm của thời đại,
 Dialogue: 12,0:11:37.10,0:11:39.12,Main,,0,0,0,,thú thật là thầy ghen tị.
 Dialogue: 12,0:11:39.47,0:11:41.86,Main,,0,0,0,,Thầy không muốn thua kém ông ấy.
@@ -244,7 +236,7 @@ Dialogue: 12,0:12:11.97,0:12:13.39,Main,,0,0,0,,Baklava?
 Dialogue: 12,0:12:13.39,0:12:15.69,Main,,0,0,0,,Hình như là bánh ngọt ở Trung Đông?
 Dialogue: 12,0:12:15.69,0:12:16.55,Main,,0,0,0,,Ừ.
 Dialogue: 12,0:12:16.95,0:12:21.31,Main,,0,0,0,,Skinner bảo baklava do bà Billinda nướng \Nlà ngon nhất thế giới.
-Dialogue: 12,0:12:21.31,0:12:26.93,Main,,0,0,0,,không công thức nào có thể bắt chước được, \Ncứ như có phép thuật vậy.
+Dialogue: 12,0:12:21.31,0:12:26.93,Main,,0,0,0,,Không công thức nào có thể bắt chước được, \Ncứ như có phép thuật vậy.
 Dialogue: 12,0:12:26.93,0:12:27.94,Main,,0,0,0,,Bà của ông ấy à?
 Dialogue: 12,0:12:28.35,0:12:32.65,Main,,0,0,0,,Hình như ông ấy nói \Nbà đang ở Istanbul thì phải.
 Dialogue: 12,0:12:32.65,0:12:35.54,Main,,0,0,0,,Nhưng giờ không biết còn sống hay không.
@@ -264,16 +256,15 @@ Dialogue: 12,0:13:23.97,0:13:24.70,Main,,0,0,0,,Khốn nạn!
 Dialogue: 12,0:13:25.11,0:13:26.99,Main,,0,0,0,,Đừng có vác mặt tới đây nữa, thằng chó!
 Dialogue: 12,0:13:27.38,0:13:30.00,Main,,0,0,0,,Đi thôi nào,\N tìm được manh mối rồi chứ?
 Dialogue: 12,0:13:30.34,0:13:31.50,Main,,0,0,0,,À ừ.
-Dialogue: 12,0:13:31.76,0:13:32.79,Main,,0,0,0,,Chào nhé, Jill. 
+Dialogue: 12,0:13:31.76,0:13:32.79,Main,,0,0,0,,Chào nhé, Jill.
 Dialogue: 12,0:13:33.24,0:13:35.25,Main,,0,0,0,,Lại đến nữa nhé, Axel!
 Dialogue: 12,0:13:35.83,0:13:37.15,Main,,0,0,0,,Tôi mong đấy!
-Dialogue: 12,0:13:42.76,0:13:47.26,Signs,,0,0,0,credit,
 Dialogue: 12,0:13:50.42,0:13:54.75,Main,,0,0,0,,Số định danh quốc gia, hồ sơ thuế,\N bảo hiểm xã hội...
 Dialogue: 12,0:13:55.33,0:13:59.80,Main,,0,0,0,,Không có dữ liệu nào cho thấy \Nngười tên Billinda là bà của Skinner cả.
 Dialogue: 12,0:13:59.80,0:14:01.53,Main,,0,0,0,,Liệu bà ấy có thật không nhỉ?
 Dialogue: 12,0:14:01.53,0:14:04.59,Main,,0,0,0,,Ngay cả Skinner\N thì cũng phải có bà chứ?
 Dialogue: 12,0:14:04.59,0:14:07.31,Main,,0,0,0,,Việc không có chút hồ sơ nào như vậy,\N ngược lại...
-Dialogue: 12,0:14:07.31,0:14:09.62,Main,,0,0,0,,phải chăng đã bị cố tình xóa đi?
+Dialogue: 12,0:14:07.31,0:14:09.62,Main,,0,0,0,,phải chăng là cố tình xóa đi?
 Dialogue: 12,0:14:10.03,0:14:11.41,Main,,0,0,0,,Khả năng thế.
 Dialogue: 12,0:14:11.70,0:14:13.36,Main,,0,0,0,,Mọi người xem cái này này.
 Dialogue: 12,0:14:14.45,0:14:17.60,Main,,0,0,0,,Khu vực này nổi tiếng là \Nkhông có trị an.
@@ -290,15 +281,15 @@ Dialogue: 12,0:15:03.32,0:15:08.88,Main,,0,0,0,,À thì, tại nghe nói trị a
 Dialogue: 12,0:15:09.80,0:15:11.42,Main,,0,0,0,,Ngược lại càng gây chú ý ấy nhở?
 Dialogue: 12,0:15:12.06,0:15:13.26,Main,,0,0,0,,Chắc không sao đâu.
 Dialogue: 12,0:15:14.12,0:15:15.94,Main,,0,0,0,,Ơ kìa? Anh đi đâu thế?
-Dialogue: 12,0:15:16.31,0:15:18.61,Main,,0,0,0,,Cứ đi vênh mặt lên đi loanh quanh,
+Dialogue: 12,0:15:16.31,0:15:18.61,Main,,0,0,0,,Cứ vênh mặt lên đi loanh quanh,
 Dialogue: 12,0:15:18.61,0:15:20.24,Main,,0,0,0,,họ khắc tự mò đến thôi.
 Dialogue: 12,0:15:21.79,0:15:24.98,Main,,0,0,0,,Họ không phải kiểu\N dễ dàng để lại dấu vết đâu.
 Dialogue: 12,0:15:24.98,0:15:26.79,Main,,0,0,0,,Nên cháu đã cài một "float".
 Dialogue: 12,0:15:26.79,0:15:27.95,Main,,0,0,0,,Đây là "float" à?
 Dialogue: 12,0:15:27.95,0:15:29.05,Main,,0,0,0,,Vâng.
-Dialogue: 12,0:15:29.05,0:15:31.41,Main,,0,0,0,,Cháu đang giám sát các giao dịch\N tại các điểm nút.
+Dialogue: 12,0:15:29.05,0:15:31.41,Main,,0,0,0,,Cháu đang giám sát tại các điểm nút.
 Dialogue: 12,0:15:32.19,0:15:36.44,Main,,0,0,0,WTF?!,Lần này, cháu thực hiện giải cấu trúc\N giả hàm nén đa nguyên của hàm băm để...
-Dialogue: 12,0:15:36.44,0:15:38.54,Main,,0,0,0,,Nào, nói đơn giản thôi.\N
+Dialogue: 12,0:15:36.44,0:15:38.54,Main,,0,0,0,,Ấy, nói đơn giản thôi.
 Dialogue: 12,0:15:38.54,0:15:40.63,Main,,0,0,0,,Nói tóm lại, nó là mồi nhử ạ.
 Dialogue: 12,0:15:41.25,0:15:42.36,Main,,0,0,0,,Ra thế.
 Dialogue: 12,0:15:48.18,0:15:52.37,Main,,0,0,0,,Ơ không? Chúng tôi...\N tuyệt đối không đáng ngờ gì đâu.
@@ -307,9 +298,9 @@ Dialogue: 12,0:15:55.20,0:15:57.19,Main,,0,0,0,,Mà, những lúc thế này th�
 Dialogue: 12,0:15:57.61,0:15:58.57,Main,,0,0,0,,Chuồn thôi!
 Dialogue: 12,0:15:59.89,0:16:00.99,Main,,0,0,0,,C-Chờ với!
 Dialogue: 12,0:16:06.44,0:16:07.24,Main,,0,0,0,,Ui chà!
-Dialogue: 12,0:16:14.04,0:16:14.91,Main,,0,0,0,,Lại đây!
-Dialogue: 12,0:16:30.26,0:16:30.88,Main,,0,0,0,,Triển nào!
-Dialogue: 12,0:16:34.19,0:16:36.68,Main,,0,0,0,,Đây là trà hoa cúc của quý khách ạ.
+Dialogue: 12,0:16:14.04,0:16:14.91,Main,,0,0,0,,Nào!
+Dialogue: 12,0:16:30.26,0:16:30.88,Main,,0,0,0,,Đi thôi.
+Dialogue: 12,0:16:34.19,0:16:36.68,Main,,0,0,0,,Đây là trà hoa cúc ạ.
 Dialogue: 12,0:16:37.00,0:16:38.18,Main,,0,0,0,,Cảm ơn.
 Dialogue: 12,0:16:38.18,0:16:40.26,Main,,0,0,0,,Hoàng tử của tôi ở đâu ạ?
 Dialogue: 12,0:16:49.91,0:16:51.24,Main,,0,0,0,,Hoàng tử!
@@ -346,7 +337,7 @@ Dialogue: 12,0:18:21.91,0:18:24.08,Main,,0,0,0,,Đây là phần của các chá
 Dialogue: 12,0:18:25.85,0:18:27.09,Main,,0,0,0,,- Hay quá!\N- Tuyệt vời!
 Dialogue: 12,0:18:27.61,0:18:30.28,Main,,0,0,0,,Nào nào, vào nhà đi, vào đi.
 Dialogue: 12,0:18:31.08,0:18:34.59,Main,,0,0,0,,Xin lỗi bà Billinda,\Ntụi cháu đột ngột đến làm phiền thế này.
-Dialogue: 12,0:18:34.59,0:18:37.66,Main,,0,0,0,,Mấy đứa nhỏ đó thực ra \Ncũng không phải người xấu đâu.
+Dialogue: 12,0:18:34.59,0:18:37.66,Main,,0,0,0,,Mấy đứa nhỏ đó thực ra \N không phải người xấu đâu.
 Dialogue: 12,0:18:38.72,0:18:40.50,Main,,0,0,0,,Thứ lỗi cho chúng nhé.
 Dialogue: 12,0:18:40.50,0:18:43.33,Main,,0,0,0,,Bên cháu cũng hơi mạnh tay ạ.
 Dialogue: 12,0:18:44.99,0:18:48.05,Main,,0,0,0,,Nào, món baklava\N mà các cháu mong đợi đây.
@@ -372,7 +363,7 @@ Dialogue: 12,0:19:46.21,0:19:47.54,Main,,0,0,0,,Vẫn chưa có gì.
 Dialogue: 12,0:19:47.99,0:19:49.52,Main,,0,0,0,,Vẫn chưa.
 Dialogue: 12,0:19:49.80,0:19:52.28,Main,,0,0,0,,Chỉ biết kiên nhẫn chờ thôi à.
 Dialogue: 12,0:19:54.27,0:19:58.01,Main,,0,0,0,,Thằng bé mồ côi cha mẹ từ nhỏ.
-Dialogue: 12,0:19:58.01,0:20:02.09,Main,,0,0,0,,Sau đó, là bà thay cha mẹ\N nuôi nó khôn lớn.
+Dialogue: 12,0:19:58.01,0:20:02.09,Main,,0,0,0,,Sau đó là bà thay cha mẹ\N nuôi nó khôn lớn.
 Dialogue: 12,0:20:02.09,0:20:03.64,Main,,0,0,0,,Hồi đó thế nào ạ?
 Dialogue: 12,0:20:03.64,0:20:05.68,Main,,0,0,0,,Bình thường như bao đứa khác.
 Dialogue: 12,0:20:06.10,0:20:08.20,Main,,0,0,0,,Tốt bụng, hay khóc nhè.
@@ -394,7 +385,7 @@ Dialogue: 12,0:20:52.05,0:20:54.18,Main,,0,0,0,,Có khi đang la cà không?
 Dialogue: 12,0:20:55.59,0:20:56.99,Main,,0,0,0,,Chào bà Bilinda.
 Dialogue: 12,0:20:56.99,0:20:58.20,Main,,0,0,0,,Bà vẫn khỏe chứ?
 Dialogue: 12,0:20:58.82,0:21:01.02,Main,,0,0,0,,Còn cháu khá là bận.
-Dialogue: 12,0:21:01.34,0:21:05.77,Main,,0,0,0,,Giáng Sinh cháu rất muốn ăn baklava, \Nnhưng xem ra hơi khó.
+Dialogue: 12,0:21:01.34,0:21:05.77,Main,,0,0,0,,Giáng Sinh cháu rất muốn ăn baklava, \Ncơ mà xem ra hơi khó.
 Dialogue: 12,0:21:06.83,0:21:09.73,Main,,0,0,0,,Nhưng tới lúc mọi chuyện ổn thỏa,\N cháu nhất định sẽ về.
 Dialogue: 12,0:21:10.02,0:21:11.62,Main,,0,0,0,,Bà nhớ giữ gìn sức khỏe nhé.
 Dialogue: 12,0:21:12.53,0:21:13.47,Main,,0,0,0,,Gặp bà sau.
@@ -404,16 +395,15 @@ Dialogue: 12,0:21:23.64,0:21:27.56,Main,,0,0,0,,Mẻ baklava mới sắp xong r�
 Dialogue: 12,0:21:27.56,0:21:28.73,Main,,0,0,0,,Vâng!
 Dialogue: 12,0:21:30.97,0:21:32.07,Main,,0,0,0,,Là Skinner.
 Dialogue: 12,0:21:32.79,0:21:35.23,Main,,0,0,0,,Chắc chắn hắn đang theo dõi từ đâu đó.
-Dialogue: 12,0:21:35.23,0:21:35.92,Main,,0,0,0,,Có thể...
+Dialogue: 12,0:21:35.23,0:21:35.92,Main,,0,0,0,,Khả năng...
 Dialogue: 12,0:21:36.35,0:21:38.99,Main,,0,0,0,,là để đề phòng \Nbà Billinda gặp chuyện gì đó.
 Dialogue: 12,0:21:39.27,0:21:42.41,Main,,0,0,0,,Skinner... đang theo dõi chúng ta sao?
 Dialogue: 12,0:21:50.51,0:21:51.52,Main,,0,0,0,,Gì vậy?
 Dialogue: 12,0:21:52.91,0:21:54.10,Main,,0,0,0,,Chào Skinner.
 Dialogue: 12,0:21:54.61,0:21:56.11,Main,,0,0,0,,Đang xem đấy à?
 Dialogue: 12,0:21:56.28,0:21:58.59,Main,,0,0,0,,Tôi sắp tóm được ông rồi đấy.
-Dialogue: 12,0:21:58.59,0:22:00.42,Main,,0,0,0,,Liệu hồn rửa cổ chờ đi!
+Dialogue: 12,0:21:58.59,0:22:00.42,Main,,0,0,0,,Liệu hồn rửa cổ mà chờ đi!
 Dialogue: 12,0:22:04.97,0:22:05.93,Main,,0,0,0,,Cắn câu rồi.
 Dialogue: 12,0:22:06.24,0:22:07.71,Main,,0,0,0,,Gì vậy? Ở đâu?
 Dialogue: 12,0:22:07.71,0:22:10.83,Main,,0,0,0,,Tìm thấy ví ẩn của Doctor 909 rồi.
 Dialogue: 12,0:22:12.97,0:22:14.74,Main,,0,0,0,,Phá thôi nào!
-Dialogue: 12,0:22:15.23,0:22:18.48,Signs,,0,0,0,,Còn 26 ngày...
