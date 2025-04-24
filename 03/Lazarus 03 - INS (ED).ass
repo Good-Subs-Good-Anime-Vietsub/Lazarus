@@ -10,7 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Keyframes File: F:/[Anime Fansub]/[KiOZ]/[GSGAV]/Lazarus/03/../raws/Lazarus.S01E03.....txt
+Scroll Position: 15
 Active Line: 36
+Video Position: 33532
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,40 +24,40 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:18.48,0:22:18.48,Main,ED-sync,0,0,0,,{ED}
-Dialogue: 1,0:22:40.84,0:22:43.59,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 1,0:22:43.59,0:22:47.47,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
-Dialogue: 1,0:22:48.51,0:22:55.69,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
-Dialogue: 1,0:22:55.69,0:23:00.40,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
-Dialogue: 1,0:23:03.86,0:23:06.82,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 1,0:23:06.82,0:23:10.20,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
-Dialogue: 1,0:23:12.37,0:23:16.67,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
-Dialogue: 1,0:23:16.67,0:23:18.54,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
-Dialogue: 1,0:23:18.54,0:23:24.01,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
-Dialogue: 2,0:22:40.84,0:22:43.59,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 2,0:22:43.59,0:22:47.47,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
-Dialogue: 2,0:22:48.51,0:22:55.69,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
-Dialogue: 2,0:22:55.69,0:23:00.40,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
-Dialogue: 2,0:23:03.86,0:23:06.82,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 2,0:23:06.82,0:23:10.20,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
-Dialogue: 2,0:23:12.37,0:23:16.67,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
-Dialogue: 2,0:23:16.67,0:23:18.54,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
-Dialogue: 2,0:23:18.54,0:23:24.01,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
-Dialogue: 3,0:22:40.84,0:22:43.59,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 3,0:22:43.59,0:22:47.47,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
-Dialogue: 3,0:22:48.51,0:22:55.69,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
-Dialogue: 3,0:22:55.69,0:23:00.40,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
-Dialogue: 3,0:23:03.86,0:23:06.82,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
-Dialogue: 3,0:23:06.82,0:23:10.20,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
-Dialogue: 3,0:23:12.37,0:23:16.67,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
-Dialogue: 3,0:23:16.67,0:23:18.54,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
-Dialogue: 3,0:23:18.54,0:23:24.01,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
-Dialogue: 4,0:22:40.84,0:22:43.59,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta...
-Dialogue: 4,0:22:43.59,0:22:47.47,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta chắc điên mất rồi.
-Dialogue: 4,0:22:48.51,0:22:55.69,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
-Dialogue: 4,0:22:55.69,0:23:00.40,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}bởi ngươi có còn khóa ta đâu.
-Dialogue: 4,0:23:03.86,0:23:06.82,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta...
-Dialogue: 4,0:23:06.82,0:23:10.20,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ngươi biết ta chẳng bao giờ trốn ra.
-Dialogue: 4,0:23:12.37,0:23:16.67,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ngươi thừa biết ta cũng quên hết cả rồi,
-Dialogue: 4,0:23:16.67,0:23:18.54,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}chả sao cả,
-Dialogue: 4,0:23:18.54,0:23:24.01,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}có còn quan trọng nữa đâu mà.
+Comment: 0,0:22:19.73,0:22:19.73,Main,ED-sync,0,0,0,,{ED}
+Dialogue: 1,0:22:42.09,0:22:44.84,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 1,0:22:44.84,0:22:48.72,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
+Dialogue: 1,0:22:49.76,0:22:56.94,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
+Dialogue: 1,0:22:56.94,0:23:01.65,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
+Dialogue: 1,0:23:05.11,0:23:08.07,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 1,0:23:08.07,0:23:11.45,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
+Dialogue: 1,0:23:13.62,0:23:17.92,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
+Dialogue: 1,0:23:17.92,0:23:19.79,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
+Dialogue: 1,0:23:19.79,0:23:25.26,OST,ED,0,100,0,,{\blur0.6\bord0\xshad4\yshad4\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
+Dialogue: 2,0:22:42.09,0:22:44.84,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 2,0:22:44.84,0:22:48.72,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
+Dialogue: 2,0:22:49.76,0:22:56.94,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
+Dialogue: 2,0:22:56.94,0:23:01.65,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
+Dialogue: 2,0:23:05.11,0:23:08.07,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 2,0:23:08.07,0:23:11.45,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
+Dialogue: 2,0:23:13.62,0:23:17.92,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
+Dialogue: 2,0:23:17.92,0:23:19.79,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
+Dialogue: 2,0:23:19.79,0:23:25.26,OST,ED,0,100,0,,{\blur0.6\bord0\xshad3\yshad3\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
+Dialogue: 3,0:22:42.09,0:22:44.84,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 3,0:22:44.84,0:22:48.72,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta chắc điên mất rồi.
+Dialogue: 3,0:22:49.76,0:22:56.94,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
+Dialogue: 3,0:22:56.94,0:23:01.65,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}bởi ngươi có còn khóa ta đâu.
+Dialogue: 3,0:23:05.11,0:23:08.07,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ta...
+Dialogue: 3,0:23:08.07,0:23:11.45,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi biết ta chẳng bao giờ trốn ra.
+Dialogue: 3,0:23:13.62,0:23:17.92,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}Ngươi thừa biết ta cũng quên hết cả rồi,
+Dialogue: 3,0:23:17.92,0:23:19.79,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}chả sao cả,
+Dialogue: 3,0:23:19.79,0:23:25.26,OST,ED,0,100,0,,{\blur0.6\bord0\xshad2\yshad2\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\3a&HFF&\1a&HFE&}có còn quan trọng nữa đâu mà.
+Dialogue: 4,0:22:42.09,0:22:44.84,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta...
+Dialogue: 4,0:22:44.84,0:22:48.72,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta chắc điên mất rồi.
+Dialogue: 4,0:22:49.76,0:22:56.94,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta cứ cố tìm lối thoát, nhưng hóa ra chẳng cần,
+Dialogue: 4,0:22:56.94,0:23:01.65,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}bởi ngươi có còn khóa ta đâu.
+Dialogue: 4,0:23:05.11,0:23:08.07,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ta...
+Dialogue: 4,0:23:08.07,0:23:11.45,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ngươi biết ta chẳng bao giờ trốn ra.
+Dialogue: 4,0:23:13.62,0:23:17.92,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}Ngươi thừa biết ta cũng quên hết cả rồi,
+Dialogue: 4,0:23:17.92,0:23:19.79,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}chả sao cả,
+Dialogue: 4,0:23:19.79,0:23:25.26,OST,ED,0,100,0,,{\blur0.6\bord0\xshad1\yshad1\fnSVN-Franko\fs70\fscx100\fscy100\b1\4c&H000000&\4a&H43&\an3\c&HCFC841&}có còn quan trọng nữa đâu mà.
