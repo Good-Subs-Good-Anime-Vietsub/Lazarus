@@ -68,6 +68,9 @@ subs {
                 lang("jpn")
                 default(true)
             }
+	    audio(1) {
+	        include(false)
+	    }
 
             includeChapters(false)
             subtitles {
