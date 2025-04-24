@@ -14,13 +14,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/Lazarus.S01E03.....mkv
-Video File: ../raws/Lazarus.S01E03.....mkv
-Keyframes File: ../raws/Lazarus.S01E03.....txt
+Audio File: ../raws/Lazarus.S01E03.Long.Way.From.Home.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Video File: ../raws/Lazarus.S01E03.Long.Way.From.Home.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 10
-Video Position: 410
+Video Zoom Percent: 0.500000
+Scroll Position: 308
+Active Line: 322
+Video Position: 28102
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -352,9 +353,9 @@ Dialogue: 12,0:19:13.05,0:19:16.22,Main,,0,0,0,,Lẽ nào là James Bond?
 Dialogue: 12,0:19:16.43,0:19:18.18,Main,,0,0,0,,Vâng, kiểu kiểu vậy ạ.
 Dialogue: 12,0:19:18.76,0:19:19.93,Main,,0,0,0,,Khoan khoan.
 Dialogue: 12,0:19:20.14,0:19:23.43,Main,,0,0,0,,Gần đây tụi cháu theo phong cách \Ncông khai hết cả mà.
-Dialogue: 12,0:19:23.60,0:19:27.15,Main,,0,0,0,,Vậy mấy cháu có giấy phép\Nkhi cần giết gì không?
+Dialogue: 12,0:19:23.60,0:19:27.15,Main,,0,0,0,,Thế còn, khi cần giết người\N thì có được phép không?
 Dialogue: 12,0:19:27.15,0:19:28.15,Main,,0,0,0,,Đương nhiên rồi ạ.
-Dialogue: 12,0:19:31.78,0:19:33.28,Main,,0,0,0,,Bà hiểu rồi.
+Dialogue: 12,0:19:31.78,0:19:33.28,Main,,0,0,0,,Bà hiểu mà.
 Dialogue: 12,0:19:33.28,0:19:35.86,Main,,0,0,0,,Các cháu muốn hỏi về\N thằng bé nhà bà chứ gì?
 Dialogue: 12,0:19:36.49,0:19:38.91,Main,,0,0,0,,Đã nhiều năm rồi bà không gặp nó.
 Dialogue: 12,0:19:39.28,0:19:42.16,Main,,0,0,0,,Không phải bà cố tình giấu gì đâu.
@@ -382,7 +383,7 @@ Dialogue: 12,0:20:46.31,0:20:47.89,Main,,0,0,0,,Đợi bà chút nhé.
 Dialogue: 12,0:20:49.48,0:20:51.35,Main,,0,0,0,,Không có động tĩnh gì.
 Dialogue: 12,0:20:51.81,0:20:53.02,Main,,0,0,0,,Không có.
 Dialogue: 12,0:20:53.32,0:20:55.44,Main,,0,0,0,,Có khi đang la cà không?
-Dialogue: 12,0:20:56.86,0:20:58.24,Main,,0,0,0,,Chào bà Bilinda.
+Dialogue: 12,0:20:56.86,0:20:58.24,Main,,0,0,0,,Chào bà Billinda.
 Dialogue: 12,0:20:58.24,0:20:59.45,Main,,0,0,0,,Bà vẫn khỏe chứ?
 Dialogue: 12,0:21:00.07,0:21:02.28,Main,,0,0,0,,Còn cháu khá là bận.
 Dialogue: 12,0:21:02.57,0:21:07.04,Main,,0,0,0,,Giáng Sinh cháu rất muốn ăn baklava, \Ncơ mà xem ra hơi khó.
