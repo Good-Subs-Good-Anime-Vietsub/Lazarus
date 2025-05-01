@@ -18,8 +18,8 @@ Video File: ../raws/Lazarus.S01E04.Dont.Stop.The.Dance.1080p.DSNP.WEB-DL.DUAL.DD
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 72
-Active Line: 89
+Scroll Position: 252
+Active Line: 281
 Video Position: 9112
 
 [V4+ Styles]
@@ -182,7 +182,7 @@ Dialogue: 12,0:10:47.46,0:10:49.55,Main,,0,0,0,,Sam đang đợi đấy.
 Dialogue: 12,0:10:51.76,0:10:55.55,Main,,0,0,0,,Ơ? Trong ví vừa mới có\N giao dịch rút nạp.
 Dialogue: 12,0:10:55.55,0:10:56.26,Main,,0,0,0,,Địa điểm?
 Dialogue: 12,0:10:56.97,0:10:58.72,Main,,0,0,0,,Thành phố Babylonia.
-Dialogue: 12,0:10:58.72,0:11:01.02,Main,,0,0,0,,Ơ rất gần đây!
+Dialogue: 12,0:10:58.72,0:11:01.02,Main,,0,0,0,,Ở rất gần đây!
 Dialogue: 12,0:11:12.03,0:11:15.11,Main,,0,0,0,,Chào anh chị em, để tao giới thiệu.
 Dialogue: 12,0:11:15.11,0:11:17.99,Main,,0,0,0,,Hôm nay tao đặc biệt mời DJ...
 Dialogue: 12,0:11:18.21,0:11:19.87,Main,,0,0,0,,Visionary đấy.
@@ -313,7 +313,7 @@ Dialogue: 12,0:21:01.49,0:21:03.62,Main,,0,0,0,,Nào, đưa đây! Lôi ra đây
 Dialogue: 12,0:21:05.41,0:21:06.58,Main,,0,0,0,,Cầm lấy.
 Dialogue: 12,0:21:08.58,0:21:09.58,Main,,0,0,0,,Chốt kèo.
 Dialogue: 12,0:21:22.68,0:21:27.52,Main,,0,0,0,,{\i1\c&H0EEBFF&}Sam Stephenson đã bị bắt \Nvì tình nghi giao dịch nội gián.
-Dialogue: 12,0:21:28.23,0:21:32.98,Main,,0,0,0,,{\i1\c&H0EEBFF&}Cùng đó là hacker Dr. 909 cũng đã bị bắt,
+Dialogue: 12,0:21:28.23,0:21:32.98,Main,,0,0,0,,{\i1\c&H0EEBFF&}Cùng với đó là hacker Dr. 909 cũng đã bị bắt,
 Dialogue: 12,0:21:32.98,0:21:37.40,Main,,0,0,0,,{\i1\c&H0EEBFF&}tên thật là Donald McDonald, \Ncũng là người đã phát tán thông tin.
 Dialogue: 12,0:21:37.82,0:21:42.41,Main,,0,0,0,,Vậy là 909 \Nkhông liên quan gì đến Skinner à?
 Dialogue: 12,0:21:42.41,0:21:44.07,Main,,0,0,0,,Chắc là vậy rồi.
