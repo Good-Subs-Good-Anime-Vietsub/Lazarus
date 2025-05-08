@@ -47,13 +47,11 @@ jobs:
       run: |
         echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
         chmod 600 ~/.config/rclone/rclone.conf
-        
-    - name: Create mount directories
-      run: |
-        mkdir -p ./raws
 
     - name: Mount raws folder
       run: |
+        rclone listremotes
+        mkdir -p ./raws
         rclone mount raws:DSNP ./raws --daemon --vfs-cache-mode full
         sleep 5
         ls -la ./raws
