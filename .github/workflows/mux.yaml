@@ -1,0 +1,94 @@
+name: SubKT Mux and Upload
+
+on:
+  workflow_dispatch:
+    inputs:
+      mux_numbers:
+        description: 'Specific mux numbers to run (comma-separated, e.g. "01,NCOP1")'
+        required: false
+        type: string
+      run_all:
+        description: 'Run all mux tasks'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        java-version: '16'
+        distribution: 'temurin' 
+        cache: 'gradle' 
+
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@v4
+      with:
+        gradle-version: wrapper
+        cache-read-only: ${{ github.ref != 'refs/heads/main' && github.ref != 'refs/heads/master' }}
+        cache-overwrite-existing: true
+        generate-job-summary: true
+
+    - name: Install rclone
+      run: |
+        curl https://rclone.org/install.sh | sudo bash
+        mkdir -p ~/.config/rclone
+
+    - name: Configure rclone
+      env:
+        RCLONE_CONFIG: ${{ secrets.RCLONE }}
+      run: |
+        echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
+        chmod 600 ~/.config/rclone/rclone.conf
+        
+    - name: Create mount directories
+      run: |
+        mkdir -p ./raws
+
+    - name: Mount raws folder
+      run: |
+        rclone mount raws:DSNP ./raws --daemon --vfs-cache-mode full
+        sleep 5
+        ls -la ./raws
+
+    - name: Extract mux task numbers
+      id: extract-tasks
+      run: |
+        # Run gradlew tasks and extract mux task numbers
+        TASK_OUTPUT=$(./gradlew tasks --all)
+        MUX_TASKS=$(echo "$TASK_OUTPUT" | grep -oE 'mux\.[^.]+' | sed 's/mux\.//')
+        
+        # Format as space-separated list for Gradle command
+        MUX_TASKS_ALL=$(echo "$MUX_TASKS" | sed 's/^/mux./' | tr '\n' ' ')
+        
+        echo "mux_tasks_all=$MUX_TASKS_ALL" >> $GITHUB_OUTPUT
+
+    - name: Run specified mux tasks
+      if: ${{ inputs.mux_numbers != '' }}
+      run: |
+        TASKS=$(echo "${{ inputs.mux_numbers }}" | tr ',' '\n' | sed 's/^/mux./' | tr '\n' ' ')
+        echo "Running specified tasks: $TASKS"
+        ./gradlew $TASKS
+        
+    - name: Run all mux tasks
+      if: ${{ inputs.run_all == 'true' }}
+      run: |
+        TASKS="${{ steps.extract-tasks.outputs.mux_tasks_all }}"
+        echo "Running all tasks: $TASKS"
+        ./gradlew $TASKS
+
+    - name: Upload to Drive.
+      run: |
+        rclone copy ./muxdir muxout: -P
+
+    - name: Unmount rclone folders
+      if: always()
+      run: |
+        fusermount -u ./raws || true
