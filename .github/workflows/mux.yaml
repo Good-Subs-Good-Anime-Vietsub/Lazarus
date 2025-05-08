@@ -41,6 +41,11 @@ jobs:
       with:
         rclone_config: ${{ secrets.RCLONE }}
 
+    - name: Install mkvtoolnix
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y mkvtoolnix
+
     - name: Mount raws folder
       run: |
         mkdir -p ./raws
@@ -59,6 +64,12 @@ jobs:
         MUX_TASKS_ALL=$(echo "$MUX_TASKS" | sed 's/^/mux./' | tr '\n' ' ')
         
         echo "mux_tasks_all=$MUX_TASKS_ALL" >> $GITHUB_OUTPUT
+
+    - name: Run gradlew
+      run: |
+        ls ./ 
+        ls raws/
+        ./gradlew
 
     - name: Run specified mux tasks
       if: ${{ inputs.mux_numbers != '' }}
