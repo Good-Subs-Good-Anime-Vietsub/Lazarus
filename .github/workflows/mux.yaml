@@ -21,7 +21,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Set up JDK 17
+    - name: Set up JDK
       uses: actions/setup-java@v4
       with:
         java-version: '16'
@@ -35,24 +35,16 @@ jobs:
         cache-read-only: ${{ github.ref != 'refs/heads/main' && github.ref != 'refs/heads/master' }}
         cache-overwrite-existing: true
         generate-job-summary: true
-
-    - name: Install rclone
-      run: |
-        curl https://rclone.org/install.sh | sudo bash
-        mkdir -p ~/.config/rclone
-
-    - name: Configure rclone
-      env:
-        RCLONE_CONFIG: ${{ secrets.RCLONE }}
-      run: |
-        echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
-        chmod 600 ~/.config/rclone/rclone.conf
+   
+    - name: Setup Rclone
+      uses: AnimMouse/setup-rclone@v1
+      with:
+        rclone_config: ${{ secrets.RCLONE }}
 
     - name: Mount raws folder
       run: |
-        rclone listremotes
         mkdir -p ./raws
-        rclone mount raws:DSNP ./raws --daemon --vfs-cache-mode full
+        rclone mount raws:DSNP ./raws --daemon --vfs-cache-mode full --allow-non-empty
         sleep 5
         ls -la ./raws
 
