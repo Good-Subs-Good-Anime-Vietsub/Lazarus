@@ -73,8 +73,6 @@ jobs:
 
     - name: Run gradlew
       run: |
-        ls ./ 
-        ls raws/
         ./gradlew
 
     - name: Run specified mux tasks
