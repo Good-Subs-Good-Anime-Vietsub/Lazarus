@@ -13,14 +13,14 @@ LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
-Video File: ../raws/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Audio File: F:/muxxx/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Video File: F:/muxxx/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 193
-Active Line: 222
-Video Position: 23156
+Video Zoom Percent: 0.500000
+Scroll Position: 24
+Active Line: 33
+Video Position: 5414
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,7 +66,7 @@ Dialogue: 12,0:03:34.94,0:03:37.20,Main,,0,0,0,,Bọn chúng cấu kết với S
 Dialogue: 12,0:03:37.20,0:03:39.62,Main,,0,0,0,,Rồi chuyện cấp phép chỉ là \Nmột màn kịch thôi chứ gì.
 Dialogue: 12,0:03:39.82,0:03:41.62,Main,,0,0,0,,Cũng có khả năng đó.
 Dialogue: 12,0:03:41.62,0:03:45.08,Main,,0,0,0,,Dù sao đi nữa, chắc chắn phải có gì đó\N liên quan đến Skinner.
-Dialogue: 12,0:03:45.08,0:03:46.75,Main,,0,0,0,, Eleina, bên cháu sao rồi?
+Dialogue: 12,0:03:45.08,0:03:46.75,Main,,0,0,0,,Eleina, bên cháu sao rồi?
 Dialogue: 12,0:03:47.21,0:03:48.54,Main,,0,0,0,,Tìm thấy gì không?
 Dialogue: 12,0:03:48.54,0:03:51.46,Main,,0,0,0,,Không có gì giống như \Ndữ liệu thử nghiệm lâm sàng.
 Dialogue: 12,0:03:51.67,0:03:54.38,Main,,0,0,0,,Chỉ là, có một chuyện hơi lạ.
