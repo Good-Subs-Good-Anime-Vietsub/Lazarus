@@ -28,6 +28,11 @@ jobs:
         distribution: 'temurin' 
         cache: 'gradle' 
 
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+
     - name: Setup Gradle
       uses: gradle/actions/setup-gradle@v4
       with:
@@ -41,10 +46,11 @@ jobs:
       with:
         rclone_config: ${{ secrets.RCLONE }}
 
-    - name: Install mkvtoolnix
+    - name: Setup deps
       run: |
         sudo apt-get update
         sudo apt-get install -y mkvtoolnix
+        pip install torf-cli 
 
     - name: Mount raws folder
       run: |
@@ -77,6 +83,10 @@ jobs:
         TASKS=$(echo "${{ inputs.mux_numbers }}" | tr ',' '\n' | sed 's/^/mux./' | tr '\n' ' ')
         echo "Running specified tasks: $TASKS"
         ./gradlew $TASKS
+        cd muxdir
+        find "./" -type f -print0 | while IFS= read -r -d '' file; do
+          torf --max-piece-size 16 -t http://nyaa.tracker.wf:7777/announce,http://anidex.moe:6969/announce,udp://open.stealth.si:80/announce,udp://tracker.opentrackr.org:1337/announce,udp://tracker.coppersurfer.tk:6969/announce,udp://exodus.desync.com:6969/announce "$file"
+        done
         
     - name: Run all mux tasks
       if: ${{ inputs.run_all == 'true' }}
