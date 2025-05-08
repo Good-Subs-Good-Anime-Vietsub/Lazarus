@@ -18,8 +18,9 @@ Video File: ../raws/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 17
-Video Position: 1207
+Scroll Position: 193
+Active Line: 222
+Video Position: 23156
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -254,7 +255,7 @@ Dialogue: 12,0:16:00.77,0:16:01.98,Main,,0,0,0,,Có chuyện gì vậy?
 Dialogue: 12,0:16:02.27,0:16:03.28,Main,,0,0,0,,Sao thế?
 Dialogue: 12,0:16:03.86,0:16:04.28,Main,,0,0,0,,Gì vậy?
 Dialogue: 12,0:16:04.86,0:16:05.32,Main,,0,0,0,,Mất điện?
-Dialogue: 12,0:16:05.78,0:16:06.70,Main,,0,0,0,,Elaina!
+Dialogue: 12,0:16:05.78,0:16:06.70,Main,,0,0,0,,Eleina!
 Dialogue: 12,0:16:06.70,0:16:09.36,Main,,0,0,0,,Phòng này dùng nguồn điện tự cấp \Nnên không sao.
 Dialogue: 12,0:16:09.82,0:16:10.95,Main,,0,0,0,,Cái này...
 Dialogue: 12,0:16:10.95,0:16:12.87,Main,,0,0,0,,Mạng vẫn chưa bị xâm nhập.
