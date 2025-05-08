@@ -20,6 +20,9 @@
 !*.ttf
 !*.ttc
 
+# Github
+!/.github/**
+
 # SubKt files
 !build.gradle.kts
 !gradle.properties
