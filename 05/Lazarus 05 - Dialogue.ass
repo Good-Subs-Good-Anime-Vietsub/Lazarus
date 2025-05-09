@@ -13,14 +13,14 @@ LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: F:/muxxx/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
-Video File: F:/muxxx/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Audio File: ../raws/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
+Video File: ../raws/Lazarus.S01E05.Pretty.Vacant.1080p.DSNP.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 33
-Video Position: 5414
+Video Zoom Percent: 0.625000
+Scroll Position: 115
+Active Line: 148
+Video Position: 17377
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,8 +49,8 @@ Dialogue: 12,0:00:33.89,0:00:35.52,Main,,0,0,0,,Còn tệ hơn là...
 Dialogue: 12,0:00:35.89,0:00:40.23,Main,,0,0,0,,Nghe nói Hapna chỉ cần uống một lần\N đã thành chất cực độc.
 Dialogue: 12,0:00:41.35,0:00:42.98,Main,,0,0,0,,Thế nên giờ tôi mới...
 Dialogue: 12,0:00:42.98,0:00:45.73,Main,,0,0,0,,phải đi tìm lão già Skinner này đây.
-Dialogue: 12,0:00:47.40,0:00:49.70,Main,,0,0,0,,Cứ đà này không tìm thấy lão\N rồi lăn ra chết...
-Dialogue: 12,0:00:50.32,0:00:54.66,Main,,0,0,0,,thì xuống dưới đó \Nchắc phải đấm cho lão mấy phát quá.
+Dialogue: 12,0:00:47.40,0:00:49.70,Main,,0,0,0,,Cứ đà này mà không tìm thấy lão\N rồi lăn ra chết...
+Dialogue: 12,0:00:50.32,0:00:54.66,Main,,0,0,0,,thì xuống dưới đó \Nchắc phải cho lão mấy đấm quá.
 Dialogue: 12,0:03:06.04,0:03:09.38,Main,,0,0,0,,Dr. 909 đã hack vào Dược phẩm Delta...
 Dialogue: 12,0:03:09.63,0:03:11.50,Main,,0,0,0,,và biết được Hapna rất nguy hiểm.
 Dialogue: 12,0:03:12.26,0:03:13.63,Main,,0,0,0,,Điều quan trọng ở đây là...
@@ -181,7 +181,7 @@ Dialogue: 12,0:11:50.86,0:11:53.98,Main,,0,0,0,,Trong ống thuốc này, \Nđ�
 Dialogue: 12,0:11:53.98,0:11:56.57,Main,,0,0,0,,đã gắn một thiết bị theo dõi GPS siêu nhỏ.
 Dialogue: 12,0:11:57.45,0:11:59.07,Main,,0,0,0,,Thế bên trong là gì vậy?
 Dialogue: 12,0:11:59.07,0:12:00.49,Main,,0,0,0,,Chỉ là nước muối sinh lý.
-Dialogue: 12,0:12:01.91,0:12:04.62,Main,,0,0,0,,Vấn đề là\N địch sẽ đến bằng cách nào.
+Dialogue: 12,0:12:01.91,0:12:04.62,Main,,0,0,0,,Vấn đề là\N đối phương sẽ tiếp cận bằng cách nào.
 Dialogue: 12,0:12:04.62,0:12:07.29,Main,,0,0,0,,Xâm nhập từ bên ngoài...
 Dialogue: 12,0:12:07.29,0:12:08.29,Main,,0,0,0,,Hay là...
 Dialogue: 12,0:12:08.29,0:12:11.46,Main,,0,0,0,,Trà trộn vào trong số khách mời.
