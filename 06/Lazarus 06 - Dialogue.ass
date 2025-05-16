@@ -15,8 +15,10 @@ Audio File: ../raws/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.
 Video File: ../raws/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Video Position: 24
+Video Zoom Percent: 0.625000
+Scroll Position: 85
+Active Line: 96
+Video Position: 10343
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +116,7 @@ Dialogue: 12,0:06:26.96,0:06:29.66,Main,,0,0,0,,Eleina, con về tốt quá.
 Dialogue: 12,0:06:30.04,0:06:33.00,Main,,0,0,0,,Chào mừng con, \Nthành viên mới của gia đình.
 Dialogue: 12,0:06:33.89,0:06:37.22,Main,,0,0,0,,Ta là Billy, quản lý nơi này.
 Dialogue: 12,0:06:37.22,0:06:38.71,Main,,0,0,0,,À... vâng.
-Dialogue: 12,0:06:39.05,0:06:42.11,Main,,0,0,0,,Con quay về \Nđúng lúc trước Lễ Thánh nhỉ.
+Dialogue: 12,0:06:39.05,0:06:42.11,Main,,0,0,0,,Con quay về đúng dịp Lễ Thánh nhỉ.
 Dialogue: 12,0:06:42.11,0:06:45.07,Main,,0,0,0,,Chắc chắn là Đức Naga dẫn dắt đó.
 Dialogue: 12,0:06:51.60,0:06:55.16,Main,,0,0,0,,Điện thoại hay thứ gì \Nkết nối được internet đều ở đây à?
 Dialogue: 12,0:06:55.16,0:06:56.09,Main,,0,0,0,,À vâng.
@@ -124,7 +126,7 @@ Dialogue: 12,0:06:59.38,0:07:02.82,Main,,0,0,0,,Thế giới bên ngoài \Nđầ
 Dialogue: 12,0:07:02.82,0:07:05.45,Main,,0,0,0,,Con người dễ bị lừa gạt.
 Dialogue: 12,0:07:05.91,0:07:10.03,Main,,0,0,0,,Yên tâm đi! Ở đây,\N Đức Naga sẽ dẫn dắt mọi thứ.
 Dialogue: 12,0:07:10.40,0:07:11.38,Main,,0,0,0,,Vậy à...
-Dialogue: 12,0:07:11.38,0:07:14.42,Main,,0,0,0,,Mong cho thế giới bên ngoài \Nđược giải trừ thuật tẩy não.
+Dialogue: 12,0:07:11.38,0:07:14.42,Main,,0,0,0,,Mong cho thế giới bên ngoài \Nđược giải trừ khỏi thuật tẩy não.
 Dialogue: 12,0:07:16.84,0:07:18.84,Main,,0,0,0,,Tẩy não à...
 Dialogue: 12,0:07:44.65,0:07:46.07,Main,,0,0,0,,Không được à.
 Dialogue: 12,0:07:46.07,0:07:46.93,Main,,0,0,0,,Leland?
