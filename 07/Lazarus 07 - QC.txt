@@ -1,20 +1,27 @@
 Chúng ta sao mà tin vào ngày mai được.
 {đâu thể tin}
+DONE
 
 Đến đó xem sao...\N đến biển của Skinner.
 {vùng biển của} {đỡ lặp, nghe cũng hay}
+DONE*
 
 đã đến hòn đảo này\N và nhận cung cấp gen.
 {cung cấp mẫu gen}
+DONE
 
 Dù sao, khả năng cao chứng "không thấy đau" đó\N là nguồn căn của Hapna.
 {nguồn cơn} {dù e vẫn hiểu nguồn căn, nhma tra thử gg không thấy có từ này :))}
+DONE
 
 Hôm nay là ngày tảng băng cuối cùng\N ở Bắc Băng Dương sụp xuống.
 {sụp đổ} {đọc ngầu hơn :))}
+DONE
 
 Này, sáu tiếng kèn đầu \Nđược thổi khi nào vậy?
 {sáu tiếng kèn trước/trước đó}
+DONE
 
 À mà... lát nữa đi với tôi lát nhé?
 {lát nữa đi với tôi một lát nhé?} {vẫn lặp từ lát nhma e thấy như đọc ok hơn}
+DONE

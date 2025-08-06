@@ -15,10 +15,10 @@ Audio File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.
 Video File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 105
-Active Line: 106
-Video Position: 9401
+Video Zoom Percent: 0.625000
+Scroll Position: 117
+Active Line: 150
+Video Position: 12364
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,7 +67,7 @@ Dialogue: 0,0:02:34.72,0:02:35.55,Main,,0,0,0,,Triển nào!
 Dialogue: 0,0:02:43.75,0:02:44.58,Main,,0,0,0,,Gì vậy trời?
 Dialogue: 0,0:02:50.25,0:02:51.43,Main,,0,0,0,,Cháy à?
 Dialogue: 0,0:02:51.98,0:02:53.53,Main,,0,0,0,,Chắc không đâu.
-Dialogue: 0,0:02:59.58,0:03:03.87,Main,,0,0,0,,Hôm nay là ngày tảng băng cuối cùng\N ở Bắc Băng Dương sụp xuống.
+Dialogue: 0,0:02:59.58,0:03:03.87,Main,,0,0,0,,Hôm nay là ngày tảng băng cuối cùng\N ở Bắc Băng Dương sụp đổ.
 Dialogue: 0,0:03:04.18,0:03:05.55,Main,,0,0,0,,Khiếp chưa.
 Dialogue: 0,0:03:05.55,0:03:08.18,Main,,0,0,0,,Hả? Thế là Bắc Cực không còn à?
 Dialogue: 0,0:03:08.18,0:03:10.13,Main,,0,0,0,,Chỗ nào cũng đưa tin này hết.
@@ -120,7 +120,7 @@ Dialogue: 0,0:05:29.02,0:05:30.68,Main,,0,0,0,,À ra thế.
 Dialogue: 0,0:05:30.68,0:05:33.63,Main,,0,0,0,,Nên Skinner mới là người thổi kèn thứ bảy.
 Dialogue: 0,0:05:35.33,0:05:36.33,Main,,0,0,0,,Xong rồi à.
 Dialogue: 0,0:05:36.98,0:05:38.19,Main,,0,0,0,,Ơ, xin phép.
-Dialogue: 0,0:05:38.68,0:05:42.80,Main,,0,0,0,,Này, sáu tiếng kèn đầu \Nđược thổi khi nào vậy?
+Dialogue: 0,0:05:38.68,0:05:42.80,Main,,0,0,0,,Này, sáu tiếng kèn trước đó \Nđược thổi khi nào vậy?
 Dialogue: 0,0:05:43.43,0:05:44.98,Main,,0,0,0,,Chịu.
 Dialogue: 0,0:05:46.94,0:05:49.72,Main,,0,0,0,,Rồi, phân tích đã xong.
 Dialogue: 0,0:05:56.00,0:05:57.80,Main,,0,0,0,,Hôm nay thời tiết không tốt.
@@ -128,7 +128,7 @@ Dialogue: 0,0:05:57.80,0:06:00.12,Main,,0,0,0,,Với lại, trời cũng sắp t
 Dialogue: 0,0:06:00.52,0:06:03.28,Main,,0,0,0,,Nếu muốn ra khơi, \Nđể mai không tốt hơn sao?
 Dialogue: 0,0:06:03.28,0:06:04.16,Main,,0,0,0,,Cứ đi đi.
 Dialogue: 0,0:06:04.16,0:06:05.05,Main,,0,0,0,,Nhưng mà...
-Dialogue: 0,0:06:05.36,0:06:09.47,Main,,0,0,0,,Chúng ta sao mà tin vào ngày mai được.
+Dialogue: 0,0:06:05.36,0:06:09.47,Main,,0,0,0,,Chúng ta đâu thể tin vào ngày mai được.
 Dialogue: 0,0:06:15.84,0:06:17.10,Main,,0,0,0,,Cái gì đây?
 Dialogue: 0,0:06:17.10,0:06:19.19,Main,,0,0,0,,Bộ nhớ lấy từ Naga.
 Dialogue: 0,0:06:19.54,0:06:20.60,Main,,0,0,0,,Mấy con số này là sao?
@@ -169,7 +169,8 @@ Dialogue: 0,0:07:49.08,0:07:50.78,Main,,0,0,0,,Cố tình mua đảo sắp chìm
 Dialogue: 0,0:07:51.06,0:07:53.42,Main,,0,0,0,,Ý Naga là đây à?
 Dialogue: 0,0:07:53.76,0:07:56.92,Main,,0,0,0,,Giời ạ, loạn hết cả lên rồi, \Nchả hiểu gì nữa.
 Dialogue: 0,0:07:56.92,0:07:59.21,Main,,0,0,0,,Nói cũng chả giải quyết được gì.
-Dialogue: 0,0:07:59.42,0:08:02.66,Main,,0,0,0,,Đến đó xem sao...\N đến biển của Skinner.
+Dialogue: 0,0:07:59.42,0:08:00.78,Main,,0,0,0,,Đến đó xem sao.
+Dialogue: 0,0:08:01.13,0:08:02.69,Main,,0,0,0,,Đến vùng biển của Skinner.
 Dialogue: 0,0:08:04.94,0:08:09.22,Main,,0,0,0,,Có khả năng Skinner đang ẩn náu \Nở một trong bốn nơi đó không?
 Dialogue: 0,0:08:09.46,0:08:11.62,Main,,0,0,0,,Cũng không dám chắc.
 Dialogue: 0,0:08:11.62,0:08:14.94,Main,,0,0,0,,Nhưng việc Skinner mua chúng...
@@ -178,7 +179,8 @@ Dialogue: 0,0:08:17.18,0:08:18.26,Main,,0,0,0,,Hiểu.
 Dialogue: 0,0:08:18.68,0:08:22.94,Main,,0,0,0,,Nhưng do nóng lên toàn cầu, \Ncác hòn đảo đã chìm xuống biển.
 Dialogue: 0,0:08:22.94,0:08:25.36,Main,,0,0,0,,Manh mối còn lại rất ít.
 Dialogue: 0,0:08:25.82,0:08:26.78,Main,,0,0,0,,Được rồi.
-Dialogue: 0,0:08:27.38,0:08:31.82,Main,,0,0,0,,À mà... lát nữa đi với tôi lát nhé?
+Dialogue: 0,0:08:27.38,0:08:28.71,Main,,0,0,0,,À mà... 
+Dialogue: 0,0:08:29.56,0:08:31.91,Main,,0,0,0,,lát nữa đi với tôi một lúc nhé?
 Dialogue: 0,0:08:56.82,0:09:00.06,Main,,0,0,0,,Tôi không biết là \Nông lại thích Rembrandt đấy.
 Dialogue: 0,0:09:00.40,0:09:04.04,Main,,0,0,0,,Hay ông chỉ cần \Nmột nơi không bị nghe lén thôi?
 Dialogue: 0,0:09:04.04,0:09:06.23,Main,,0,0,0,,Không, từ lâu rồi...
@@ -274,10 +276,10 @@ Dialogue: 0,0:19:22.65,0:19:23.68,Main,,0,0,0,,Vụ Axel ư?
 Dialogue: 0,0:19:23.68,0:19:28.52,Main,,0,0,0,,Đúng, cả vụ tai nạn \Nở sân bay Schiphol nữa.
 Dialogue: 0,0:19:29.42,0:19:33.91,Main,,0,0,0,,Axel chính là "ánh sáng"\N soi rọi vụ này.
 Dialogue: 0,0:19:35.20,0:19:36.93,Main,,0,0,0,,15 năm trước, Skinner...
-Dialogue: 0,0:19:36.93,0:19:40.28,Main,,0,0,0,,đã đến hòn đảo này\N và nhận cung cấp gen.
+Dialogue: 0,0:19:36.93,0:19:40.28,Main,,0,0,0,,đã đến hòn đảo này\N và nhận được cung cấp mẫu gen.
 Dialogue: 0,0:19:40.58,0:19:44.67,Main,,0,0,0,,Ở 3 hòn đảo còn lại, \Nnhờ việc Skinner mua lại đất đai,
 Dialogue: 0,0:19:44.67,0:19:48.46,Main,,0,0,0,,người dân đã có thể \Ntái định cư ở nơi khác.
-Dialogue: 0,0:19:48.46,0:19:53.71,Main,,0,0,0,,Dù sao, khả năng cao chứng "không thấy đau" đó\N là nguồn căn của Hapna.
+Dialogue: 0,0:19:48.46,0:19:53.71,Main,,0,0,0,,Dù sao, khả năng cao chứng "không thấy đau" đó\N là nguồn gốc của Hapna.
 Dialogue: 0,0:19:53.71,0:19:56.17,Main,,0,0,0,,Thế nơi nghiên cứu gen đó ở đâu?
 Dialogue: 0,0:19:56.17,0:20:00.07,Main,,0,0,0,,{\i1}Là Viện nghiên cứu Hague, \Nnơi Tiến sĩ Skinner làm việc hồi đó.
 Dialogue: 0,0:20:00.53,0:20:04.44,Main,,0,0,0,,Chỗ đó đúng ra là bị đóng cửa \Nsau vụ Hapna rồi chứ.
