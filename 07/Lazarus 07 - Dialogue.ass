@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[Erai-raws] Lazarus - 07 [1080p DSNP WEB-DL AVC AAC][3D328BCD].mkv
-Video File: ../raws/[Erai-raws] Lazarus - 07 [1080p DSNP WEB-DL AVC AAC][3D328BCD].mkv
+Audio File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
+Video File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 2242
+Video Zoom Percent: 0.875000
+Scroll Position: 105
+Active Line: 106
+Video Position: 9401
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +83,7 @@ Dialogue: 0,0:03:35.73,0:03:40.23,Main,,0,0,0,,Không chỉ thế, cứ đà nà
 Dialogue: 0,0:03:40.23,0:03:42.38,Main,,0,0,0,,Hapna bị cho ra rìa.
 Dialogue: 0,0:03:42.38,0:03:43.54,Main,,0,0,0,,Không sai.
 Dialogue: 0,0:03:44.00,0:03:45.58,Main,,0,0,0,,Nếu tiên tri đúng...
-Dialogue: 0,0:03:45.58,0:03:49.00,Main,,0,0,0,,thì còn có 15 ngày nữa\N là có nạn nhân đầu tiên cơ mà.
+Dialogue: 0,0:03:45.58,0:03:49.00,Main,,0,0,0,,thì còn 15 ngày nữa\N là có nạn nhân đầu tiên cơ mà.
 Dialogue: 0,0:03:49.00,0:03:52.95,Main,,0,0,0,,Có khi loài người toi đời vì cuộc chiến đó\N trước cả Hapna ấy chứ.
 Dialogue: 0,0:03:52.95,0:03:55.13,Main,,0,0,0,,Không cười nổi đâu chị.
 Dialogue: 0,0:03:56.20,0:03:57.51,Main,,0,0,0,,Bác Hersch.
@@ -92,7 +93,7 @@ Dialogue: 0,0:04:06.00,0:04:09.73,Main,,0,0,0,,Cả FBI cài vào tân tôn giá
 Dialogue: 0,0:04:09.73,0:04:13.15,Main,,0,0,0,,không tìm thấy \Nbất cứ thứ gì liên quan đến Skinner.
 Dialogue: 0,0:04:13.48,0:04:17.98,Main,,0,0,0,,Giáo chủ Naga là \NAI mô phỏng não của Skinner, nhưng...
 Dialogue: 0,0:04:17.98,0:04:21.68,Main,,0,0,0,,xét cho cùng vẫn không liên quan gì đến\N bản thân Skinner.
-Dialogue: 0,0:04:21.68,0:04:23.38,Main,,0,0,0,,Công cốc rồi à. 
+Dialogue: 0,0:04:21.68,0:04:23.38,Main,,0,0,0,,Công cốc rồi à.
 Dialogue: 0,0:04:23.38,0:04:24.99,Main,,0,0,0,,Thế giờ tính sao?
 Dialogue: 0,0:04:24.99,0:04:28.23,Main,,0,0,0,,Những lúc thế này, chả phải nên \Nquay lại điểm khởi đầu sao?
 Dialogue: 0,0:04:28.23,0:04:29.12,Main,,0,0,0,,Điểm khởi đầu?
@@ -100,8 +101,8 @@ Dialogue: 0,0:04:29.12,0:04:31.95,Main,,0,0,0,,Trước hết, xem lại tuyên 
 Dialogue: 0,0:04:31.95,0:04:32.95,Main,,0,0,0,,Hừ...
 Dialogue: 0,0:04:36.00,0:04:38.00,Main,,0,0,0,,Chết tiệt, chịu rồi.
 Dialogue: 0,0:04:39.78,0:04:42.00,Main,,0,0,0,,{\i1}Loài người có đáng để tồn tại hay không?
-Dialogue: 0,0:04:42.00,0:04:44.43,Main,,0,0,0,,{\i1}Tôi vốn không có ý định\N tự mình quyết định.
-Dialogue: 0,0:04:44.83,0:04:48.55,Main,,0,0,0,,{\i1}Tôi chỉ đơn thuần là\N "người thổi kèn thứ bảy" mà.
+Dialogue: 0,0:04:42.00,0:04:44.43,Main,,0,0,0,,{\i1}Tôi vốn không có ý tự mình quyết định.
+Dialogue: 0,0:04:44.83,0:04:48.55,Main,,0,0,0,,{\i1}Tôi chỉ đơn thuần là\N "người thổi kèn thứ bảy" mà thôi.
 Dialogue: 0,0:04:48.55,0:04:49.85,Main,,0,0,0,,Ơ, dừng lại.
 Dialogue: 0,0:04:50.73,0:04:54.40,Main,,0,0,0,,Cái vụ "người thổi kèn thứ bảy" này \Nnghĩa là sao?
 Dialogue: 0,0:04:54.40,0:04:56.63,Main,,0,0,0,,Một đoạn trong Tân Ước đấy.
@@ -135,7 +136,7 @@ Dialogue: 0,0:06:20.60,0:06:23.82,Main,,0,0,0,,Chắc là thứ Naga xuất ra t
 Dialogue: 0,0:06:23.82,0:06:26.06,Main,,0,0,0,,Lời trăn trối của Naga chăng?
 Dialogue: 0,0:06:26.06,0:06:29.74,Main,,0,0,0,,Thực tế, có lẽ nó \Nđã cố gắng truyền đạt gì đó.
 Dialogue: 0,0:06:29.74,0:06:32.10,Main,,0,0,0,,Biết đâu là tên mối tình đầu.
-Dialogue: 0,0:06:32.10,0:06:33.66,Main,,0,0,0,,Nghiêm túc dùm cái đi.
+Dialogue: 0,0:06:32.10,0:06:33.66,Main,,0,0,0,,Nghiêm túc hộ cái đi.
 Dialogue: 0,0:06:33.66,0:06:35.42,Main,,0,0,0,,Rồi rồi, lớp trưởng.
 Dialogue: 0,0:06:35.42,0:06:37.08,Main,,0,0,0,,Không phải số điện thoại à?
 Dialogue: 0,0:06:37.48,0:06:39.70,Main,,0,0,0,,Mà cứ gọi thử xem sao.
@@ -155,9 +156,9 @@ Dialogue: 0,0:07:12.44,0:07:13.64,Main,,0,0,0,,Là 4 địa điểm này.
 Dialogue: 0,0:07:16.42,0:07:17.66,Main,,0,0,0,,Ơ thì...
 Dialogue: 0,0:07:17.66,0:07:18.78,Main,,0,0,0,,Thế này đúng chứ?
 Dialogue: 0,0:07:19.13,0:07:21.00,Main,,0,0,0,,Toàn là giữa biển không à.
-Dialogue: 0,0:07:22.34,0:07:25.90,Main,,0,0,0,,Maldives, Vịnh Manila, \NQuần đảo Sakishima, Tuvalu…
+Dialogue: 0,0:07:22.34,0:07:27.04,Main,,0,0,0,,Maldives, Vịnh Manila, \NQuần đảo Sakishima, Tuvalu…
 Dialogue: 0,0:07:27.30,0:07:28.64,Main,,0,0,0,,Chịu, chả hiểu.
-Dialogue: 0,0:07:29.18,0:07:33.14,Main,,0,0,0,,Đây cả phải mấy hòn đảo\N bị chìm trong khoảng 10 năm nay sao?
+Dialogue: 0,0:07:29.18,0:07:33.14,Main,,0,0,0,,Đây chả phải mấy hòn đảo\N bị chìm trong khoảng 10 năm nay sao?
 Dialogue: 0,0:07:33.14,0:07:34.66,Main,,0,0,0,,Hình như thế...
 Dialogue: 0,0:07:34.66,0:07:38.34,Main,,0,0,0,,Không phải biển mà vốn là đảo à?
 Dialogue: 0,0:07:38.34,0:07:40.20,Main,,0,0,0,,Lẽ nào đây là...
@@ -177,28 +178,28 @@ Dialogue: 0,0:08:17.18,0:08:18.26,Main,,0,0,0,,Hiểu.
 Dialogue: 0,0:08:18.68,0:08:22.94,Main,,0,0,0,,Nhưng do nóng lên toàn cầu, \Ncác hòn đảo đã chìm xuống biển.
 Dialogue: 0,0:08:22.94,0:08:25.36,Main,,0,0,0,,Manh mối còn lại rất ít.
 Dialogue: 0,0:08:25.82,0:08:26.78,Main,,0,0,0,,Được rồi.
-Dialogue: 0,0:08:27.38,0:08:31.82,Main,,0,0,0,,À mà... lát nữa ra ngoài được không?
-Dialogue: 0,0:08:56.82,0:09:00.06,Main,@@,0,0,0,,Tôi không biết là \Nông lại thích Rembrandt đấy.
+Dialogue: 0,0:08:27.38,0:08:31.82,Main,,0,0,0,,À mà... lát nữa đi với tôi lát nhé?
+Dialogue: 0,0:08:56.82,0:09:00.06,Main,,0,0,0,,Tôi không biết là \Nông lại thích Rembrandt đấy.
 Dialogue: 0,0:09:00.40,0:09:04.04,Main,,0,0,0,,Hay ông chỉ cần \Nmột nơi không bị nghe lén thôi?
 Dialogue: 0,0:09:04.04,0:09:06.23,Main,,0,0,0,,Không, từ lâu rồi...
 Dialogue: 0,0:09:06.23,0:09:09.32,Main,,0,0,0,,tôi đã quyết bức tranh cuối cùng mình ngắm \Nsẽ là của Rembrandt.
 Dialogue: 0,0:09:09.62,0:09:11.28,Main,,0,0,0,,Ông cũng đa cảm nhỉ.
 Dialogue: 0,0:09:11.70,0:09:13.14,Main,,0,0,0,,Tôi là thế mà.
 Dialogue: 0,0:09:13.72,0:09:16.58,Main,,0,0,0,,Điềm tĩnh, lạnh lùng, vô cùng máu lạnh.
-Dialogue: 0,0:09:16.58,0:09:19.82,Main,,0,0,0,,Người ta đồn ông thực ra là AI đấy, \Nông biết không?
-Dialogue: 0,0:09:21.14,0:09:22.96,Main,,0,0,0,,Lần đầu tôi nghe.
+Dialogue: 0,0:09:16.58,0:09:19.82,Main,,0,0,0,,Người ta còn đồn \Nông thực ra là AI đấy?
+Dialogue: 0,0:09:21.14,0:09:22.96,Main,,0,0,0,,Chưa nghe bao giờ.
 Dialogue: 0,0:09:27.28,0:09:28.82,Main,,0,0,0,,Một tiếng nữa tôi về.
-Dialogue: 0,0:09:29.86,0:09:31.18,Main,@@,0,0,0,,Abel.
+Dialogue: 0,0:09:29.86,0:09:31.18,Main,,0,0,0,,Abel.
 Dialogue: 0,0:09:31.44,0:09:33.47,Main,,0,0,0,,Công việc thì cấm được đa cảm.
-Dialogue: 0,0:09:34.44,0:09:36.24,Main,@@,0,0,0,,Tôi biết rồi, Liz.
+Dialogue: 0,0:09:34.44,0:09:36.24,Main,,0,0,0,,Tôi biết rồi, Liz.
 Dialogue: 0,0:09:37.90,0:09:39.83,Main,,0,0,0,,Vậy, một tiếng nữa gặp.
 Dialogue: 0,0:12:55.20,0:12:59.13,Main,,0,0,0,,Đây là ngoài khơi Maldives, \Ncòn 12 phút nữa đến tọa độ.
 Dialogue: 0,0:12:59.78,0:13:03.01,Main,,0,0,0,,Bên này cũng đang trên không phận\N cửa sông Santa Maria.
 Dialogue: 0,0:13:03.56,0:13:05.51,Main,,0,0,0,,Sắp đáp xuống nước.
 Dialogue: 0,0:13:06.10,0:13:08.77,Main,,0,0,0,,Vừa rời đảo Ishigaki.
-Dialogue: 0,0:13:09.02,0:13:11.27,Main,@@,0,0,0,,10 phút nữa đến đảo Taketomi cũ.
+Dialogue: 0,0:13:09.02,0:13:11.27,Main,,0,0,0,,10 phút nữa đến đảo Taketomi cũ.
 Dialogue: 0,0:13:11.90,0:13:14.27,Main,,0,0,0,,Bên này đến Tuvalu rồi đây.
-Dialogue: 0,0:13:15.08,0:13:18.40,Main,,0,0,0,,Tôi xuống nước ngó trước một vòng đây~.
+Dialogue: 0,0:13:15.08,0:13:18.40,Main,,0,0,0,,Tôi xuống nước ngó trước một vòng đây~
 Dialogue: 0,0:13:19.90,0:13:21.32,Main,,0,0,0,,Nào...
 Dialogue: 0,0:13:26.94,0:13:28.18,Main,,0,0,0,,Gì thế?
 Dialogue: 0,0:13:31.46,0:13:32.54,Main,,0,0,0,,Chỗ này à?
@@ -212,18 +213,18 @@ Dialogue: 0,0:14:02.80,0:14:06.86,Main,,0,0,0,,Không, chỉ là... em thấy h�
 Dialogue: 0,0:14:07.22,0:14:10.70,Main,,0,0,0,,{\i1} Vậy ý em là không nên bắt\N Skinner thì tốt hơn à?
 Dialogue: 0,0:14:10.70,0:14:13.50,Main,,0,0,0,,{\i1} Này này, thế thì thế giới đi tong mất.
 Dialogue: 0,0:14:13.50,0:14:16.76,Main,,0,0,0,,{\i1}Ấy ấy ấy, em hiểu mà.
-Dialogue: 0,0:15:50.44,0:15:55.18,Main,,0,0,0,,Đến mức đã quên mất\N trời và biển có màu xanh rồi cơ mà.
+Dialogue: 0,0:15:50.44,0:15:55.18,Main,,0,0,0,,Đến trời biển xanh đẹp như thế này\N tôi còn quên mất rồi cơ mà.
 Dialogue: 0,0:15:55.70,0:15:58.94,Main,,0,0,0,,{\i1}Đúng là lâu rồi mới ngắm trời xanh.
-Dialogue: 0,0:15:58.94,0:16:02.46,Main,,0,0,0,,Ở thành phố Babylonia\N lúc nào cũng u ám.
-Dialogue: 0,0:16:02.46,0:16:04.42,Main,,0,0,0,,Giờ thì chỗ nào cũng vậy thôi.
+Dialogue: 0,0:15:58.94,0:16:02.46,Main,,0,0,0,,{\i1}Ở thành phố Babylonia\N lúc nào cũng u ám.
+Dialogue: 0,0:16:02.46,0:16:04.42,Main,,0,0,0,,{\i1}Giờ thì chỗ nào cũng vậy thôi.
 Dialogue: 0,0:16:05.38,0:16:09.11,Main,,0,0,0,,Chỉ những nơi \Nkhông có con người mới đẹp...
 Dialogue: 0,0:16:09.74,0:16:11.18,Main,,0,0,0,,Lẽ nào...
 Dialogue: 0,0:16:11.78,0:16:14.46,Main,,0,0,0,,Skinner muốn cho chúng ta \Nngắm cảnh này sao?
 Dialogue: 0,0:16:39.42,0:16:43.77,Main,,0,0,0,,Đây mới là Trái Đất thật sự.
 Dialogue: 0,0:16:44.98,0:16:48.78,Main,,0,0,0,,Loài người đã phá hủy nó.
 Dialogue: 0,0:16:49.42,0:16:53.34,Main,,0,0,0,,Những tiếng kèn khác\N đã được thổi từ lâu rồi.
-Dialogue: 0,0:16:56.08,0:16:58.40,Main,,0,0,0,,Ai dám nói...
-Dialogue: 0,0:16:59.02,0:17:00.52,Main,,0,0,0,,Skinner sai chứ?
+Dialogue: 0,0:16:56.08,0:16:58.40,Main,,0,0,0,,Skinner sai ư?
+Dialogue: 0,0:16:59.02,0:17:00.52,Main,,0,0,0,,Liệu có ai dám nói?
 Dialogue: 0,0:17:04.92,0:17:06.18,Main,,0,0,0,,Sao rồi?
 Dialogue: 0,0:17:06.66,0:17:07.92,Main,,0,0,0,,Chả có gì cả.
 Dialogue: 0,0:17:09.26,0:17:11.26,Main,,0,0,0,,Cũng 10 năm rồi mà.
@@ -232,21 +233,21 @@ Dialogue: 0,0:17:15.88,0:17:16.96,Main,,0,0,0,,Chỗ này.
 Dialogue: 0,0:17:18.22,0:17:21.56,Main,,0,0,0,,Lúc nãy có con cá chuồn bay tới\N sượt qua đấy.
 Dialogue: 0,0:17:21.56,0:17:22.81,Main,,0,0,0,,Không thấy đau à?
 Dialogue: 0,0:17:23.02,0:17:27.19,Main,,0,0,0,,Bẩm sinh tôi đã mắc chứng \N"không thấy đau" rồi.
-Dialogue: 0,0:17:28.48,0:17:31.20,Main,,0,0,0,,Tôi chừng thấy đau.
+Dialogue: 0,0:17:28.48,0:17:31.20,Main,,0,0,0,,Tôi chưa từng thấy đau.
 Dialogue: 0,0:17:32.82,0:17:34.74,Main,,0,0,0,,Vậy cũng chưa uống Hapna nhỉ?
 Dialogue: 0,0:17:34.74,0:17:36.49,Main,,0,0,0,,Thì có cần đâu.
 Dialogue: 0,0:17:36.94,0:17:40.79,Main,,0,0,0,,Quanh đây cũng không hiếm \Nngười như tôi đâu.
 Dialogue: 0,0:17:41.58,0:17:42.62,Main,,0,0,0,,Có chuyện gì?
-Dialogue: 0,0:17:42.62,0:17:44.48,Main,,0,0,0,,Trên hòn đảo từng ở đây ấy.
-Dialogue: 0,0:17:44.48,0:17:47.84,Main,,0,0,0,,Thấy bảo phần lớn người dân\N đều mắc chứng "không thấy đau".
+Dialogue: 0,0:17:42.62,0:17:44.48,Main,,0,0,0,,{\i1}Trên hòn đảo từng ở đây ấy.
+Dialogue: 0,0:17:44.48,0:17:47.84,Main,,0,0,0,,{\i1}Thấy bảo phần lớn người dân\N đều mắc chứng "không thấy đau".
 Dialogue: 0,0:17:48.10,0:17:48.98,Main,,0,0,0,,Gì cơ?
-Dialogue: 0,0:17:48.98,0:17:50.40,Main,,0,0,0,,Cái ông hướng dẫn viên,
-Dialogue: 0,0:17:50.40,0:17:54.18,Main,,0,0,0,,trước từng ở đảo này,\N đúng là không biết đau thật.
-Dialogue: 0,0:17:54.44,0:17:58.56,Main,,0,0,0,,Hơn nữa, nghe nói hồi nhỏ, \NSkinner từng đến hòn đảo này.
-Dialogue: 0,0:17:58.80,0:18:00.72,Main,,0,0,0,,Chúng tôi không có tiền.
+Dialogue: 0,0:17:48.98,0:17:50.40,Main,,0,0,0,,{\i1}Cái ông hướng dẫn viên,
+Dialogue: 0,0:17:50.40,0:17:54.18,Main,,0,0,0,,{\i1}trước từng ở đảo này,\N đúng là không biết đau thật.
+Dialogue: 0,0:17:54.44,0:17:58.56,Main,,0,0,0,,{\i1}Hơn nữa, nghe nói hồi nhỏ, \NSkinner từng đến hòn đảo này.
+Dialogue: 0,0:17:58.80,0:18:00.72,Main,,0,0,0,,Chúng tôi nghèo lắm.
 Dialogue: 0,0:18:00.72,0:18:03.06,Main,,0,0,0,,Không thể chuyển tới nơi mới được.
-Dialogue: 0,0:18:03.06,0:18:06.94,Main,,0,0,0,,Nhưng nhờ có ông Skinner\N mua lại toàn bộ hòn đảo.
-Dialogue: 0,0:18:06.94,0:18:11.02,Main,,0,0,0,,Chúng tôi đã có thể \Nbắt đầu cuộc sống mới.
+Dialogue: 0,0:18:03.06,0:18:06.94,Main,,0,0,0,,Nhưng nhờ có ông Skinner\N mua lại toàn bộ hòn đảo,
+Dialogue: 0,0:18:06.94,0:18:11.02,Main,,0,0,0,,{\i1}chúng tôi đã có thể \Nbắt đầu cuộc sống mới.
 Dialogue: 0,0:18:11.30,0:18:12.18,Main,,0,0,0,,Eleina.
 Dialogue: 0,0:18:12.18,0:18:15.18,Main,,0,0,0,,Em điều tra dòng tiền được không?
 Dialogue: 0,0:18:15.54,0:18:16.60,Main,,0,0,0,,{\i1}Để em thử xem.
@@ -258,27 +259,27 @@ Dialogue: 0,0:18:33.30,0:18:37.14,Main,,0,0,0,,phụ thuộc vào cách\N chúng
 Dialogue: 0,0:18:37.37,0:18:41.68,Main,,0,0,0,,Vậy... có chuyện gì \Nmà ông phải hẹn tôi ra đây?
 Dialogue: 0,0:18:44.22,0:18:47.03,Main,,0,0,0,,Tôi thấy có lỗi với cô.
 Dialogue: 0,0:18:47.49,0:18:48.24,Main,,0,0,0,,Gì cơ?
-Dialogue: 0,0:18:48.96,0:18:52.47,Main,,0,0,0,,Tôi biết tình cảm của cô\N dành cho Skinner.
-Dialogue: 0,0:18:52.47,0:18:55.99,Main,,0,0,0,,Nên nếu bị cho là đang lợi dụng\Nthì cũng đành chịu.
+Dialogue: 0,0:18:48.96,0:18:52.47,Main,,0,0,0,,Tôi biết tình cảm của cô\N dành cho Skinner,
+Dialogue: 0,0:18:52.47,0:18:55.99,Main,,0,0,0,,nên nếu bị cho là đang lợi dụng\Nthì cũng đành chịu.
 Dialogue: 0,0:18:56.18,0:18:58.06,Main,,0,0,0,,Không cần bận tâm đâu.
 Dialogue: 0,0:18:58.53,0:19:00.58,Main,,0,0,0,,Tôi không thấy bị ép buộc gì cả.
 Dialogue: 0,0:19:00.88,0:19:03.00,Main,,0,0,0,,Đây là do chính tôi quyết định.
 Dialogue: 0,0:19:04.03,0:19:05.46,Main,,0,0,0,,Cũng phải.
 Dialogue: 0,0:19:06.30,0:19:09.28,Main,,0,0,0,,Tại sao ông ấy lại khơi mào?
-Dialogue: 0,0:19:09.75,0:19:13.15,Main,,0,0,0,,Tại sao lại bỏ tôi lại mà đi?
+Dialogue: 0,0:19:09.75,0:19:13.15,Main,,0,0,0,,Tại sao lại bỏ tôi mà đi?
 Dialogue: 0,0:19:13.55,0:19:15.65,Main,,0,0,0,,Tôi nhất định phải tìm cho ra.
-Dialogue: 0,0:19:17.05,0:19:19.22,Main,@@,0,0,0,,Vụ nhà tù Arizona...
+Dialogue: 0,0:19:17.05,0:19:19.22,Main,,0,0,0,,Vụ nhà tù Arizona...
 Dialogue: 0,0:19:19.55,0:19:22.20,Main,,0,0,0,,Cục tình báo Lục quân \Nđang đánh hơi đấy.
 Dialogue: 0,0:19:22.65,0:19:23.68,Main,,0,0,0,,Vụ Axel ư?
-Dialogue: 0,0:19:23.68,0:19:28.52,Main,@@,0,0,0,,Đúng, cả vụ tai nạn \Nở sân bay Schiphol nữa.
+Dialogue: 0,0:19:23.68,0:19:28.52,Main,,0,0,0,,Đúng, cả vụ tai nạn \Nở sân bay Schiphol nữa.
 Dialogue: 0,0:19:29.42,0:19:33.91,Main,,0,0,0,,Axel chính là "ánh sáng"\N soi rọi vụ này.
 Dialogue: 0,0:19:35.20,0:19:36.93,Main,,0,0,0,,15 năm trước, Skinner...
 Dialogue: 0,0:19:36.93,0:19:40.28,Main,,0,0,0,,đã đến hòn đảo này\N và nhận cung cấp gen.
 Dialogue: 0,0:19:40.58,0:19:44.67,Main,,0,0,0,,Ở 3 hòn đảo còn lại, \Nnhờ việc Skinner mua lại đất đai,
 Dialogue: 0,0:19:44.67,0:19:48.46,Main,,0,0,0,,người dân đã có thể \Ntái định cư ở nơi khác.
 Dialogue: 0,0:19:48.46,0:19:53.71,Main,,0,0,0,,Dù sao, khả năng cao chứng "không thấy đau" đó\N là nguồn căn của Hapna.
-Dialogue: 0,0:19:53.71,0:19:56.17,Main,,0,0,0,,Thế ơi nghiên cứu gen đó ở đâu?
-Dialogue: 0,0:19:56.17,0:20:00.07,Main,@@,0,0,0,,{\i1}Là Viện nghiên cứu Hague, \Nnơi Tiến sĩ Skinner làm việc hồi đó.
+Dialogue: 0,0:19:53.71,0:19:56.17,Main,,0,0,0,,Thế nơi nghiên cứu gen đó ở đâu?
+Dialogue: 0,0:19:56.17,0:20:00.07,Main,,0,0,0,,{\i1}Là Viện nghiên cứu Hague, \Nnơi Tiến sĩ Skinner làm việc hồi đó.
 Dialogue: 0,0:20:00.53,0:20:04.44,Main,,0,0,0,,Chỗ đó đúng ra là bị đóng cửa \Nsau vụ Hapna rồi chứ.
 Dialogue: 0,0:20:04.44,0:20:07.69,Main,,0,0,0,,Để em tìm thử \Ndanh sách nghiên cứu viên lúc đó.
 Dialogue: 0,0:20:08.13,0:20:11.33,Main,,0,0,0,,Naga chắc là muốn biết.
@@ -287,9 +288,9 @@ Dialogue: 0,0:20:12.44,0:20:14.84,Main,,0,0,0,,Người giống cha của nó, t
 Dialogue: 0,0:20:14.84,0:20:17.11,Main,,0,0,0,,lại muốn làm gì ở đây.
 Dialogue: 0,0:20:17.42,0:20:18.51,Main,,0,0,0,,Kiểu như...
 Dialogue: 0,0:20:18.75,0:20:23.12,Main,,0,0,0,,chúng ta cũng đang trải nghiệm lại \Nnhững gì Skinner đã làm vậy.
-Dialogue: 0,0:20:23.50,0:20:27.08,Main,,0,0,0,,Biết đâu mục đích của lão\N lại chính là đây.
-Dialogue: 0,0:20:27.08,0:20:28.21,Main,,0,0,0,,Ý là sao?
-Dialogue: 0,0:20:28.48,0:20:32.25,Main,,0,0,0,,Rằng chúng ta phải cảm nhận \Nnhững gì lão đã cảm nhận.
+Dialogue: 0,0:20:23.50,0:20:27.08,Main,,0,0,0,,{\i1}Biết đâu mục đích của lão\N lại chính là đây.
+Dialogue: 0,0:20:27.08,0:20:28.21,Main,,0,0,0,,{\i1}Ý là sao?
+Dialogue: 0,0:20:28.48,0:20:32.25,Main,,0,0,0,,{\i1}Rằng chúng ta phải cảm nhận \Nnhững gì lão đã cảm nhận.
 Dialogue: 0,0:20:34.06,0:20:35.42,Main,,0,0,0,,Chúng ta vẫn còn...
 Dialogue: 0,0:20:35.82,0:20:39.26,Main,,0,0,0,,bị lão ta xoay như chong chóng \Ntrong lòng bàn tay à.
 Dialogue: 0,0:20:46.77,0:20:48.70,Main,,0,0,0,,Phục sinh Lazarus...
@@ -298,7 +299,7 @@ Dialogue: 0,0:20:51.26,0:20:52.56,Main,,0,0,0,,Theo cô thấy,
 Dialogue: 0,0:20:52.56,0:20:57.03,Main,,0,0,0,,Skinner có giống như\N đã bán linh hồn cho quỷ dữ không?
 Dialogue: 0,0:20:57.74,0:21:01.03,Main,,0,0,0,,Không, ông ấy không hề thay đổi.
 Dialogue: 0,0:21:01.60,0:21:06.04,Main,,0,0,0,,Từ xưa rồi, ông ấy thuộc kiểu\Nthuần khiết của thuần khiết.
-Dialogue: 0,0:21:06.50,0:21:08.98,Main,,0,0,0,,"Ông như thế \Nkhó sống ở cái xã hội này lắm"
+Dialogue: 0,0:21:06.50,0:21:08.98,Main,,0,0,0,,"Ông cứ như thế \Nthì khó sống ở cái xã hội này lắm"
 Dialogue: 0,0:21:08.98,0:21:11.44,Main,,0,0,0,,Lúc tôi bảo vậy, ông ấy trả lời...
 Dialogue: 0,0:21:11.95,0:21:14.25,Main,,0,0,0,,"Là một nhà khoa học thuần khiết...
 Dialogue: 0,0:21:14.25,0:21:16.92,Main,,0,0,0,,thì có gì là sai chứ?"
@@ -308,8 +309,8 @@ Dialogue: 0,0:21:21.72,0:21:25.43,Main,,0,0,0,,Ông ấy chắc chắn muốn đ
 Dialogue: 0,0:21:26.18,0:21:29.14,Main,,0,0,0,,Tôi cũng muốn tin là vậy.
 Dialogue: 0,0:21:31.36,0:21:32.90,Main,,0,0,0,,Tìm thấy kho lưu trữ rồi.
 Dialogue: 0,0:21:33.28,0:21:36.14,Main,,0,0,0,,Đây là danh sách nghiên cứu viên\N của Viện Hague.
-Dialogue: 0,0:21:39.57,0:21:40.38,Main,,0,0,0,,Sao vậy?
+Dialogue: 0,0:21:39.57,0:21:40.38,Main,,0,0,0,,{\i1}Sao vậy?
 Dialogue: 0,0:21:41.12,0:21:43.49,Main,,0,0,0,,À thì... à...
 Dialogue: 0,0:21:44.88,0:21:45.76,Main,,0,0,0,,Tại sao?
-Dialogue: 0,0:22:10.14,0:22:11.47,Main,@@,0,0,0,,Alexandra...
-Dialogue: 0,0:22:12.58,0:22:13.73,Main,@@,0,0,0,,phải không?
+Dialogue: 0,0:22:10.14,0:22:11.47,Main,,0,0,0,,Alexandra...
+Dialogue: 0,0:22:12.58,0:22:13.73,Main,,0,0,0,,Đúng chứ?

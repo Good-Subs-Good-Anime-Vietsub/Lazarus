@@ -6,10 +6,17 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 36
+Audio File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
+Video File: ../raws/Lazarus.S01E07.Almost.Blue.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.437500
+Video Position: 32129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
