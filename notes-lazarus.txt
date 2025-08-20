@@ -4,7 +4,7 @@ Lazarus
 Hapna
 
 Axel Gilberto, 
-Hersch, Leland, Christine, Eleina
+Hersch, Leland Astor, Christine Blake, Eleina
 Doug, Abel, Skinner
 Douglas Hadine
 Deniz Skinner
@@ -47,5 +47,8 @@ Schiphol
 Hague
 Alexandra
 Inga
-Christine Blake
+
 Sashenka
+Schneider
+
+Eyman
