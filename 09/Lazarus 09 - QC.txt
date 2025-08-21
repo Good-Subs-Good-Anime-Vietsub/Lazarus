@@ -1,9 +1,13 @@
 họ đang rất bị nghi ngờ\N về vụ cháy giếng dầu ở Nga.
 {"rất bị nghi ngờ" đọc không ổn, "là nghi phạm chính" hoặc "bị nghi ngờ có liên quan" ok hơn}
+*HAY
 
 chưa hiểu lắm đoạn chỗ dùng Soryu với Song Long
+*anh nhầm, Kanji là Song Long, nhưng có vẻ vẫn nên dùng Soryu.
 
 hy vọng sẽ vĩnh viễn biến mất.
 {thì hy vọng}
 
 1 vài lỗi linh tinh e sửa luôn vào file r
+
+DONE
